@@ -1,0 +1,1867 @@
+chr	position	ref_allele	mut_allele	mut_reads	total_reads	variant_allele_fraction	coding_noncoding	germline_status	hotspot_status	quality_pass_fail	Gene	AA_change	Transcript
+chr1.fa	110456866	C	A	854	1878	0.45474	noncoding	germline	non_hotspot	fail	CSF1	N/A	CCDS816.1
+chr1.fa	110466338	C	A	3444	6899	0.49920	coding	germline	non_hotspot	fail	CSF1	N/A	CCDS816.1
+chr1.fa	110466466	T	C	3513	7067	0.49710	coding	germline	non_hotspot	fail	CSF1	L408P	CCDS816.1
+chr1.fa	110466535	C	T	3460	6943	0.49834	coding	germline	non_hotspot	pass	CSF1	S431L	CCDS816.1
+chr1.fa	110466709	T	C	5032	5035	0.99940	coding	germline	non_hotspot	fail	CSF1	F489S	CCDS816.1
+chr1.fa	11205058	C	T	871	874	0.99657	coding	germline	non_hotspot	fail	MTOR	N/A	CCDS127.1
+chr1.fa	11288758	G	A	1436	1437	0.99930	coding	germline	non_hotspot	fail	MTOR	N/A	CCDS127.1
+chr1.fa	11301714	A	G	1866	1873	0.99626	coding	germline	non_hotspot	fail	MTOR	N/A	CCDS127.1
+chr1.fa	11316095	G	A	6	2119	0.00283	coding	not_germline	non_hotspot	fail	MTOR	T220I	CCDS127.1
+chr1.fa	11317099	C	T	1290	2773	0.46520	coding	germline	non_hotspot	pass	MTOR	R132H	CCDS127.1
+chr1.fa	117690272	G	A	495	495	1.00000	noncoding	germline	non_hotspot	fail	VTCN1	N/A	NM_001253849
+chr1.fa	118165691	C	T	4845	4849	0.99918	coding	germline	non_hotspot	fail	FAM46C	N/A	CCDS896.1
+chr1.fa	120057246	C	A	721	723	0.99723	coding	germline	non_hotspot	fail	HSD3B1	T367N	CCDS903.1
+chr1.fa	120460309	G	A	5	687	0.00728	coding	not_germline	non_hotspot	fail	NOTCH2	N/A	CCDS908.1
+chr1.fa	120464353	G	(null)	3	456	0.00658	coding	not_germline	non_hotspot	fail	NOTCH2	Q1765Sfs*5	CCDS908.1
+chr1.fa	120497754	C	T	29	2207	0.01314	coding	not_germline	non_hotspot	fail	NOTCH2	E710K	CCDS908.1
+chr1.fa	120612006	G	C	886	4044	0.21909	coding	germline	non_hotspot	fail	NOTCH2	N/A	CCDS908.1
+chr1.fa	155870416	G	A	362	362	1.00000	noncoding	germline	non_hotspot	fail	RIT1	N/A	CCDS58037.1
+chr1.fa	155880573	C	G	1921	1921	1.00000	coding	germline	non_hotspot	fail	RIT1	E11Q	CCDS58037.1
+chr1.fa	156841702	C	T	539	4117	0.13092	noncoding	not_germline	non_hotspot	pass	NTRK1	N/A	CCDS1161.1
+chr1.fa	156842020	A	(null)	2	231	0.00866	noncoding	not_germline	non_hotspot	fail	NTRK1	N/A	CCDS1161.1
+chr1.fa	156842792	A	G	55	126	0.43651	noncoding	germline	non_hotspot	pass	NTRK1	N/A	CCDS1161.1
+chr1.fa	156843433	A	T	42	4282	0.00981	coding	not_germline	non_hotspot	fail	NTRK1	S287C	CCDS1161.1
+chr1.fa	156846233	G	A	2655	5679	0.46751	coding	germline	non_hotspot	fail	NTRK1	N/A	CCDS1161.1
+chr1.fa	156848918	C	T	553	1177	0.46984	coding	germline	non_hotspot	pass	NTRK1	H604Y	CCDS1161.1
+chr1.fa	156848946	G	T	861	1843	0.46717	coding	germline	non_hotspot	pass	NTRK1	G613V	CCDS1161.1
+chr1.fa	156848995	C	T	2969	2969	1.00000	coding	germline	non_hotspot	fail	NTRK1	N/A	CCDS1161.1
+chr1.fa	158582646	T	C	669	670	0.99851	coding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158583526	G	A	110	871	0.12629	coding	not_germline	non_hotspot	pass	SPTA1	A2325V	CCDS41423.1
+chr1.fa	158607935	T	G	564	564	1.00000	coding	germline	non_hotspot	fail	SPTA1	K1693Q	CCDS41423.1
+chr1.fa	158612236	A	G	682	682	1.00000	coding	germline	non_hotspot	fail	SPTA1	C1568R	CCDS41423.1
+chr1.fa	158614131	G	A	139	929	0.14962	coding	not_germline	non_hotspot	pass	SPTA1	S1417F	CCDS41423.1
+chr1.fa	158615192	G	A	99	559	0.17710	noncoding	not_germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158615308	C	A	5	792	0.00631	coding	not_germline	non_hotspot	fail	SPTA1	E1325*	CCDS41423.1
+chr1.fa	158618455	G	A	569	569	1.00000	noncoding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158619728	A	C	371	371	1.00000	coding	germline	non_hotspot	fail	SPTA1	S1163A	CCDS41423.1
+chr1.fa	158626378	C	T	271	271	1.00000	coding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158627350	G	T	5	787	0.00635	coding	not_germline	non_hotspot	fail	SPTA1	L908M	CCDS41423.1
+chr1.fa	158631171	A	C	683	684	0.99854	coding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158632541	C	T	82	613	0.13377	coding	not_germline	non_hotspot	pass	SPTA1	N/A	CCDS41423.1
+chr1.fa	158647495	A	T	576	577	0.99827	coding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158647631	T	A	532	532	1.00000	noncoding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	158655036	G	A	1264	1264	1.00000	coding	germline	non_hotspot	fail	SPTA1	N/A	CCDS41423.1
+chr1.fa	16246018	C	T	476	1085	0.43871	noncoding	germline	non_hotspot	pass	SPEN	N/A	CCDS164.1
+chr1.fa	16257315	C	A	4	622	0.00643	coding	not_germline	non_hotspot	fail	SPEN	A1527D	CCDS164.1
+chr1.fa	16263736	T	A	47	3163	0.01486	coding	not_germline	non_hotspot	fail	SPEN	C3369S	CCDS164.1
+chr1.fa	16464673	G	A	2244	4597	0.48814	coding	germline	non_hotspot	fail	EPHA2	N/A	CCDS169.1
+chr1.fa	17380497	G	T	2291	2292	0.99956	coding	germline	non_hotspot	fail	SDHB	N/A	CCDS176.1
+chr1.fa	179077984	C	T	7	2352	0.00298	coding	not_germline	non_hotspot	fail	ABL2	N/A	CCDS30947.1
+chr1.fa	179089429	A	G	3	230	0.01304	noncoding	not_germline	non_hotspot	fail	ABL2	N/A	CCDS30947.1
+chr1.fa	179100546	G	(null)	3	995	0.00302	coding	not_germline	non_hotspot	fail	ABL2	K98Rfs*22	CCDS30947.1
+chr1.fa	193219856	T	C	3	152	0.01974	noncoding	not_germline	non_hotspot	fail	CDC73	N/A	NM_024529
+chr1.fa	204396830	G	A	567	1185	0.47848	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204399061	A	G	2833	6253	0.45306	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204399064	G	A	3046	6480	0.47006	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204402914	T	G	977	1970	0.49594	noncoding	germline	non_hotspot	pass	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204403659	A	G	1473	2900	0.50793	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204418432	G	A	166	1408	0.11790	noncoding	not_germline	non_hotspot	pass	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204425028	G	A	1984	4104	0.48343	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204438334	C	T	2169	2170	0.99954	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204438643	G	T	3138	3142	0.99873	coding	germline	non_hotspot	fail	PIK3C2B	N/A	CCDS1446.1
+chr1.fa	204512075	A	G	3	355	0.00845	noncoding	not_germline	non_hotspot	fail	MDM4	N/A	CCDS1447.1
+chr1.fa	204516025	A	G	418	418	1.00000	noncoding	germline	non_hotspot	fail	MDM4	N/A	CCDS1447.1
+chr1.fa	206647742	A	G	3952	3952	1.00000	coding	germline	non_hotspot	fail	IKBKE	N/A	CCDS30996.1
+chr1.fa	206647787	T	C	3619	3625	0.99835	coding	germline	non_hotspot	fail	IKBKE	N/A	CCDS30996.1
+chr1.fa	206651107	G	A	2086	4246	0.49129	coding	germline	non_hotspot	fail	IKBKE	N/A	CCDS30996.1
+chr1.fa	206669465	C	T	494	1152	0.42882	coding	germline	non_hotspot	fail	IKBKE	P713L	CCDS30996.1
+chr1.fa	206944233	A	G	1582	1582	1.00000	noncoding	germline	non_hotspot	fail	IL10	N/A	CCDS1467.1
+chr1.fa	226259111	T	C	21	415	0.05060	coding	germline	non_hotspot	fail	H3F3A	N/A	CCDS1550.1
+chr1.fa	226566827	C	T	9	1854	0.00485	noncoding	not_germline	non_hotspot	fail	PARP1	N/A	CCDS1554.1
+chr1.fa	226570840	T	C	1806	1806	1.00000	coding	germline	non_hotspot	fail	PARP1	N/A	CCDS1554.1
+chr1.fa	23885498	T	C	822	1666	0.49340	coding	germline	non_hotspot	fail	ID3	T105A	CCDS237.1
+chr1.fa	241672071	A	G	3	249	0.01205	coding	not_germline	non_hotspot	fail	FH	N/A	CCDS1617.1
+chr1.fa	243777028	G	A	16	100	0.16000	coding	not_germline	non_hotspot	pass	AKT3	S214F	CCDS31077.1
+chr1.fa	243778479	A	G	2	97	0.02062	noncoding	not_germline	non_hotspot	fail	AKT3	N/A	CCDS31077.1
+chr1.fa	2488153	A	G	1179	2422	0.48679	coding	germline	non_hotspot	fail	TNFRSF14	K17R	CCDS44046.1
+chr1.fa	27057885	G	C	22	4721	0.00466	coding	not_germline	non_hotspot	fail	ARID1A	N/A	CCDS285.1
+chr1.fa	40363054	G	C	987	989	0.99798	coding	germline	non_hotspot	fail	MYCL	T392S	CCDS53300.1
+chr1.fa	43814541	G	A	302	2370	0.12743	coding	not_germline	non_hotspot	pass	MPL	G446R	CCDS483.1
+chr1.fa	46521517	G	A	520	520	1.00000	coding	germline	non_hotspot	fail	PIK3R3	N/A	CCDS529.1
+chr1.fa	46521559	A	T	431	431	1.00000	coding	germline	non_hotspot	fail	PIK3R3	N283K	CCDS529.1
+chr1.fa	46521595	A	G	4	366	0.01093	coding	not_germline	non_hotspot	fail	PIK3R3	N/A	CCDS529.1
+chr1.fa	51439851	C	A	7	5011	0.00140	coding	not_germline	non_hotspot	fail	CDKN2C	T139N	CCDS555.1
+chr1.fa	65310489	T	C	1987	3889	0.51093	coding	germline	non_hotspot	fail	JAK1	N/A	CCDS41346.1
+chr1.fa	65321388	G	A	818	1634	0.50061	noncoding	germline	non_hotspot	fail	JAK1	N/A	CCDS41346.1
+chr1.fa	65344812	G	A	4	1115	0.00359	coding	not_germline	non_hotspot	fail	JAK1	N/A	CCDS41346.1
+chr1.fa	78429408	G	C	296	606	0.48845	noncoding	germline	non_hotspot	fail	FUBP1	N/A	CCDS683.1
+chr1.fa	78432394	T	A	2	186	0.01075	coding	not_germline	non_hotspot	fail	FUBP1	T153S	CCDS683.1
+chr10.fa	101502996	C	T	133	1067	0.12465	coding	not_germline	non_hotspot	fail		R94C	CCDS7483.1
+chr10.fa	104264107	C	T	1072	2834	0.37826	noncoding	germline	non_hotspot	fail	SUFU	N/A	CCDS53571.1
+chr10.fa	104387019	T	C	369	370	0.99730	noncoding	germline	non_hotspot	fail	SUFU	N/A	CCDS7537.1
+chr10.fa	104389932	T	G	2351	2352	0.99958	noncoding	germline	non_hotspot	fail	SUFU	N/A	NM_016169
+chr10.fa	104592249	A	C	1785	3635	0.49106	noncoding	germline	non_hotspot	fail	CYP17A1	N/A	CCDS7541.1
+chr10.fa	104596924	C	A	967	2197	0.44015	coding	germline	non_hotspot	fail	CYP17A1	N/A	CCDS7541.1
+chr10.fa	104596966	G	T	8	2805	0.00285	coding	not_germline	non_hotspot	fail	CYP17A1	N51K	CCDS7541.1
+chr10.fa	104596981	G	A	1327	2965	0.44756	coding	germline	non_hotspot	fail	CYP17A1	N/A	CCDS7541.1
+chr10.fa	104849468	G	A	488	488	1.00000	coding	germline	non_hotspot	fail	NT5C2	N/A	CCDS7544.1
+chr10.fa	123194609	T	C	439	439	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123198029	A	T	613	1299	0.47190	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123199095	A	G	488	937	0.52081	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123199117	T	C	511	1022	0.50000	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123199511	G	A	38	335	0.11343	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr10.fa	123239112	G	A	986	2162	0.45606	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123239406	G	A	155	1445	0.10727	coding	not_germline	non_hotspot	pass	FGFR2	Q811*	CCDS31298.1
+chr10.fa	123240287	T	C	842	842	1.00000	noncoding	germline	non_hotspot	pass	FGFR2	N/A	CCDS31298.1
+chr10.fa	123242026	T	C	186	186	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123242724	T	C	331	331	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123242780	G	C	431	432	0.99769	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123243197	G	A	859	859	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123244977	C	T	102	1203	0.08479	coding	not_germline	non_hotspot	pass	FGFR2	N/A	CCDS31298.1
+chr10.fa	123274682	C	T	132	1351	0.09771	coding	not_germline	non_hotspot	pass	FGFR2	N/A	CCDS31298.1
+chr10.fa	123275662	T	C	223	223	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123298148	C	T	89	908	0.09802	coding	not_germline	non_hotspot	pass	FGFR2	E236K	CCDS31298.1
+chr10.fa	123298158	T	C	455	879	0.51763	coding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123310896	G	A	193	2212	0.08725	coding	not_germline	non_hotspot	pass	FGFR2	R178C	CCDS31298.1
+chr10.fa	123329429	T	G	743	743	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123334863	T	C	620	622	0.99679	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123334930	G	A	396	803	0.49315	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123335800	A	G	938	938	1.00000	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123335830	C	(null)	3	1192	0.00252	noncoding	not_germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123335866	T	C	581	1133	0.51280	noncoding	germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123337202	C	T	39	296	0.13176	noncoding	not_germline	non_hotspot	fail	FGFR2	N/A	CCDS31298.1
+chr10.fa	123396715	A	G	583	585	0.99658	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123396806	G	T	383	383	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123396931	G	A	298	298	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	123406663	T	C	463	941	0.49203	noncoding	germline	non_hotspot	fail		N/A	-
+chr10.fa	32309971	T	C	3	226	0.01327	coding	not_germline	non_hotspot	fail		K728R	CCDS7171.1
+chr10.fa	33209266	G	T	339	339	1.00000	coding	germline	non_hotspot	fail		N/A	CCDS7174.1
+chr10.fa	43595968	A	G	5085	5090	0.99902	coding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43597827	C	A	1666	3348	0.49761	coding	germline	non_hotspot	pass	RET	N/A	CCDS7200.1
+chr10.fa	43601913	C	T	604	4250	0.14212	coding	not_germline	non_hotspot	pass	RET	N/A	CCDS7200.1
+chr10.fa	43606687	A	G	711	1436	0.49513	coding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43608522	G	C	2054	4238	0.48466	noncoding	germline	non_hotspot	pass	RET	N/A	CCDS7200.1
+chr10.fa	43608693	G	A	529	4666	0.11337	noncoding	not_germline	non_hotspot	pass	RET	N/A	CCDS7200.1
+chr10.fa	43610366	G	A	2091	2092	0.99952	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43610455	T	C	3282	3288	0.99818	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43610558	C	T	3627	3628	0.99972	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43611708	A	G	2981	2985	0.99866	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43611865	T	C	5151	5160	0.99826	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43613843	G	T	1546	1546	1.00000	coding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	43615628	G	A	156	1762	0.08854	coding	not_germline	non_hotspot	pass	RET	D903N	CCDS7200.1
+chr10.fa	43622217	T	C	988	992	0.99597	noncoding	germline	non_hotspot	fail	RET	N/A	CCDS7200.1
+chr10.fa	50678317	C	G	786	788	0.99746	coding	germline	non_hotspot	pass	ERCC6	R1230P	CCDS7229.1
+chr10.fa	50691516	G	A	4	536	0.00746	coding	not_germline	non_hotspot	fail	ERCC6	T623I	CCDS7229.1
+chr10.fa	50701156	G	A	511	511	1.00000	noncoding	germline	non_hotspot	fail	ERCC6	N/A	CCDS7229.1
+chr10.fa	50732280	C	T	1419	1420	0.99930	coding	germline	non_hotspot	fail	ERCC6	G399D	CCDS7229.1
+chr10.fa	70332580	A	G	319	726	0.43939	coding	germline	non_hotspot	fail	TET1	D162G	CCDS7281.1
+chr10.fa	70333730	C	T	10	1025	0.00976	coding	not_germline	non_hotspot	fail	TET1	N/A	CCDS7281.1
+chr10.fa	70451585	C	T	51	338	0.15089	noncoding	not_germline	non_hotspot	fail	TET1	N/A	NM_030625
+chr10.fa	8100497	G	C	25	4870	0.00513	coding	not_germline	non_hotspot	fail	GATA3	N/A	CCDS31143.1
+chr10.fa	88679200	C	T	189	466	0.40558	coding	germline	non_hotspot	pass	BMPR1A	N/A	CCDS7378.1
+chr10.fa	89623861	T	(null)	1793	1453	1.23400	noncoding	germline	non_hotspot	fail	PTEN	N/A	CCDS31238.1
+chr10.fa	89623901	G	C	1254	1261	0.99445	noncoding	not_germline	non_hotspot	fail	PTEN	N/A	CCDS31238.1
+chr11.fa	108115569	C	T	2	236	0.00847	coding	not_germline	non_hotspot	fail	ATM	N/A	CCDS31669.1
+chr11.fa	118369222	T	C	3	411	0.00730	coding	not_germline	non_hotspot	fail	KMT2A	N/A	CCDS31686.1
+chr11.fa	118373304	A	T	5	883	0.00566	coding	not_germline	non_hotspot	fail	KMT2A	T2230S	CCDS31686.1
+chr11.fa	22646381	G	A	203	1415	0.14346	coding	not_germline	non_hotspot	pass	FANCF	N/A	CCDS7857.1
+chr11.fa	22646590	G	A	388	2645	0.14669	coding	not_germline	non_hotspot	pass	FANCF	P256L	CCDS7857.1
+chr11.fa	22647366	G	A	1485	2945	0.50425	noncoding	germline	non_hotspot	fail	FANCF	N/A	NM_022725
+chr11.fa	2906179	C	G	2	130	0.01538	coding	not_germline	non_hotspot	fail	CDKN1C	A181P	CCDS7738.1
+chr11.fa	32456694	C	A	1416	2869	0.49355	coding	germline	non_hotspot	fail	WT1	N/A	CCDS7878.2
+chr11.fa	44129781	G	C	641	1193	0.53730	coding	germline	non_hotspot	pass	EXT2	N/A	CCDS53618.1
+chr11.fa	44151577	T	A	386	386	1.00000	noncoding	germline	non_hotspot	fail	EXT2	N/A	CCDS53618.1
+chr11.fa	44228357	A	(null)	3	313	0.00958	coding	not_germline	non_hotspot	fail	EXT2	I538Sfs*5	CCDS53618.1
+chr11.fa	47238522	T	C	1959	1967	0.99593	coding	germline	non_hotspot	fail	DDB2	N/A	CCDS7927.1
+chr11.fa	47259434	C	T	631	1191	0.52981	coding	not_germline	non_hotspot	pass	DDB2	P357L	CCDS7927.1
+chr11.fa	47745589	T	C	344	597	0.57621	coding	germline	non_hotspot	fail		I819V	CCDS41644.1
+chr11.fa	64127744	A	G	891	1733	0.51414	coding	germline	non_hotspot	fail	RPS6KA4	N/A	CCDS8073.1
+chr11.fa	64129014	A	T	13	3207	0.00405	coding	not_germline	non_hotspot	fail	RPS6KA4	H215L	CCDS8073.1
+chr11.fa	64137875	T	C	1232	2518	0.48928	noncoding	germline	non_hotspot	fail	RPS6KA4	N/A	CCDS8073.1
+chr11.fa	64138805	T	C	2232	4533	0.49239	coding	germline	non_hotspot	fail	RPS6KA4	N/A	CCDS8073.1
+chr11.fa	64572018	T	C	3960	3971	0.99723	coding	germline	non_hotspot	fail	MEN1	T541A	CCDS31600.1
+chr11.fa	64572557	A	G	5021	5034	0.99742	coding	germline	non_hotspot	fail	MEN1	N/A	CCDS31600.1
+chr11.fa	64572602	G	A	2536	5198	0.48788	coding	germline	non_hotspot	fail	MEN1	N/A	CCDS31600.1
+chr11.fa	67200819	C	T	2500	2502	0.99920	coding	germline	non_hotspot	fail	RPS6KB2	N/A	CCDS41677.1
+chr11.fa	67202044	G	A	5055	5073	0.99645	noncoding	germline	non_hotspot	fail	RPS6KB2	N/A	CCDS41677.1
+chr11.fa	67202156	C	T	4318	4319	0.99977	coding	germline	non_hotspot	fail	RPS6KB2	A420V	CCDS41677.1
+chr11.fa	69408469	T	C	1341	2745	0.48853	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69410305	C	T	1841	3942	0.46702	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69410360	T	G	2271	4694	0.48381	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69412012	C	G	1970	4236	0.46506	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69412124	T	G	1790	3601	0.49708	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69412143	A	C	1640	3426	0.47869	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69412211	G	A	1470	3041	0.48339	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69425281	T	G	79	579	0.13644	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr11.fa	69446719	T	C	973	1782	0.54602	noncoding	germline	non_hotspot	fail		N/A	-
+chr11.fa	69453125	G	C	34	1085	0.03134	noncoding	not_germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69453143	G	C	27	1743	0.01549	noncoding	not_germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69453230	T	C	2233	4505	0.49567	noncoding	germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69456076	C	T	477	3403	0.14017	noncoding	not_germline	non_hotspot	pass	CCND1	N/A	CCDS8191.1
+chr11.fa	69462642	G	A	2014	4171	0.48286	noncoding	germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69462910	G	A	1159	2478	0.46772	coding	germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69466115	C	A	2566	5317	0.48260	noncoding	germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69466737	C	G	1240	2698	0.45960	noncoding	germline	non_hotspot	fail	CCND1	N/A	CCDS8191.1
+chr11.fa	69508082	C	T	614	1156	0.53114	noncoding	germline	non_hotspot	fail	FGF19	N/A	NM_005117
+chr11.fa	69512761	C	T	2476	2476	1.00000	noncoding	germline	non_hotspot	fail	FGF19	N/A	CCDS8193.1
+chr11.fa	69513338	A	G	2327	2337	0.99572	noncoding	germline	non_hotspot	fail	FGF19	N/A	NM_005117
+chr11.fa	69515423	G	A	1804	1804	1.00000	noncoding	germline	non_hotspot	fail	FGF19	N/A	CCDS8193.1
+chr11.fa	69515535	(null)	CCAGG	1041	1707	0.60984	noncoding	germline	non_hotspot	fail	FGF19	N/A	CCDS8193.1
+chr11.fa	69515535	(null)	CNAGG	83	1707	0.04862	noncoding	not_germline	non_hotspot	fail	FGF19	N/A	CCDS8193.1
+chr11.fa	69515696	G	A	2335	5010	0.46607	noncoding	germline	non_hotspot	fail	FGF19	N/A	CCDS8193.1
+chr11.fa	76237632	A	(null)	3	500	0.00600	coding	not_germline	non_hotspot	fail	C11orf30	I651Sfs*23	CCDS8244.1
+chr11.fa	76257215	T	C	965	1856	0.51994	coding	germline	non_hotspot	fail	C11orf30	N/A	CCDS8244.1
+chr11.fa	77051820	C	T	325	679	0.47865	noncoding	germline	non_hotspot	fail	PAK1	N/A	CCDS44687.1
+chr11.fa	77091015	C	G	3	388	0.00773	coding	not_germline	non_hotspot	fail	PAK1	R72P	CCDS44687.1
+chr11.fa	8246181	A	G	1713	1715	0.99883	coding	germline	non_hotspot	fail	LMO1	N/A	CCDS44534.1
+chr11.fa	85963175	A	T	2	230	0.00870	noncoding	not_germline	non_hotspot	fail	EED	N/A	CCDS8273.1
+chr11.fa	94209454	C	T	2	134	0.01493	coding	not_germline	non_hotspot	fail	MRE11A	N/A	CCDS8299.1
+chr12.fa	102869596	G	A	447	2868	0.15586	noncoding	not_germline	non_hotspot	fail	IGF1	N/A	CCDS44960.1
+chr12.fa	1035947	C	A	1559	1560	0.99936	noncoding	germline	non_hotspot	fail	RAD52	N/A	CCDS8507.2
+chr12.fa	1040373	T	C	553	1142	0.48424	noncoding	germline	non_hotspot	fail	RAD52	N/A	CCDS8507.2
+chr12.fa	112942579	C	T	4	146	0.02740	noncoding	not_germline	non_hotspot	fail	PTPN11	N/A	CCDS9163.1
+chr12.fa	12008218	C	T	480	1110	0.43243	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12009529	A	G	987	1935	0.51008	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12010736	C	T	969	970	0.99897	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12011330	(null)	AA	1	67	0.01493	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12011520	G	A	737	1439	0.51216	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12011765	GAG	(null)	689	1528	0.45092	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12011772	A	G	688	1506	0.45684	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12012681	T	C	590	1244	0.47428	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12012801	A	G	1903	1908	0.99738	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12013189	A	G	1943	3898	0.49846	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12013292	G	A	1272	2707	0.46989	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12013985	C	A	2306	2307	0.99957	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12014424	G	A	2004	4253	0.47120	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12014774	T	C	974	1947	0.50026	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12014808	T	C	1033	2024	0.51038	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12015401	G	A	1198	1200	0.99833	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12016045	C	T	766	1919	0.39917	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12016807	G	A	1456	3054	0.47675	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12017285	T	C	900	902	0.99778	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12017688	(null)	AAA	2	405	0.00494	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12017753	A	G	529	1123	0.47106	noncoding	germline	non_hotspot	pass	ETV6	N/A	CCDS8643.1
+chr12.fa	12018349	T	C	250	548	0.45620	noncoding	germline	non_hotspot	pass	ETV6	N/A	CCDS8643.1
+chr12.fa	12020114	C	T	518	518	1.00000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12020170	C	T	560	560	1.00000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12022176	(null)	AAAA	2	358	0.00559	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12023023	C	G	3183	3187	0.99875	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12023773	C	A	1424	1424	1.00000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12023843	C	A	1205	2533	0.47572	noncoding	germline	non_hotspot	pass	ETV6	N/A	CCDS8643.1
+chr12.fa	12023941	C	T	4705	4707	0.99958	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12025110	A	G	1839	3781	0.48638	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12025428	C	T	5	67	0.07463	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12025429	(null)	T	1	67	0.01493	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12025429	(null)	TT	2	67	0.02985	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12026227	A	C	823	1709	0.48157	noncoding	not_germline	non_hotspot	pass	ETV6	N/A	CCDS8643.1
+chr12.fa	12026667	G	(null)	3	1527	0.00196	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12026871	A	G	860	1691	0.50858	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12027492	GTATGTGC	(null)	2	5	0.40000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12028142	A	C	219	506	0.43281	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12028157	G	T	341	657	0.51903	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12029748	G	A	1625	1625	1.00000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12029825	AG	(null)	3	1365	0.00220	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12030052	A	C	454	454	1.00000	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12030117	A	G	819	820	0.99878	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12030306	A	G	1621	1623	0.99877	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12031465	A	C	2287	4806	0.47586	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12031762	G	A	671	767	0.87484	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12031783	G	A	536	948	0.56540	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12033442	T	(null)	711	1368	0.51974	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12033536	C	T	740	1501	0.49301	noncoding	germline	non_hotspot	pass	ETV6	N/A	CCDS8643.1
+chr12.fa	12033570	C	G	792	1561	0.50737	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12033871	C	T	912	1924	0.47401	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12034148	G	T	6	1052	0.00570	noncoding	not_germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	12034979	G	C	783	1652	0.47397	noncoding	germline	non_hotspot	fail	ETV6	N/A	CCDS8643.1
+chr12.fa	121416650	A	C	1635	3425	0.47737	coding	germline	non_hotspot	fail	HNF1A	I27L	CCDS9209.1
+chr12.fa	121435342	C	T	3135	6545	0.47899	coding	germline	non_hotspot	fail	HNF1A	N/A	CCDS9209.1
+chr12.fa	121435427	G	A	2494	5629	0.44306	coding	germline	non_hotspot	fail	HNF1A	S487N	CCDS9209.1
+chr12.fa	121435475	G	A	2164	4631	0.46729	noncoding	germline	non_hotspot	fail	HNF1A	N/A	CCDS9209.1
+chr12.fa	121437382	A	G	3643	3649	0.99836	coding	germline	non_hotspot	fail	HNF1A	S574G	CCDS9209.1
+chr12.fa	12871099	T	G	2111	4158	0.50770	coding	germline	non_hotspot	fail	CDKN1B	V109G	CCDS8653.1
+chr12.fa	12871753	G	A	4	574	0.00697	noncoding	not_germline	non_hotspot	fail	CDKN1B	N/A	CCDS8653.1
+chr12.fa	133202215	G	A	1745	3701	0.47149	noncoding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	133208979	T	C	831	1679	0.49494	coding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	133219831	T	C	1964	3741	0.52499	coding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	133220415	G	A	215	1750	0.12286	noncoding	not_germline	non_hotspot	pass	POLE	N/A	CCDS9278.1
+chr12.fa	133233705	T	C	1578	1581	0.99810	noncoding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	133236000	C	T	912	1868	0.48822	coding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	133237690	G	A	254	2360	0.10763	coding	not_germline	non_hotspot	pass	POLE	N/A	CCDS9278.1
+chr12.fa	133252796	C	G	313	658	0.47568	noncoding	germline	non_hotspot	fail	POLE	N/A	CCDS9278.1
+chr12.fa	15637129	G	A	42	412	0.10194	coding	not_germline	non_hotspot	pass	PTPRO	N/A	CCDS8675.1
+chr12.fa	15677757	C	T	3	470	0.00638	coding	not_germline	non_hotspot	fail	PTPRO	A634V	CCDS8675.1
+chr12.fa	18435303	C	T	109	839	0.12992	coding	not_germline	non_hotspot	pass	PIK3C2G	N/A	CCDS44839.1
+chr12.fa	18499777	C	G	692	692	1.00000	noncoding	germline	non_hotspot	fail	PIK3C2G	N/A	CCDS44839.1
+chr12.fa	18644373	G	A	21	196	0.10714	noncoding	not_germline	non_hotspot	fail	PIK3C2G	N/A	CCDS44839.1
+chr12.fa	25368462	C	T	382	384	0.99479	coding	germline	non_hotspot	fail	KRAS	N/A	NM_033360
+chr12.fa	30872178	G	A	430	923	0.46587	noncoding	germline	non_hotspot	fail		N/A	CCDS41766.2
+chr12.fa	31944691	A	C	2482	2508	0.98963	noncoding	germline	non_hotspot	fail	H3F3C	N/A	NM_001013699
+chr12.fa	4333163	A	G	1093	1096	0.99726	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	4346169	G	T	640	640	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	4348103	C	A	619	622	0.99518	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	4368650	(null)	TTTTTTTTT	3	77	0.03896	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr12.fa	4399036	A	G	1532	2778	0.55148	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4399917	G	A	1145	1145	1.00000	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4399918	A	C	1139	1144	0.99563	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4402778	C	T	154	986	0.15619	noncoding	not_germline	non_hotspot	pass	CCND2	N/A	CCDS8524.1
+chr12.fa	4402817	A	G	571	1143	0.49956	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4405675	T	C	1532	1536	0.99740	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4405686	A	G	821	1586	0.51765	noncoding	germline	non_hotspot	fail	CCND2	N/A	CCDS8524.1
+chr12.fa	4411742	C	T	130	983	0.13225	noncoding	not_germline	non_hotspot	pass	CCND2	N/A	CCDS8524.1
+chr12.fa	4416181	G	A	3	207	0.01449	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr12.fa	4416304	A	G	523	524	0.99809	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	4420525	A	G	830	831	0.99880	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	4442282	A	G	353	353	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS8525.1
+chr12.fa	4553332	A	G	835	1654	0.50484	coding	germline	non_hotspot	fail	FGF6	N/A	CCDS8527.1
+chr12.fa	4553383	A	G	840	1675	0.50149	coding	germline	non_hotspot	fail	FGF6	N/A	CCDS8527.1
+chr12.fa	4554548	G	C	7617	7631	0.99817	coding	germline	non_hotspot	fail	FGF6	N/A	CCDS8527.1
+chr12.fa	46215195	T	(null)	1	35	0.02857	noncoding	not_germline	non_hotspot	fail	ARID2	N/A	CCDS31783.1
+chr12.fa	46230571	C	T	49	405	0.12099	coding	not_germline	non_hotspot	pass	ARID2	R274*	CCDS31783.1
+chr12.fa	46244997	C	T	293	2417	0.12123	coding	not_germline	non_hotspot	pass	ARID2	Q1031*	CCDS31783.1
+chr12.fa	46245183	C	T	280	2450	0.11429	coding	not_germline	non_hotspot	pass	ARID2	P1093S	CCDS31783.1
+chr12.fa	464330	A	T	3	549	0.00546	coding	not_germline	non_hotspot	fail	KDM5A	N/A	CCDS41736.1
+chr12.fa	49416047	C	(null)	626	1220	0.51312	noncoding	germline	non_hotspot	fail	KMT2D	N/A	CCDS44873.1
+chr12.fa	49425978	T	C	1604	3327	0.48212	coding	germline	non_hotspot	fail	KMT2D	N/A	CCDS44873.1
+chr12.fa	49426772	GCTGCT	(null)	3	232	0.01293	coding	not_germline	non_hotspot	fail	KMT2D	Q3904_Q3905del	CCDS44873.1
+chr12.fa	49426796	G	A	3	325	0.00923	coding	not_germline	non_hotspot	fail	KMT2D	Q3898*	CCDS44873.1
+chr12.fa	49427652	C	T	1276	2557	0.49902	coding	germline	non_hotspot	fail	KMT2D	N/A	CCDS44873.1
+chr12.fa	49427919	T	C	1438	2918	0.49280	coding	germline	non_hotspot	pass	KMT2D	N/A	CCDS44873.1
+chr12.fa	49431587	G	A	416	3628	0.11466	coding	not_germline	non_hotspot	pass	KMT2D	N/A	CCDS44873.1
+chr12.fa	49434074	C	A	2038	4124	0.49418	coding	germline	non_hotspot	fail	KMT2D	N/A	CCDS44873.1
+chr12.fa	49434208	G	A	12	4118	0.00291	coding	not_germline	non_hotspot	fail	KMT2D	P2449S	CCDS44873.1
+chr12.fa	49444058	C	G	38	2623	0.01449	coding	not_germline	non_hotspot	fail	KMT2D	A1105P	CCDS44873.1
+chr12.fa	52369300	C	T	2661	2663	0.99925	noncoding	germline	non_hotspot	fail	ACVR1B	N/A	CCDS44893.2
+chr12.fa	56478904	G	T	8	3428	0.00233	coding	not_germline	non_hotspot	fail	ERBB3	M120I	CCDS31833.1
+chr12.fa	56482432	G	C	617	1328	0.46461	coding	not_germline	non_hotspot	pass	ERBB3	C327S	CCDS31833.1
+chr12.fa	56489068	T	(null)	5	979	0.00511	coding	not_germline	non_hotspot	fail	ERBB3	L630*	CCDS31833.1
+chr12.fa	56493822	A	C	1170	1170	1.00000	noncoding	germline	non_hotspot	fail	ERBB3	N/A	CCDS31833.1
+chr12.fa	56494991	G	A	4045	4048	0.99926	coding	germline	non_hotspot	fail	ERBB3	N/A	CCDS31833.1
+chr12.fa	56495368	G	(null)	3	802	0.00374	coding	not_germline	non_hotspot	fail	ERBB3	G1187Vfs*14	CCDS31833.1
+chr12.fa	57859431	G	A	828	1796	0.46102	coding	germline	non_hotspot	fail	GLI1	N/A	CCDS8940.1
+chr12.fa	57861785	T	C	945	1851	0.51054	coding	germline	non_hotspot	pass	GLI1	N/A	CCDS8940.1
+chr12.fa	57864243	G	A	462	3324	0.13899	coding	not_germline	non_hotspot	pass	GLI1	G574R	CCDS8940.1
+chr12.fa	57864396	G	A	592	4560	0.12983	coding	not_germline	non_hotspot	pass	GLI1	E625K	CCDS8940.1
+chr12.fa	57865321	G	A	903	1841	0.49049	coding	germline	non_hotspot	fail	GLI1	G933D	CCDS8940.1
+chr12.fa	57865821	G	C	1222	1223	0.99918	coding	germline	non_hotspot	fail	GLI1	E1100Q	CCDS8940.1
+chr12.fa	58106836	A	G	437	865	0.50520	noncoding	germline	non_hotspot	fail		N/A	CCDS31843.1
+chr12.fa	58112189	A	G	1995	3981	0.50113	coding	germline	non_hotspot	fail		N/A	CCDS31843.1
+chr12.fa	58118248	T	C	2311	4573	0.50536	noncoding	germline	non_hotspot	fail		N/A	NM_001122772
+chr12.fa	58122565	G	A	2056	2062	0.99709	noncoding	germline	non_hotspot	fail		N/A	CCDS44932.1
+chr12.fa	58124534	C	G	458	907	0.50496	noncoding	germline	non_hotspot	fail		N/A	CCDS44932.1
+chr12.fa	58133256	G	A	636	1183	0.53762	noncoding	germline	non_hotspot	fail		N/A	CCDS8951.1
+chr12.fa	58145156	C	T	1690	3158	0.53515	noncoding	germline	non_hotspot	fail	CDK4	N/A	CCDS8953.1
+chr12.fa	58195801	T	C	406	871	0.46613	noncoding	germline	non_hotspot	fail		N/A	CCDS53810.1
+chr12.fa	6690284	G	(null)	3	936	0.00321	coding	not_germline	non_hotspot	fail	CHD4	P1612Lfs*12	CCDS8552.1
+chr12.fa	6691452	G	A	464	972	0.47737	noncoding	germline	non_hotspot	fail	CHD4	N/A	CCDS8552.1
+chr12.fa	6707257	C	T	4	806	0.00496	coding	not_germline	non_hotspot	fail	CHD4	N/A	CCDS8552.1
+chr12.fa	6707526	G	A	1610	3445	0.46734	coding	germline	non_hotspot	fail	CHD4	N/A	CCDS8552.1
+chr12.fa	6709059	G	A	960	2132	0.45028	coding	germline	non_hotspot	fail	CHD4	N/A	CCDS8552.1
+chr12.fa	6711147	C	A	587	608	0.96546	coding	germline	non_hotspot	fail	CHD4	E139D	CCDS8552.1
+chr12.fa	69163929	T	C	440	440	1.00000	noncoding	germline	non_hotspot	fail		N/A	NM_018656
+chr12.fa	69169222	A	T	433	433	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr12.fa	69203313	T	A	2	50	0.04000	noncoding	not_germline	non_hotspot	fail	MDM2	N/A	CCDS8986.2
+chr12.fa	69265196	C	T	1077	1077	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS8987.1
+chr12.fa	69277127	A	T	502	502	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS8987.1
+chr12.fa	69277165	A	G	462	463	0.99784	noncoding	germline	non_hotspot	fail		N/A	CCDS8987.1
+chr12.fa	69967792	C	A	3	315	0.00952	coding	not_germline	non_hotspot	fail	FRS2	T195N	CCDS41809.1
+chr13.fa	103527849	G	C	343	344	0.99709	coding	germline	non_hotspot	fail	ERCC5	G1053R	CCDS32004.1
+chr13.fa	103527930	G	C	511	512	0.99805	coding	germline	non_hotspot	fail	ERCC5	G1080R	CCDS32004.1
+chr13.fa	103528002	G	C	297	623	0.47673	coding	germline	non_hotspot	fail	ERCC5	D1104H	CCDS32004.1
+chr13.fa	110435302	T	C	563	1087	0.51794	coding	germline	non_hotspot	fail	IRS2	N/A	CCDS9510.1
+chr13.fa	110435953	A	G	1807	3821	0.47291	coding	germline	non_hotspot	fail	IRS2	N/A	CCDS9510.1
+chr13.fa	110436232	G	A	1802	3672	0.49074	coding	germline	non_hotspot	fail	IRS2	N/A	CCDS9510.1
+chr13.fa	113888201	T	C	400	400	1.00000	noncoding	germline	non_hotspot	fail	CUL4A	N/A	CCDS41908.1
+chr13.fa	113889474	C	T	466	466	1.00000	noncoding	germline	non_hotspot	fail	CUL4A	N/A	CCDS41908.1
+chr13.fa	21557820	C	A	322	2456	0.13111	coding	not_germline	non_hotspot	pass	LATS2	N/A	CCDS9294.1
+chr13.fa	21562419	G	A	286	1924	0.14865	coding	not_germline	non_hotspot	pass	LATS2	N/A	CCDS9294.1
+chr13.fa	21562637	C	G	24	2128	0.01128	coding	not_germline	non_hotspot	fail	LATS2	A428P	CCDS9294.1
+chr13.fa	21562832	C	T	2314	4698	0.49255	coding	germline	non_hotspot	fail	LATS2	G363S	CCDS9294.1
+chr13.fa	21562948	G	A	2110	4235	0.49823	coding	germline	non_hotspot	fail	LATS2	A324V	CCDS9294.1
+chr13.fa	21620085	T	C	2283	2286	0.99869	coding	germline	non_hotspot	fail	LATS2	N/A	CCDS9294.1
+chr13.fa	28589742	C	A	5	883	0.00566	coding	not_germline	non_hotspot	fail	FLT3	E880*	CCDS31953.1
+chr13.fa	28609825	A	G	430	430	1.00000	noncoding	germline	non_hotspot	fail	FLT3	N/A	CCDS31953.1
+chr13.fa	28610183	A	G	619	620	0.99839	noncoding	germline	non_hotspot	fail	FLT3	N/A	CCDS31953.1
+chr13.fa	28623587	C	T	249	512	0.48633	coding	germline	non_hotspot	fail	FLT3	D324N	CCDS31953.1
+chr13.fa	28623630	C	A	4	437	0.00915	coding	not_germline	non_hotspot	fail	FLT3	M309I	CCDS31953.1
+chr13.fa	28623920	T	C	134	294	0.45578	noncoding	germline	non_hotspot	pass	FLT3	N/A	CCDS31953.1
+chr13.fa	28624294	G	A	599	601	0.99667	coding	germline	non_hotspot	fail	FLT3	T227M	CCDS31953.1
+chr13.fa	28636084	G	A	2087	2087	1.00000	coding	germline	non_hotspot	fail	FLT3	N/A	CCDS31953.1
+chr13.fa	29001973	C	T	74	704	0.10511	coding	not_germline	non_hotspot	pass	FLT1	E398K	CCDS9330.1
+chr13.fa	29012500	G	A	12	187	0.06417	noncoding	not_germline	non_hotspot	fail	FLT1	N/A	CCDS9330.1
+chr13.fa	32859199	T	C	29	173	0.16763	noncoding	not_germline	non_hotspot	fail		N/A	CCDS41875.1
+chr13.fa	32865177	C	T	551	1342	0.41058	noncoding	germline	non_hotspot	fail		N/A	CCDS41875.1
+chr13.fa	32889792	A	G	3391	6476	0.52363	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32889968	G	A	3555	7387	0.48125	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32892217	C	T	249	256	0.97266	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32894484	G	A	983	1981	0.49621	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32895377	G	C	1110	1110	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32902381	C	T	21	144	0.14583	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32904571	T	(null)	4	424	0.00943	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32904814	T	(null)	3	665	0.00451	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32905265	G	A	927	928	0.99892	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32905757	G	A	4	187	0.02139	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32906729	A	C	408	915	0.44590	coding	germline	non_hotspot	fail	BRCA2	N372H	CCDS9344.1
+chr13.fa	32913055	A	G	767	767	1.00000	coding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32915005	G	C	372	372	1.00000	coding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32915829	C	T	5	31	0.16129	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32918350	G	A	4	274	0.01460	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32920618	G	A	238	238	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32928317	T	C	709	712	0.99579	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32928936	A	G	260	541	0.48059	noncoding	germline	non_hotspot	pass	BRCA2	N/A	CCDS9344.1
+chr13.fa	32929387	T	C	533	533	1.00000	coding	germline	non_hotspot	fail	BRCA2	V2466A	CCDS9344.1
+chr13.fa	32930936	G	A	1041	1041	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32933937	A	G	619	620	0.99839	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32939247	TTT	(null)	2	125	0.01600	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32942587	C	T	2	117	0.01709	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32942946	(null)	TG	3	339	0.00885	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32944599	C	T	7	1311	0.00534	coding	not_germline	non_hotspot	fail	BRCA2	P2798S	CCDS9344.1
+chr13.fa	32945464	C	T	63	598	0.10535	noncoding	not_germline	non_hotspot	pass	BRCA2	N/A	CCDS9344.1
+chr13.fa	32946011	A	G	374	374	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32946415	C	T	276	276	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32954494	TGTACTTAATTTTATAGAAAT	(null)	1	202	0.00495	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32956757	G	A	886	888	0.99775	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32957376	A	G	2	85	0.02353	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32959789	T	C	1077	1077	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32961190	(null)	C	677	636	1.06447	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32963838	A	G	400	880	0.45455	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32964504	C	T	710	709	1.00141	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32965310	G	A	617	617	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32965651	T	C	3189	3192	0.99906	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32966866	T	(null)	2	389	0.00514	noncoding	not_germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32967375	C	(null)	347	333	1.04204	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32967809	C	G	1365	1367	0.99854	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32969248	A	G	617	618	0.99838	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32971425	T	C	493	493	1.00000	noncoding	germline	non_hotspot	fail	BRCA2	N/A	CCDS9344.1
+chr13.fa	32973012	A	C	277	277	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32979647	T	G	586	588	0.99660	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32979683	TGCT	(null)	909	820	1.10854	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32986219	A	G	1143	1143	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32986232	A	G	1146	1148	0.99826	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32986340	C	T	367	368	0.99728	noncoding	germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	32991981	G	(null)	1	58	0.01724	noncoding	not_germline	non_hotspot	fail		N/A	CCDS41877.1
+chr13.fa	73333968	C	T	3	256	0.01172	coding	not_germline	non_hotspot	fail	DIS3	G948R	CCDS9447.1
+chr13.fa	73345959	C	A	2	233	0.00858	coding	not_germline	non_hotspot	fail	DIS3	G527*	CCDS9447.1
+chr14.fa	102550803	G	A	484	485	0.99794	coding	germline	non_hotspot	fail	HSP90AA1	N/A	CCDS32160.1
+chr14.fa	102568296	G	A	549	1232	0.44562	coding	germline	non_hotspot	fail	HSP90AA1	N/A	CCDS32160.1
+chr14.fa	102568367	T	A	1137	1137	1.00000	coding	germline	non_hotspot	fail	HSP90AA1	M71L	CCDS32160.1
+chr14.fa	104165927	T	C	1362	2727	0.49945	noncoding	germline	non_hotspot	fail		N/A	CCDS41996.1
+chr14.fa	105241405	G	C	79	2005	0.03940	noncoding	not_germline	non_hotspot	fail	AKT1	N/A	CCDS9994.1
+chr14.fa	20824181	T	C	706	710	0.99437	coding	germline	non_hotspot	fail	PARP2	N/A	CCDS41910.1
+chr14.fa	23243610	GACCCACAATAGAAA	(null)	2	696	0.00287	coding	not_germline	non_hotspot	fail		L395_G399del	CCDS9574.1
+chr14.fa	23652004	G	A	1943	4334	0.44832	coding	germline	non_hotspot	fail		N/A	CCDS9590.1
+chr14.fa	23777374	A	G	1310	1310	1.00000	coding	germline	non_hotspot	fail	BCL2L2	Q133R	CCDS9591.1
+chr14.fa	35873770	G	A	1950	1950	1.00000	coding	germline	non_hotspot	fail	NFKBIA	N/A	CCDS9656.1
+chr14.fa	36986882	G	C	12	852	0.01408	coding	not_germline	non_hotspot	fail	NKX2-1	N/A	CCDS41945.1
+chr14.fa	38061103	C	T	168	1301	0.12913	coding	not_germline	non_hotspot	pass	FOXA1	D296N	CCDS9665.1
+chr14.fa	38061742	C	T	4648	4650	0.99957	coding	germline	non_hotspot	fail	FOXA1	A83T	CCDS9665.1
+chr14.fa	45645616	T	(null)	2	428	0.00467	coding	not_germline	non_hotspot	fail	FANCM	F1221Lfs*14	CCDS32070.1
+chr14.fa	45665468	C	G	322	690	0.46667	coding	germline	non_hotspot	fail	FANCM	P1812A	CCDS32070.1
+chr14.fa	75483812	T	C	898	1920	0.46771	coding	germline	non_hotspot	fail	MLH3	N/A	CCDS32123.1
+chr14.fa	75506648	T	C	22	202	0.10891	coding	not_germline	non_hotspot	pass	MLH3	Y1179C	CCDS32123.1
+chr14.fa	75513883	T	C	631	631	1.00000	coding	germline	non_hotspot	fail	MLH3	N826D	CCDS32123.1
+chr14.fa	81528538	TC	(null)	1	132	0.00758	coding	not_germline	non_hotspot	fail	TSHR	S73*	CCDS9872.1
+chr14.fa	81558965	A	G	471	471	1.00000	noncoding	germline	non_hotspot	fail	TSHR	N/A	CCDS9872.1
+chr14.fa	81562998	T	C	551	551	1.00000	coding	germline	non_hotspot	fail	TSHR	N/A	CCDS9872.1
+chr14.fa	81610583	G	C	900	902	0.99778	coding	germline	non_hotspot	fail	TSHR	E727D	CCDS9872.1
+chr15.fa	34638198	A	G	487	1004	0.48506	coding	germline	non_hotspot	fail	NUTM1	Q21R	NM_001284292
+chr15.fa	34640218	C	T	3145	3144	1.00032	coding	germline	non_hotspot	fail	NUTM1	P22L	CCDS32190.1
+chr15.fa	34640378	T	C	3913	3924	0.99720	coding	germline	non_hotspot	fail	NUTM1	N/A	CCDS32190.1
+chr15.fa	34648367	G	A	280	1924	0.14553	coding	not_germline	non_hotspot	pass	NUTM1	D692N	CCDS32190.1
+chr15.fa	40476099	C	T	3	344	0.00872	noncoding	germline	non_hotspot	fail	BUB1B	N/A	CCDS10053.1
+chr15.fa	40477831	G	A	488	489	0.99796	coding	germline	non_hotspot	fail	BUB1B	R349Q	CCDS10053.1
+chr15.fa	40500986	C	T	361	362	0.99724	noncoding	germline	non_hotspot	fail	BUB1B	N/A	CCDS10053.1
+chr15.fa	41860411	G	A	594	1262	0.47068	noncoding	germline	non_hotspot	fail	TYRO3	N/A	CCDS10080.1
+chr15.fa	41865488	C	T	2520	2530	0.99605	noncoding	germline	non_hotspot	fail	TYRO3	N/A	CCDS10080.1
+chr15.fa	43707808	A	T	902	1796	0.50223	coding	germline	non_hotspot	fail	TP53BP1	N/A	CCDS45250.1
+chr15.fa	43714166	C	T	6	1425	0.00421	coding	not_germline	non_hotspot	fail	TP53BP1	M1329I	CCDS45250.1
+chr15.fa	43714333	A	(null)	2	314	0.00637	noncoding	not_germline	non_hotspot	fail	TP53BP1	N/A	CCDS45250.1
+chr15.fa	43724646	T	G	602	1196	0.50334	coding	germline	non_hotspot	fail	TP53BP1	K1141Q	CCDS45250.1
+chr15.fa	43748304	A	G	483	939	0.51438	coding	germline	non_hotspot	fail	TP53BP1	N/A	CCDS45250.1
+chr15.fa	43748728	G	A	101	922	0.10954	coding	not_germline	non_hotspot	pass	TP53BP1	P693L	CCDS45250.1
+chr15.fa	43762102	(null)	A	2	924	0.00216	coding	not_germline	non_hotspot	fail	TP53BP1	P450Sfs*15	CCDS45250.1
+chr15.fa	43766911	A	(null)	3	356	0.00843	coding	not_germline	non_hotspot	fail	TP53BP1	F380Lfs*43	CCDS45250.1
+chr15.fa	67358476	G	C	6	798	0.00752	noncoding	not_germline	non_hotspot	fail	SMAD3	N/A	NM_005902
+chr15.fa	67457335	A	G	5017	5019	0.99960	coding	germline	non_hotspot	fail	SMAD3	N/A	CCDS10222.1
+chr15.fa	88484026	C	T	489	3426	0.14273	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88485134	C	T	146	1260	0.11587	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88485947	G	A	303	2221	0.13643	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88488428	A	G	1131	2245	0.50379	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88493462	A	C	3225	3227	0.99938	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88496099	C	T	586	4158	0.14093	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88496800	C	T	7	1863	0.00376	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88497137	C	T	463	4074	0.11365	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88499014	G	A	309	2395	0.12902	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88500415	GAGC	(null)	505	543	0.93002	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88502016	C	T	477	2901	0.16443	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88502242	C	T	125	800	0.15625	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88502739	G	A	291	2020	0.14406	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88502984	G	A	296	2030	0.14581	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88503754	C	T	135	1165	0.11588	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88507478	G	T	3	342	0.00877	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88508295	T	(null)	3	345	0.00870	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88512467	C	T	28	2226	0.01258	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88513715	C	T	153	1130	0.13540	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88515076	A	T	1255	2570	0.48833	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88516750	G	A	318	2367	0.13435	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88517263	C	T	751	6273	0.11972	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88519216	C	T	1242	2446	0.50777	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88519747	C	T	403	3042	0.13248	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88519985	G	A	415	3463	0.11984	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88520215	(null)	CT	1465	1414	1.03607	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88520291	A	G	1376	1376	1.00000	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88521018	C	T	361	2367	0.15251	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88521280	C	G	1804	1806	0.99889	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88521679	G	A	318	2469	0.12880	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88525346	G	A	248	2742	0.09044	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88525918	C	T	1563	1569	0.99618	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88526156	C	T	203	1581	0.12840	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88527149	C	T	271	1990	0.13618	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88529844	C	(null)	3	518	0.00579	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88529997	G	A	64	568	0.11268	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88533179	T	G	284	284	1.00000	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88537751	G	A	87	719	0.12100	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88538777	G	A	88	889	0.09899	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88540150	C	T	111	810	0.13704	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88541613	T	A	271	2191	0.12369	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88542203	G	A	214	1694	0.12633	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88543482	G	A	152	1179	0.12892	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88544516	G	A	62	159	0.38994	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88545758	G	A	72	628	0.11465	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88549436	C	T	176	1335	0.13184	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88553038	C	T	176	1284	0.13707	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88553948	C	T	5	433	0.01155	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88554835	C	T	184	1427	0.12894	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88557299	G	A	92	769	0.11964	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88557310	C	T	749	749	1.00000	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88559198	A	G	152	988	0.15385	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88563736	T	C	224	522	0.42912	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88565701	G	A	84	691	0.12156	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88565851	G	A	1434	1434	1.00000	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88565970	C	T	205	1422	0.14416	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88566929	G	A	353	3180	0.11101	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88567674	C	T	198	1483	0.13351	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88569322	G	A	5	31	0.16129	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88570632	G	A	24	129	0.18605	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88570870	C	T	75	656	0.11433	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88571302	G	A	279	2030	0.13744	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88571636	G	A	300	2241	0.13387	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88576048	C	T	648	5036	0.12867	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88576960	G	A	71	731	0.09713	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88577372	G	C	843	1655	0.50937	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88577409	A	(null)	6	1859	0.00323	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88581077	G	A	110	782	0.14067	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88582695	G	A	127	1158	0.10967	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88583415	G	T	3	256	0.01172	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88583867	C	T	1393	1393	1.00000	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88585358	C	T	164	1215	0.13498	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88585801	C	T	553	3883	0.14242	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88586596	C	A	7	1179	0.00594	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88591035	G	A	137	1157	0.11841	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88591036	G	A	149	1244	0.11978	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88592700	G	T	185	373	0.49598	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88594577	C	T	315	2765	0.11392	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88595242	C	T	131	1005	0.13035	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88598819	C	T	185	1570	0.11783	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88599422	TATATATATATATTTT	(null)	1	60	0.01667	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88599432	TATT	(null)	8	60	0.13333	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88602024	C	T	200	1497	0.13360	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88603124	G	A	125	878	0.14237	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88604197	C	T	45	262	0.17176	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88604905	G	A	3782	7857	0.48135	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88605001	G	A	597	5345	0.11169	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88606974	C	T	303	2028	0.14941	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88607135	G	T	369	732	0.50410	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88608344	C	T	192	1288	0.14907	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88610457	C	T	772	1589	0.48584	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88612202	G	C	699	1438	0.48609	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88614545	C	A	9	5650	0.00159	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88616266	G	T	6	1585	0.00379	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88622442	C	A	6	4018	0.00149	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88623075	C	T	27	206	0.13107	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88624002	C	T	535	3881	0.13785	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88625391	C	T	29	171	0.16959	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88626490	C	T	77	520	0.14808	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88627887	C	A	2442	5172	0.47216	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88632730	T	C	348	780	0.44615	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88633098	T	C	2018	4178	0.48301	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88633614	G	A	131	902	0.14523	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88637707	AAAA	(null)	2	92	0.02174	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88637707	AAAAAAAAAAAAA	(null)	1	92	0.01087	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88637733	A	G	3	260	0.01154	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88639366	G	A	228	1678	0.13588	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88640055	T	C	1212	2497	0.48538	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88641243	G	A	52	360	0.14444	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88641704	A	T	746	1595	0.46771	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88642435	A	G	770	1472	0.52310	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88643470	C	T	158	1181	0.13379	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88645295	G	A	57	519	0.10983	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88647410	G	A	85	753	0.11288	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88648023	G	A	277	2040	0.13578	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88651429	A	G	782	1644	0.47567	noncoding	germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88651749	C	T	822	1577	0.52124	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88652423	G	C	3338	6739	0.49533	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88652532	G	A	696	5123	0.13586	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653384	G	A	156	1022	0.15264	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653481	A	C	745	1386	0.53752	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653528	A	C	1008	1848	0.54546	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653595	T	C	1051	1885	0.55756	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653621	A	G	946	1760	0.53750	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653838	A	C	964	1936	0.49793	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88653850	T	G	1016	2001	0.50775	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88654466	G	A	477	3863	0.12348	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88654525	T	C	1443	2918	0.49452	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88655768	(null)	CN	314	4513	0.06958	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88655896	A	G	1741	3454	0.50405	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88656050	A	C	2080	4176	0.49808	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88658098	C	A	2	98	0.02041	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88658492	T	C	2439	4957	0.49203	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88658526	C	G	2372	5032	0.47138	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88658655	T	C	2233	4562	0.48948	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88658964	T	C	2402	4840	0.49628	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659051	G	A	1117	8897	0.12555	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659082	T	C	4420	8778	0.50353	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659099	A	G	4155	8076	0.51449	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659906	G	T	556	1207	0.46065	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659914	C	T	148	1206	0.12272	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88659927	G	A	154	1122	0.13726	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88660115	T	C	642	1329	0.48307	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88660596	C	T	67	741	0.09042	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88660829	A	G	1321	1324	0.99773	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88661632	T	C	699	1336	0.52320	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88662000	A	G	1097	2206	0.49728	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88662575	C	A	608	1366	0.44510	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88662594	C	T	168	1283	0.13094	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88662789	G	A	635	1404	0.45228	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88662946	C	G	473	1147	0.41238	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88663006	C	T	626	1469	0.42614	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88663944	C	G	669	1435	0.46620	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88664676	C	A	478	1066	0.44841	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88665139	T	C	795	1571	0.50605	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88665154	T	C	796	1607	0.49533	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88665439	G	A	43	394	0.10914	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88665612	T	C	982	2047	0.47973	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88666371	G	C	442	840	0.52619	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88666646	G	C	415	982	0.42261	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88666717	G	A	65	593	0.10961	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88667852	G	C	833	1744	0.47764	noncoding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88668045	C	T	146	1280	0.11406	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88668076	C	G	530	1212	0.43729	noncoding	not_germline	non_hotspot	pass	NTRK3	N/A	CCDS10340.1
+chr15.fa	88669618	G	A	107	869	0.12313	noncoding	not_germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	88679785	G	A	2008	2009	0.99950	coding	germline	non_hotspot	fail	NTRK3	N/A	CCDS10340.1
+chr15.fa	89804043	C	T	551	551	1.00000	coding	germline	non_hotspot	fail	FANCI	A86V	CCDS45346.1
+chr15.fa	89826496	C	T	583	583	1.00000	noncoding	germline	non_hotspot	fail	FANCI	N/A	CCDS45346.1
+chr15.fa	89836228	G	C	235	235	1.00000	coding	germline	non_hotspot	fail	FANCI	C742S	CCDS45346.1
+chr15.fa	89838236	G	A	723	723	1.00000	coding	germline	non_hotspot	fail	FANCI	N/A	CCDS45346.1
+chr15.fa	89844688	A	C	475	475	1.00000	noncoding	germline	non_hotspot	fail	FANCI	N/A	CCDS45346.1
+chr15.fa	89850734	G	A	3	354	0.00847	coding	not_germline	non_hotspot	fail	FANCI	G1189R	CCDS45346.1
+chr15.fa	89858602	T	C	549	549	1.00000	coding	germline	non_hotspot	fail	FANCI	N/A	CCDS45346.1
+chr15.fa	89859619	C	T	27	208	0.12981	noncoding	not_germline	non_hotspot	pass	FANCI	N/A	CCDS45346.1
+chr15.fa	91341522	C	G	2	192	0.01042	coding	not_germline	non_hotspot	fail	BLM	P1105A	CCDS10363.1
+chr15.fa	93510603	A	G	495	496	0.99798	coding	germline	non_hotspot	pass	CHD2	N/A	CCDS10374.2
+chr15.fa	93521604	A	G	1164	1167	0.99743	coding	germline	non_hotspot	fail	CHD2	N/A	CCDS10374.2
+chr15.fa	99456253	T	C	1149	1151	0.99826	noncoding	germline	non_hotspot	fail	IGF1R	N/A	CCDS10378.1
+chr15.fa	99478225	G	A	992	992	1.00000	coding	germline	non_hotspot	fail	IGF1R	N/A	CCDS10378.1
+chr16.fa	14026007	G	A	259	259	1.00000	noncoding	germline	non_hotspot	fail	ERCC4	N/A	CCDS32390.1
+chr16.fa	14029554	C	A	4	709	0.00564	coding	not_germline	non_hotspot	fail	ERCC4	N/A	CCDS32390.1
+chr16.fa	2100419	G	(null)	2	788	0.00254	coding	not_germline	non_hotspot	fail	TSC2	G53Afs*8	CCDS10458.1
+chr16.fa	2110684	C	T	1675	3488	0.48022	coding	germline	non_hotspot	pass	TSC2	P330L	CCDS10458.1
+chr16.fa	2125788	C	T	1457	2957	0.49273	noncoding	germline	non_hotspot	fail	TSC2	N/A	CCDS10458.1
+chr16.fa	2125834	T	C	2051	4271	0.48022	coding	germline	non_hotspot	pass	TSC2	N/A	CCDS10458.1
+chr16.fa	2136791	C	T	1760	3573	0.49258	coding	germline	non_hotspot	pass	TSC2	N/A	CCDS10458.1
+chr16.fa	2138218	A	C	1836	3731	0.49209	noncoding	germline	non_hotspot	fail	TSC2	N/A	CCDS10458.1
+chr16.fa	2138269	T	C	1787	3693	0.48389	coding	germline	non_hotspot	fail	TSC2	N/A	CCDS10458.1
+chr16.fa	2138584	G	C	1480	3080	0.48052	coding	germline	non_hotspot	pass	TSC2	N/A	CCDS10458.1
+chr16.fa	2222598	C	T	304	610	0.49836	coding	germline	non_hotspot	pass	TRAF7	N/A	CCDS10461.1
+chr16.fa	2225823	G	A	1245	2516	0.49483	noncoding	germline	non_hotspot	fail	TRAF7	N/A	CCDS10461.1
+chr16.fa	23585061	T	C	1405	1407	0.99858	noncoding	germline	non_hotspot	fail		N/A	NM_019116
+chr16.fa	23606895	G	T	995	996	0.99900	noncoding	germline	non_hotspot	fail		N/A	CCDS10614.1
+chr16.fa	23607377	G	C	25	1924	0.01299	noncoding	not_germline	non_hotspot	fail		N/A	CCDS10614.1
+chr16.fa	23614955	G	A	3	520	0.00577	coding	not_germline	non_hotspot	fail	PALB2	A1129V	CCDS32406.1
+chr16.fa	23646991	T	(null)	1	588	0.00170	coding	not_germline	non_hotspot	fail	PALB2	G293Afs*4	CCDS32406.1
+chr16.fa	23671986	T	A	178	392	0.45408	noncoding	germline	non_hotspot	fail		N/A	CCDS10615.1
+chr16.fa	23681165	G	A	514	1019	0.50442	noncoding	germline	non_hotspot	fail		N/A	NM_001199743
+chr16.fa	23701538	A	G	502	1012	0.49605	noncoding	germline	non_hotspot	fail		N/A	NM_005030
+chr16.fa	2611494	G	A	144	2122	0.06786	coding	not_germline	non_hotspot	fail	PDPK1	R100Q	CCDS10472.1
+chr16.fa	359953	A	G	1077	2340	0.46026	noncoding	germline	non_hotspot	fail	AXIN1	N/A	CCDS10405.1
+chr16.fa	3640324	G	A	1896	3865	0.49056	coding	germline	non_hotspot	pass	SLX4	N/A	CCDS10506.2
+chr16.fa	3658627	A	G	1013	2168	0.46725	coding	germline	non_hotspot	pass	SLX4	N/A	CCDS10506.2
+chr16.fa	3777821	G	A	561	3775	0.14861	coding	not_germline	non_hotspot	pass	CREBBP	N/A	CCDS10509.1
+chr16.fa	3777892	C	G	20	3488	0.00573	coding	not_germline	non_hotspot	fail	CREBBP	G2386R	CCDS10509.1
+chr16.fa	3790548	G	A	804	1751	0.45917	coding	germline	non_hotspot	pass	CREBBP	N/A	CCDS10509.1
+chr16.fa	3828172	A	G	179	419	0.42721	coding	germline	non_hotspot	pass	CREBBP	N/A	CCDS10509.1
+chr16.fa	396264	A	G	1579	3143	0.50239	coding	germline	non_hotspot	fail	AXIN1	N/A	CCDS10405.1
+chr16.fa	56855496	C	G	713	714	0.99860	coding	germline	non_hotspot	fail	NUP93	N/A	CCDS10769.1
+chr16.fa	56873495	C	T	356	356	1.00000	coding	germline	non_hotspot	fail	NUP93	N/A	CCDS10769.1
+chr16.fa	67645919	C	T	107	874	0.12243	coding	not_germline	non_hotspot	pass	CTCF	R283C	CCDS10841.1
+chr16.fa	68771372	C	T	1263	1264	0.99921	noncoding	germline	non_hotspot	fail	CDH1	N/A	CCDS10869.1
+chr16.fa	68855966	G	A	527	1165	0.45236	coding	germline	non_hotspot	pass	CDH1	A592T	CCDS10869.1
+chr16.fa	79633806	GCC	(null)	907	1122	0.80838	noncoding	germline	non_hotspot	fail	MAF	N/A	CCDS10928.1
+chr16.fa	81819768	T	C	2580	5413	0.47663	coding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81888152	A	G	608	1132	0.53710	coding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81916912	A	G	917	1928	0.47562	coding	germline	non_hotspot	pass	PLCG2	H244R	CCDS42204.1
+chr16.fa	81927314	G	A	1772	3549	0.49930	coding	germline	non_hotspot	pass	PLCG2	N/A	CCDS42204.1
+chr16.fa	81929485	T	C	1698	3500	0.48514	coding	germline	non_hotspot	pass	PLCG2	N/A	CCDS42204.1
+chr16.fa	81929488	C	T	3465	3469	0.99885	coding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81941319	C	T	643	1437	0.44746	coding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81953081	T	C	2703	2705	0.99926	noncoding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81960741	C	T	441	938	0.47015	coding	not_germline	non_hotspot	pass	PLCG2	N/A	CCDS42204.1
+chr16.fa	81971403	T	C	1231	2589	0.47547	coding	germline	non_hotspot	fail	PLCG2	N/A	CCDS42204.1
+chr16.fa	81979794	C	T	126	1114	0.11311	coding	not_germline	non_hotspot	pass	PLCG2	P1166S	CCDS42204.1
+chr16.fa	89836643	G	A	716	5630	0.12718	coding	not_germline	non_hotspot	pass	FANCA	N/A	CCDS32515.1
+chr16.fa	89838078	A	G	839	1612	0.52047	noncoding	germline	non_hotspot	fail	FANCA	N/A	CCDS32515.1
+chr16.fa	89857964	T	C	1265	2405	0.52599	noncoding	germline	non_hotspot	fail	FANCA	N/A	CCDS32515.1
+chr16.fa	89882316	C	T	202	2026	0.09970	coding	not_germline	non_hotspot	pass	FANCA	S53N	CCDS32515.1
+chr16.fa	9857036	C	T	5	829	0.00603	coding	not_germline	non_hotspot	fail	GRIN2A	N/A	CCDS10539.1
+chr16.fa	9857305	G	A	319	2427	0.13144	coding	not_germline	non_hotspot	pass	GRIN2A	P1366S	CCDS10539.1
+chr16.fa	9857865	G	A	332	2824	0.11756	coding	not_germline	non_hotspot	pass	GRIN2A	S1179F	CCDS10539.1
+chr16.fa	9858484	C	T	218	1478	0.14750	coding	not_germline	non_hotspot	pass	GRIN2A	D973N	CCDS10539.1
+chr16.fa	9916204	C	G	391	712	0.54916	coding	germline	non_hotspot	fail	GRIN2A	N/A	CCDS10539.1
+chr16.fa	9943666	C	T	1603	3367	0.47609	coding	germline	non_hotspot	fail	GRIN2A	N/A	CCDS10539.1
+chr17.fa	17122327	G	A	2468	2471	0.99879	noncoding	germline	non_hotspot	fail	FLCN	N/A	CCDS32579.1
+chr17.fa	17127471	G	A	1736	1735	1.00058	noncoding	germline	non_hotspot	fail	FLCN	N/A	CCDS32579.1
+chr17.fa	17131248	G	A	2522	5105	0.49403	coding	germline	non_hotspot	pass	FLCN	N/A	CCDS32579.1
+chr17.fa	1782957	C	T	735	1528	0.48102	coding	germline	non_hotspot	fail	RPA1	N/A	CCDS11014.1
+chr17.fa	17948475	G	A	574	576	0.99653	coding	germline	non_hotspot	fail	GID4	N/A	CCDS11190.1
+chr17.fa	17957460	C	T	49	392	0.12500	coding	not_germline	non_hotspot	pass	GID4	T173I	CCDS11190.1
+chr17.fa	29483142	A	G	3	270	0.01111	coding	not_germline	non_hotspot	fail	NF1	M68V	CCDS42292.1
+chr17.fa	29548851	T	(null)	3	182	0.01648	noncoding	not_germline	non_hotspot	fail	NF1	N/A	CCDS42292.1
+chr17.fa	29559080	T	C	2	48	0.04167	noncoding	not_germline	non_hotspot	fail	NF1	N/A	CCDS42292.1
+chr17.fa	29585430	C	(null)	3	839	0.00358	coding	not_germline	non_hotspot	fail	NF1	N1415Ifs*13	CCDS42292.1
+chr17.fa	29654876	T	A	431	431	1.00000	noncoding	germline	non_hotspot	fail	NF1	N/A	CCDS42292.1
+chr17.fa	37627190	C	A	4	394	0.01015	coding	not_germline	non_hotspot	fail	CDK12	H369N	CCDS11337.1
+chr17.fa	37807580	G	(null)	2	533	0.00375	noncoding	not_germline	non_hotspot	fail		N/A	CCDS11341.1
+chr17.fa	37807698	A	C	989	990	0.99899	noncoding	germline	non_hotspot	fail		N/A	NM_001165937
+chr17.fa	37815899	G	A	1819	1820	0.99945	noncoding	germline	non_hotspot	fail		N/A	CCDS11341.1
+chr17.fa	37824545	G	A	2954	2955	0.99966	noncoding	germline	non_hotspot	fail		N/A	CCDS11343.1
+chr17.fa	37830900	A	G	2731	2731	1.00000	coding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37831035	A	G	1120	1125	0.99556	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832093	T	C	2099	2100	0.99952	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832103	C	A	1890	1893	0.99842	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832279	C	T	1488	1489	0.99933	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832315	T	A	1743	1744	0.99943	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832366	G	A	1939	1940	0.99949	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832704	A	G	3643	3647	0.99890	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37832735	T	C	3467	3470	0.99914	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833328	A	G	1645	1647	0.99879	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833562	C	T	671	1838	0.36507	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833567	G	C	1821	1826	0.99726	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833600	G	A	1604	1606	0.99876	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833632	T	C	1486	1487	0.99933	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833805	T	C	3863	3866	0.99922	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37833842	T	C	4446	4452	0.99865	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37834541	T	C	1609	1616	0.99567	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37834715	G	A	2890	2896	0.99793	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37836243	C	T	3995	3997	0.99950	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37836353	T	C	3007	3013	0.99801	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37836581	G	A	458	458	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS32641.1
+chr17.fa	37853048	C	T	2202	2203	0.99955	noncoding	germline	non_hotspot	fail	ERBB2	N/A	CCDS32642.1
+chr17.fa	37853097	C	T	1942	1945	0.99846	noncoding	germline	non_hotspot	fail	ERBB2	N/A	CCDS32642.1
+chr17.fa	37853118	A	G	2000	2002	0.99900	noncoding	germline	non_hotspot	fail	ERBB2	N/A	CCDS32642.1
+chr17.fa	37868715	C	T	1354	1354	1.00000	noncoding	germline	non_hotspot	fail	ERBB2	N/A	CCDS32642.1
+chr17.fa	37881653	A	T	6	957	0.00627	coding	not_germline	non_hotspot	fail	ERBB2	Y908F	CCDS32642.1
+chr17.fa	37883215	(null)	G	3	3161	0.00095	coding	not_germline	non_hotspot	fail	ERBB2	M1042Hfs*26	CCDS32642.1
+chr17.fa	37884037	C	G	2840	2843	0.99895	coding	germline	non_hotspot	fail	ERBB2	P1170A	CCDS32642.1
+chr17.fa	37893484	C	T	459	463	0.99136	noncoding	germline	non_hotspot	fail		N/A	CCDS56028.1
+chr17.fa	37921742	C	T	275	540	0.50926	noncoding	germline	non_hotspot	fail		N/A	NM_001257408
+chr17.fa	37929765	G	A	21	386	0.05440	noncoding	not_germline	non_hotspot	fail		N/A	CCDS11346.1
+chr17.fa	38556770	T	C	310	310	1.00000	noncoding	germline	non_hotspot	fail	TOP2A	N/A	CCDS45672.1
+chr17.fa	38559315	(null)	A	2	370	0.00541	noncoding	germline	non_hotspot	fail	TOP2A	N/A	CCDS45672.1
+chr17.fa	38560395	T	C	274	488	0.56148	noncoding	germline	non_hotspot	pass	TOP2A	N/A	CCDS45672.1
+chr17.fa	38569067	C	A	5	564	0.00887	coding	not_germline	non_hotspot	fail	TOP2A	D245Y	CCDS45672.1
+chr17.fa	41156510	C	T	916	920	0.99565	noncoding	germline	non_hotspot	fail		N/A	CCDS11450.1
+chr17.fa	41196408	G	A	504	936	0.53846	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41197274	C	A	1081	1901	0.56865	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41198704	G	A	89	162	0.54938	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41198775	(null)	AAAA	4	422	0.00948	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41200705	T	G	3	338	0.00888	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41201364	T	C	646	1209	0.53433	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41201702	C	T	434	766	0.56658	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41201785	G	A	63	1171	0.05380	noncoding	not_germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41202742	G	A	257	1167	0.22022	noncoding	not_germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41203325	T	A	844	1444	0.58449	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41203591	T	C	803	1396	0.57522	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41204569	G	(null)	2	542	0.00369	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41205472	G	A	13	130	0.10000	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41206762	TTT	(null)	1	7	0.14286	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41207253	G	A	338	1637	0.20648	noncoding	not_germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41211487	(null)	ACAACN	10	474	0.02110	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41211653	A	G	708	1363	0.51944	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41211879	CA	(null)	2	850	0.00235	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41213760	C	T	14	26	0.53846	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41214116	TTT	(null)	59	162	0.36420	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41215091	G	A	3	144	0.02083	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41215386	C	A	353	972	0.36317	coding	not_germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41215825	C	T	276	481	0.57381	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41216021	G	A	419	787	0.53240	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41216206	T	C	777	1451	0.53549	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41217874	C	T	642	1103	0.58205	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41218333	G	A	650	1137	0.57168	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41222099	C	T	21	41	0.51220	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41222462	A	G	812	1458	0.55693	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41223094	T	C	1131	2022	0.55935	coding	germline	non_hotspot	fail	BRCA1	S1634G	CCDS11456.2
+chr17.fa	41225725	T	C	2	164	0.01220	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41226601	G	C	633	1149	0.55091	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41226675	A	T	612	1165	0.52532	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41228426	G	A	24	462	0.05195	noncoding	not_germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41234470	A	G	1023	2049	0.49927	coding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41238619	C	T	273	535	0.51028	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41241213	A	G	2	90	0.02222	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41242285	T	G	683	1229	0.55574	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41243190	T	G	537	1002	0.53593	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41244000	T	C	862	1552	0.55541	coding	germline	non_hotspot	fail	BRCA1	K1183R	CCDS11456.2
+chr17.fa	41244435	T	C	721	1374	0.52475	coding	germline	non_hotspot	fail	BRCA1	E1038G	CCDS11456.2
+chr17.fa	41244936	G	A	916	1652	0.55448	coding	germline	non_hotspot	fail	BRCA1	P871L	CCDS11456.2
+chr17.fa	41245237	A	G	965	1796	0.53731	coding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41245466	G	A	973	1857	0.52396	coding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41245471	C	T	1036	1947	0.53210	coding	germline	non_hotspot	pass	BRCA1	D693N	CCDS11456.2
+chr17.fa	41251646	T	A	349	651	0.53610	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41252880	C	T	14	25	0.56000	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41254370	G	A	20	144	0.13889	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41254541	(null)	CTTT	1	92	0.01087	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41259383	G	A	4	13	0.30769	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41262549	G	A	213	389	0.54756	noncoding	germline	non_hotspot	pass	BRCA1	N/A	CCDS11456.2
+chr17.fa	41262742	A	T	2	130	0.01538	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41263118	(null)	AN	2	14	0.14286	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41265776	A	G	455	870	0.52299	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41267050	G	A	500	904	0.55310	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41267697	A	(null)	3	651	0.00461	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41269049	TT	(null)	8	995	0.00804	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41272021	A	(null)	2	266	0.00752	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41274905	AG	(null)	3	12	0.25000	noncoding	not_germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41277187	G	C	2123	4023	0.52772	noncoding	germline	non_hotspot	fail	BRCA1	N/A	CCDS11456.2
+chr17.fa	41287880	A	G	1584	2795	0.56673	noncoding	germline	non_hotspot	fail		N/A	-
+chr17.fa	41287924	C	A	1553	2861	0.54282	noncoding	germline	non_hotspot	fail		N/A	-
+chr17.fa	41327685	(null)	TG	462	445	1.03820	noncoding	germline	non_hotspot	fail		N/A	CCDS45694.1
+chr17.fa	41327688	C	A	4	505	0.00792	noncoding	not_germline	non_hotspot	fail		N/A	NM_005899
+chr17.fa	41607978	GTGTGTGT	(null)	2720	4931	0.55161	noncoding	not_germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41607978	GTGTGTGTGTGT	(null)	28	4931	0.00568	noncoding	not_germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41607987	T	C	2407	5038	0.47777	noncoding	not_germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41609336	T	C	303	538	0.56320	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41610089	G	C	60	4007	0.01497	coding	not_germline	non_hotspot	fail	ETV4	A255G	CCDS11465.1
+chr17.fa	41610398	C	T	624	1158	0.53886	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41614213	T	C	855	1438	0.59458	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41615830	T	C	1430	2511	0.56949	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41616456	G	C	1723	1724	0.99942	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41617415	A	G	486	1244	0.39068	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41618566	C	G	4093	4098	0.99878	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41618677	C	G	2279	2285	0.99737	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41620035	C	G	6175	6184	0.99855	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41620645	(null)	CTCTCCCT	3	603	0.00498	noncoding	not_germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41620664	T	A	876	1045	0.83828	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41621156	T	A	2144	2146	0.99907	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41621999	G	A	941	944	0.99682	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41622507	A	G	1108	1108	1.00000	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41622544	G	(null)	2	598	0.00334	noncoding	not_germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41622740	G	T	2361	2361	1.00000	noncoding	germline	non_hotspot	fail	ETV4	N/A	CCDS11465.1
+chr17.fa	41623212	G	A	3372	3376	0.99882	noncoding	germline	non_hotspot	fail	ETV4	N/A	NM_001079675
+chr17.fa	41623670	C	T	2436	2437	0.99959	noncoding	germline	non_hotspot	fail	ETV4	N/A	NM_001079675
+chr17.fa	47685281	C	T	3	226	0.01327	coding	not_germline	non_hotspot	fail	SPOP	N/A	CCDS11551.1
+chr17.fa	47696469	C	A	3	441	0.00680	coding	not_germline	non_hotspot	fail	SPOP	E118D	CCDS11551.1
+chr17.fa	47696587	A	(null)	275	486	0.56584	noncoding	germline	non_hotspot	fail	SPOP	N/A	CCDS11551.1
+chr17.fa	56435080	G	C	3780	3791	0.99710	coding	germline	non_hotspot	pass	RNF43	P686R	CCDS11607.1
+chr17.fa	56787224	G	T	4	350	0.01143	coding	not_germline	non_hotspot	fail	RAD51C	R237L	CCDS11611.1
+chr17.fa	59770816	C	T	46	235	0.19575	coding	not_germline	non_hotspot	pass	BRIP1	N/A	CCDS11631.1
+chr17.fa	59861786	C	A	2	179	0.01117	coding	not_germline	non_hotspot	fail	BRIP1	N/A	CCDS11631.1
+chr17.fa	62007498	A	G	2638	2640	0.99924	coding	germline	non_hotspot	fail	CD79B	N/A	CCDS42372.1
+chr17.fa	63532555	C	G	27	4655	0.00580	coding	not_germline	non_hotspot	fail	AXIN2	R675P	CCDS11662.1
+chr17.fa	63533768	G	A	1909	4449	0.42909	coding	germline	non_hotspot	fail	AXIN2	N/A	CCDS11662.1
+chr17.fa	63533789	T	C	4257	4264	0.99836	coding	germline	non_hotspot	fail	AXIN2	N/A	CCDS11662.1
+chr17.fa	63554591	G	A	3238	3239	0.99969	coding	germline	non_hotspot	fail	AXIN2	P50S	CCDS11662.1
+chr17.fa	73774877	G	A	1682	4165	0.40384	noncoding	germline	non_hotspot	fail	H3F3B	N/A	CCDS11729.1
+chr17.fa	7579472	G	C	1359	2745	0.49508	coding	germline	non_hotspot	fail	TP53	P72R	CCDS11118.1
+chr17.fa	78820329	C	T	4027	7210	0.55853	coding	germline	non_hotspot	fail	RPTOR	N/A	CCDS11773.1
+chr17.fa	78831583	(null)	C	6	9467	0.00063	noncoding	not_germline	non_hotspot	fail	RPTOR	N/A	CCDS11773.1
+chr17.fa	78858816	C	A	7	9143	0.00077	coding	not_germline	non_hotspot	fail	RPTOR	C617*	CCDS11773.1
+chr17.fa	78896529	C	T	7081	7087	0.99915	coding	germline	non_hotspot	fail	RPTOR	N/A	CCDS11773.1
+chr17.fa	78921117	C	T	4858	4863	0.99897	coding	germline	non_hotspot	fail	RPTOR	N/A	CCDS11773.1
+chr17.fa	78935179	C	T	680	4897	0.13886	noncoding	not_germline	non_hotspot	fail	RPTOR	N/A	CCDS11773.1
+chr17.fa	7980475	G	A	362	2923	0.12385	coding	not_germline	non_hotspot	pass	ALOX12B	N/A	CCDS11129.1
+chr17.fa	7983969	G	C	2054	2056	0.99903	noncoding	germline	non_hotspot	fail	ALOX12B	N/A	CCDS11129.1
+chr17.fa	7984302	G	A	498	3389	0.14695	noncoding	not_germline	non_hotspot	pass	ALOX12B	N/A	CCDS11129.1
+chr17.fa	8108331	A	G	5149	5168	0.99632	coding	germline	non_hotspot	fail	AURKB	M298T	CCDS11134.1
+chr17.fa	8108339	G	A	4919	4921	0.99959	coding	germline	non_hotspot	fail	AURKB	N/A	CCDS11134.1
+chr18.fa	39593391	T	A	3	138	0.02174	noncoding	not_germline	non_hotspot	fail	PIK3C3	N/A	CCDS11920.1
+chr18.fa	39609358	C	A	5	697	0.00717	coding	not_germline	non_hotspot	fail	PIK3C3	H554N	CCDS11920.1
+chr18.fa	48593424	AAGGTG	(null)	2	637	0.00314	coding	not_germline	non_hotspot	fail	SMAD4	E394_G395del	CCDS11950.1
+chr18.fa	48593442	G	(null)	3	750	0.00400	coding	not_germline	non_hotspot	fail	SMAD4	V399Sfs*16	CCDS11950.1
+chr18.fa	48593454	T	(null)	3	766	0.00392	coding	not_germline	non_hotspot	fail	SMAD4	S403Vfs*12	CCDS11950.1
+chr18.fa	59483460	G	A	804	6614	0.12156	coding	not_germline	non_hotspot	fail		N/A	CCDS11978.1
+chr18.fa	724612	A	G	649	649	1.00000	coding	germline	non_hotspot	fail	YES1	N/A	CCDS11824.1
+chr18.fa	736979	A	(null)	2	209	0.00957	noncoding	not_germline	non_hotspot	fail	YES1	N/A	CCDS11824.1
+chr19.fa	10246788	C	T	210	1541	0.13628	noncoding	germline	non_hotspot	pass	DNMT1	N/A	CCDS45958.1
+chr19.fa	10260637	C	T	6	827	0.00726	coding	not_germline	non_hotspot	fail	DNMT1	G758E	CCDS45958.1
+chr19.fa	10265248	T	C	4036	4047	0.99728	noncoding	germline	non_hotspot	fail	DNMT1	N/A	CCDS45958.1
+chr19.fa	10265312	T	C	4686	4697	0.99766	coding	germline	non_hotspot	fail	DNMT1	N/A	CCDS45958.1
+chr19.fa	10267077	T	C	714	716	0.99721	coding	germline	non_hotspot	fail	DNMT1	N/A	CCDS45958.1
+chr19.fa	10270747	A	(null)	861	866	0.99423	noncoding	germline	non_hotspot	fail	DNMT1	N/A	CCDS45958.1
+chr19.fa	11105608	T	C	1796	3585	0.50098	coding	germline	non_hotspot	fail	SMARCA4	N/A	CCDS12253.1
+chr19.fa	11136101	A	(null)	4	3775	0.00106	coding	not_germline	non_hotspot	fail	SMARCA4	G1030Afs*6	CCDS12253.1
+chr19.fa	11170839	T	C	1526	3230	0.47245	coding	germline	non_hotspot	fail	SMARCA4	N/A	CCDS12253.1
+chr19.fa	1222012	G	C	1838	3978	0.46204	noncoding	germline	non_hotspot	fail	STK11	N/A	CCDS45896.1
+chr19.fa	15271771	G	A	1422	3066	0.46380	coding	germline	non_hotspot	fail	NOTCH3	A2223V	CCDS12326.1
+chr19.fa	15273285	C	T	187	1287	0.14530	coding	not_germline	non_hotspot	pass	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15273381	A	G	1261	1262	0.99921	noncoding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15276919	G	A	1404	1404	1.00000	noncoding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15278057	A	G	3153	3153	1.00000	noncoding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15285052	T	C	5374	5386	0.99777	coding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15292437	T	C	2980	2989	0.99699	coding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15295134	G	A	1067	2251	0.47401	coding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15296391	G	A	667	4967	0.13429	coding	not_germline	non_hotspot	pass	NOTCH3	P684L	CCDS12326.1
+chr19.fa	15300069	T	C	4579	4584	0.99891	noncoding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15302844	T	C	4234	4245	0.99741	coding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15303225	G	A	3010	6055	0.49711	coding	germline	non_hotspot	fail	NOTCH3	N/A	CCDS12326.1
+chr19.fa	15354223	C	G	25	2117	0.01181	coding	not_germline	non_hotspot	fail	BRD4	R886P	CCDS12328.1
+chr19.fa	15375248	G	T	5	2267	0.00221	coding	not_germline	non_hotspot	fail	BRD4	N/A	CCDS12328.1
+chr19.fa	15376324	C	G	18	3219	0.00559	coding	not_germline	non_hotspot	fail	BRD4	N/A	CCDS12328.1
+chr19.fa	15383781	T	G	31	1940	0.01598	coding	not_germline	non_hotspot	fail	BRD4	N44H	CCDS12328.1
+chr19.fa	17941294	T	C	1432	2713	0.52783	noncoding	germline	non_hotspot	fail	JAK3	N/A	CCDS12366.1
+chr19.fa	17945489	G	(null)	5	2589	0.00193	coding	not_germline	non_hotspot	fail	JAK3	K748Sfs*8	CCDS12366.1
+chr19.fa	17952185	G	T	1597	3530	0.45241	noncoding	germline	non_hotspot	fail	JAK3	N/A	CCDS12366.1
+chr19.fa	17954288	G	(null)	6	2077	0.00289	coding	not_germline	non_hotspot	fail	JAK3	N108Ifs*39	CCDS12366.1
+chr19.fa	18273047	T	C	3009	3015	0.99801	coding	germline	non_hotspot	fail	PIK3R2	S313P	CCDS12371.1
+chr19.fa	18279638	T	C	6107	6120	0.99788	coding	germline	non_hotspot	fail	PIK3R2	N/A	CCDS12371.1
+chr19.fa	18280044	C	T	1338	2731	0.48993	coding	germline	non_hotspot	pass	PIK3R2	N/A	CCDS12371.1
+chr19.fa	18280096	G	A	726	1518	0.47826	coding	germline	non_hotspot	pass	PIK3R2	A727T	CCDS12371.1
+chr19.fa	19258656	G	A	667	1483	0.44976	noncoding	germline	non_hotspot	fail	MEF2B	N/A	CCDS46024.1
+chr19.fa	2211189	G	C	41	4778	0.00858	coding	not_germline	non_hotspot	fail	DOT1L	N/A	CCDS42460.1
+chr19.fa	2226676	G	A	2412	4867	0.49558	coding	germline	non_hotspot	fail	DOT1L	G1386S	CCDS42460.1
+chr19.fa	2226772	G	C	2815	5743	0.49016	coding	germline	non_hotspot	fail	DOT1L	V1418L	CCDS42460.1
+chr19.fa	29698925	C	T	18	1637	0.01100	coding	not_germline	non_hotspot	fail		G119R	CCDS12415.1
+chr19.fa	30106275	G	A	297	598	0.49666	coding	germline	non_hotspot	fail		N/A	CCDS12416.1
+chr19.fa	30253998	C	T	944	2024	0.46640	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30256451	G	A	318	709	0.44852	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30256562	C	T	17	151	0.11258	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr19.fa	30312667	G	T	4	542	0.00738	coding	not_germline	non_hotspot	fail	CCNE1	N/A	CCDS12419.1
+chr19.fa	30319969	T	C	321	324	0.99074	noncoding	germline	non_hotspot	fail	CCNE1	N/A	NM_001238
+chr19.fa	30324448	G	C	1428	3145	0.45405	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30330444	G	A	455	902	0.50444	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30330542	G	A	93	729	0.12757	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr19.fa	30356828	T	A	468	468	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30359093	A	G	269	269	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30360629	T	C	243	243	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30361995	G	T	392	392	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	30362112	C	T	999	999	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	3110349	T	G	1504	2913	0.51631	noncoding	germline	non_hotspot	fail	GNA11	N/A	CCDS12103.1
+chr19.fa	3119184	T	G	2488	2496	0.99680	noncoding	germline	non_hotspot	fail	GNA11	N/A	CCDS12103.1
+chr19.fa	35828825	C	A	6	3192	0.00188	coding	not_germline	non_hotspot	fail	CD22	L296M	CCDS12457.1
+chr19.fa	35835940	C	T	640	1253	0.51077	noncoding	germline	non_hotspot	fail	CD22	N/A	CCDS12457.1
+chr19.fa	4102449	G	A	1429	3020	0.47318	coding	germline	non_hotspot	fail	MAP2K2	N/A	CCDS12120.1
+chr19.fa	4117406	G	C	12	1080	0.01111	noncoding	not_germline	non_hotspot	fail	MAP2K2	N/A	CCDS12120.1
+chr19.fa	41675905	T	C	3255	3255	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41684887	C	G	610	1297	0.47032	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41684908	C	T	7	1115	0.00628	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr19.fa	41690171	A	G	387	736	0.52582	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41690186	T	C	459	859	0.53434	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41690239	A	C	507	1004	0.50498	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41691889	C	T	97	268	0.36194	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	41695885	(null)	TT	11	366	0.03005	noncoding	not_germline	non_hotspot	fail		N/A	CCDS12573.1
+chr19.fa	41696002	C	T	20	53	0.37736	noncoding	germline	non_hotspot	fail		N/A	CCDS12573.1
+chr19.fa	41703660	T	C	980	2053	0.47735	noncoding	germline	non_hotspot	fail		N/A	CCDS12573.1
+chr19.fa	41724885	G	A	2034	4016	0.50647	noncoding	germline	non_hotspot	fail	AXL	N/A	CCDS12574.1
+chr19.fa	41726597	C	G	22	2789	0.00789	coding	not_germline	non_hotspot	fail	AXL	R48G	CCDS12574.1
+chr19.fa	41737996	A	G	1413	1413	1.00000	noncoding	germline	non_hotspot	fail	AXL	N/A	CCDS12574.1
+chr19.fa	41738716	C	T	386	817	0.47246	noncoding	germline	non_hotspot	pass	AXL	N/A	CCDS12574.1
+chr19.fa	41743861	A	G	2209	2211	0.99910	coding	germline	non_hotspot	fail	AXL	N266D	CCDS12574.1
+chr19.fa	41766630	A	(null)	2	442	0.00452	noncoding	not_germline	non_hotspot	fail		N/A	CCDS12576.1
+chr19.fa	42776574	T	C	1842	3948	0.46657	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	42776580	T	C	1825	3937	0.46355	noncoding	germline	non_hotspot	fail		N/A	-
+chr19.fa	42777246	T	A	24	3297	0.00728	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr19.fa	42777558	C	G	44	5508	0.00799	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr19.fa	42795554	T	C	2955	6108	0.48379	coding	germline	non_hotspot	pass	CIC	N/A	CCDS12601.1
+chr19.fa	44047826	T	A	1390	1391	0.99928	coding	germline	non_hotspot	fail	XRCC1	N576Y	CCDS12624.1
+chr19.fa	44050195	C	T	1361	2878	0.47290	noncoding	germline	non_hotspot	fail	XRCC1	N/A	CCDS12624.1
+chr19.fa	44055726	T	C	2529	5209	0.48551	coding	germline	non_hotspot	fail	XRCC1	Q399R	CCDS12624.1
+chr19.fa	44057227	T	C	1055	2048	0.51514	coding	germline	non_hotspot	fail	XRCC1	N/A	CCDS12624.1
+chr19.fa	45854919	T	G	1067	2217	0.48128	coding	germline	non_hotspot	fail	ERCC2	K751Q	CCDS33049.1
+chr19.fa	45855524	G	A	2911	6023	0.48331	coding	germline	non_hotspot	fail	ERCC2	N/A	CCDS33049.1
+chr19.fa	45860880	G	A	7	3507	0.00200	noncoding	not_germline	non_hotspot	fail	ERCC2	N/A	CCDS33049.1
+chr19.fa	45868309	T	G	1507	3111	0.48441	coding	germline	non_hotspot	fail	ERCC2	N/A	CCDS33049.1
+chr19.fa	45923653	A	G	1624	3464	0.46882	coding	germline	non_hotspot	fail	ERCC1	N/A	CCDS12663.1
+chr19.fa	50919797	C	T	3015	3021	0.99801	noncoding	germline	non_hotspot	fail	POLD1	N/A	CCDS12795.1
+chr19.fa	5206775	A	G	1525	1537	0.99219	noncoding	germline	non_hotspot	fail	PTPRS	N/A	NM_002850
+chr19.fa	5208236	G	A	854	1906	0.44806	noncoding	germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5210622	G	A	2280	4545	0.50165	noncoding	germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5210782	G	A	2625	5781	0.45407	coding	germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5211651	C	A	7	3128	0.00224	coding	not_germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5212380	C	T	2316	5099	0.45421	coding	germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5212482	G	A	2213	4711	0.46975	coding	germline	non_hotspot	pass	PTPRS	N/A	CCDS45930.1
+chr19.fa	5214697	A	G	5067	5075	0.99842	coding	germline	non_hotspot	fail	PTPRS	C1457R	CCDS45930.1
+chr19.fa	5220255	G	A	6	2509	0.00239	noncoding	not_germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	5231453	G	A	709	5532	0.12816	coding	not_germline	non_hotspot	pass	PTPRS	P675S	CCDS45930.1
+chr19.fa	5265222	G	A	4083	4083	1.00000	noncoding	germline	non_hotspot	fail	PTPRS	N/A	CCDS45930.1
+chr19.fa	52719239	C	T	252	1906	0.13221	noncoding	not_germline	non_hotspot	fail	PPP2R1A	N/A	CCDS12849.1
+chr19.fa	7293898	G	C	291	291	1.00000	coding	germline	non_hotspot	fail	INSR	A2G	CCDS12176.1
+chr2.fa	109370262	A	G	47	93	0.50538	noncoding	germline	non_hotspot	fail	RANBP2	N/A	CCDS2079.1
+chr2.fa	109380085	T	(null)	4	897	0.00446	coding	not_germline	non_hotspot	fail	RANBP2	F1031Lfs*22	CCDS2079.1
+chr2.fa	109382235	G	(null)	3	1189	0.00252	coding	not_germline	non_hotspot	fail	RANBP2	C1747Ffs*21	CCDS2079.1
+chr2.fa	109382673	T	A	3	362	0.00829	coding	not_germline	non_hotspot	fail	RANBP2	V1893E	CCDS2079.1
+chr2.fa	109389463	G	A	301	301	1.00000	coding	germline	non_hotspot	fail	RANBP2	N/A	CCDS2079.1
+chr2.fa	109392178	C	G	2	117	0.01709	noncoding	not_germline	non_hotspot	fail	RANBP2	N/A	CCDS2079.1
+chr2.fa	109393621	A	G	4	550	0.00727	coding	not_germline	non_hotspot	fail	RANBP2	S2845G	CCDS2079.1
+chr2.fa	111899881	G	A	221	453	0.48786	noncoding	germline	non_hotspot	fail	BCL2L11	N/A	CCDS2089.1
+chr2.fa	111899983	T	(null)	2	323	0.00619	noncoding	not_germline	non_hotspot	fail	BCL2L11	N/A	CCDS2089.1
+chr2.fa	111907691	T	C	1871	1883	0.99363	coding	germline	non_hotspot	fail	BCL2L11	N/A	CCDS2089.1
+chr2.fa	112686988	G	A	995	998	0.99699	coding	germline	non_hotspot	fail	MERTK	S118N	CCDS2094.1
+chr2.fa	112702647	C	T	401	402	0.99751	noncoding	germline	non_hotspot	fail	MERTK	N/A	CCDS2094.1
+chr2.fa	112705157	T	C	1254	1256	0.99841	noncoding	germline	non_hotspot	fail	MERTK	N/A	CCDS2094.1
+chr2.fa	112751928	G	A	1984	1985	0.99950	coding	germline	non_hotspot	fail	MERTK	R466K	CCDS2094.1
+chr2.fa	112754880	G	A	425	425	1.00000	noncoding	germline	non_hotspot	fail	MERTK	N/A	CCDS2094.1
+chr2.fa	112754943	C	T	639	640	0.99844	coding	germline	non_hotspot	fail	MERTK	N/A	CCDS2094.1
+chr2.fa	112755001	A	G	582	582	1.00000	coding	germline	non_hotspot	fail	MERTK	I518V	CCDS2094.1
+chr2.fa	112765973	A	G	881	881	1.00000	coding	germline	non_hotspot	fail	MERTK	N/A	CCDS2094.1
+chr2.fa	113977862	T	G	4902	4915	0.99736	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113977936	C	T	1291	2805	0.46025	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113978940	C	G	410	824	0.49757	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113981137	T	C	667	1353	0.49298	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113983367	G	A	423	912	0.46382	noncoding	germline	non_hotspot	pass	PAX8	N/A	CCDS42735.1
+chr2.fa	113984033	G	A	519	1120	0.46339	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113985186	C	G	469	1000	0.46900	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113988483	C	T	119	851	0.13984	noncoding	not_germline	non_hotspot	pass	PAX8	N/A	CCDS42735.1
+chr2.fa	113989123	(null)	G	894	1849	0.48351	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990242	T	C	1292	2870	0.45017	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990261	G	A	1285	2811	0.45713	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990393	C	A	1644	3493	0.47066	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990922	A	C	34	402	0.08458	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990923	(null)	AC	6	402	0.01493	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990923	(null)	ANC	2	402	0.00498	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113990923	(null)	C	21	402	0.05224	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113991970	A	G	1320	2629	0.50209	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113992801	CC	(null)	1679	3249	0.51677	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993250	C	G	19	5160	0.00368	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993254	C	G	36	5058	0.00712	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993344	A	C	2717	5610	0.48431	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993385	C	G	2423	5119	0.47334	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993718	C	T	865	4520	0.19137	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113993939	C	T	587	3547	0.16549	noncoding	not_germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	113999534	G	C	2233	4728	0.47229	noncoding	germline	non_hotspot	fail	PAX8	N/A	CCDS42735.1
+chr2.fa	136873162	G	A	419	3552	0.11796	coding	not_germline	non_hotspot	pass	CXCR4	N/A	CCDS33295.1
+chr2.fa	140992337	C	A	350	350	1.00000	noncoding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141032088	C	T	632	632	1.00000	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141081458	T	(null)	1	43	0.02326	noncoding	not_germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141130601	C	T	79	560	0.14107	coding	not_germline	non_hotspot	pass	LRP1B	E3582K	CCDS2182.1
+chr2.fa	141215150	C	T	140	957	0.14629	coding	not_germline	non_hotspot	pass	LRP1B	N/A	CCDS2182.1
+chr2.fa	141232707	C	A	74	158	0.46835	coding	germline	non_hotspot	pass	LRP1B	V3209F	CCDS2182.1
+chr2.fa	141243098	A	(null)	2	360	0.00556	noncoding	not_germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141259283	G	A	300	630	0.47619	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141259376	G	A	348	698	0.49857	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141260668	A	G	542	542	1.00000	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141267537	G	A	373	3144	0.11864	coding	not_germline	non_hotspot	pass	LRP1B	N/A	CCDS2182.1
+chr2.fa	141274576	T	C	275	277	0.99278	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141291656	G	A	42	346	0.12139	coding	not_germline	non_hotspot	pass	LRP1B	P2566S	CCDS2182.1
+chr2.fa	141298674	T	C	447	448	0.99777	noncoding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141298682	G	C	406	407	0.99754	noncoding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141359179	G	A	71	518	0.13707	coding	not_germline	non_hotspot	pass	LRP1B	H2277Y	CCDS2182.1
+chr2.fa	141526868	C	T	42	318	0.13208	coding	not_germline	non_hotspot	pass	LRP1B	G1891E	CCDS2182.1
+chr2.fa	141526869	C	T	41	304	0.13487	coding	not_germline	non_hotspot	pass	LRP1B	G1891R	CCDS2182.1
+chr2.fa	141533790	C	T	4	227	0.01762	coding	not_germline	non_hotspot	fail	LRP1B	A1793T	CCDS2182.1
+chr2.fa	141598681	A	C	104	222	0.46847	noncoding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141607881	G	A	7	64	0.10938	coding	not_germline	non_hotspot	pass	LRP1B	L1577F	CCDS2182.1
+chr2.fa	141751592	G	A	413	826	0.50000	coding	germline	non_hotspot	fail	LRP1B	N/A	CCDS2182.1
+chr2.fa	141751609	C	T	103	909	0.11331	coding	not_germline	non_hotspot	pass	LRP1B	D867N	CCDS2182.1
+chr2.fa	141806601	G	A	47	500	0.09400	coding	not_germline	non_hotspot	pass	LRP1B	N/A	CCDS2182.1
+chr2.fa	158626980	C	T	920	920	1.00000	coding	germline	non_hotspot	fail	ACVR1	N/A	CCDS2206.1
+chr2.fa	158636910	G	A	1822	1823	0.99945	coding	germline	non_hotspot	fail	ACVR1	N/A	CCDS2206.1
+chr2.fa	16035200	G	A	10	130	0.07692	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr2.fa	16052245	C	T	50	100	0.50000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16088880	A	C	627	628	0.99841	noncoding	germline	non_hotspot	fail	MYCN	N/A	CCDS1687.1
+chr2.fa	16090424	T	C	2247	2251	0.99822	noncoding	germline	non_hotspot	fail	MYCN	N/A	CCDS1687.1
+chr2.fa	16090433	C	T	990	2209	0.44817	noncoding	germline	non_hotspot	pass	MYCN	N/A	CCDS1687.1
+chr2.fa	16108123	C	A	683	683	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16110604	T	G	421	422	0.99763	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16114755	C	T	807	807	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16114765	G	C	880	882	0.99773	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16120340	T	C	468	468	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16123022	T	A	2123	2123	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	16136435	C	T	23	40	0.57500	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	173460640	T	C	639	1173	0.54476	coding	germline	non_hotspot	pass	PDK1	N/A	CCDS2250.1
+chr2.fa	191897687	C	T	33	378	0.08730	coding	not_germline	non_hotspot	pass	STAT4	E681K	CCDS2310.1
+chr2.fa	191898281	A	(null)	6	574	0.01045	coding	not_germline	non_hotspot	fail	STAT4	L596Yfs*2	CCDS2310.1
+chr2.fa	191927519	C	A	4	511	0.00783	coding	not_germline	non_hotspot	fail	STAT4	V304F	CCDS2310.1
+chr2.fa	198265486	G	A	4	344	0.01163	coding	not_germline	non_hotspot	fail	SF3B1	Q891*	CCDS33356.1
+chr2.fa	198281513	C	T	7	609	0.01149	coding	not_germline	non_hotspot	fail	SF3B1	N/A	CCDS33356.1
+chr2.fa	202122995	A	G	1734	1734	1.00000	coding	germline	non_hotspot	fail	CASP8	K14R	CCDS42798.1
+chr2.fa	202149589	G	C	260	593	0.43845	coding	germline	non_hotspot	fail	CASP8	D344H	CCDS42798.1
+chr2.fa	202151163	A	G	571	571	1.00000	noncoding	germline	non_hotspot	fail	CASP8	N/A	CCDS42798.1
+chr2.fa	204732714	A	G	818	1537	0.53221	coding	germline	non_hotspot	fail	CTLA4	T17A	CCDS2362.1
+chr2.fa	209113113	G	A	88	699	0.12589	coding	not_germline	hotspot	pass	IDH1	R132C	CCDS2381.1
+chr2.fa	212251585	G	T	6	1544	0.00389	coding	not_germline	non_hotspot	fail	ERBB4	N/A	CCDS2394.1
+chr2.fa	212252714	C	T	5	262	0.01908	coding	not_germline	non_hotspot	fail	ERBB4	E1047K	CCDS2394.1
+chr2.fa	212530048	C	T	104	940	0.11064	coding	not_germline	non_hotspot	pass	ERBB4	G624E	CCDS2394.1
+chr2.fa	212566786	G	T	273	611	0.44681	coding	germline	non_hotspot	pass	ERBB4	N465K	CCDS2394.1
+chr2.fa	212566900	G	A	49	405	0.12099	noncoding	not_germline	non_hotspot	pass	ERBB4	N/A	CCDS2394.1
+chr2.fa	212566901	G	A	48	395	0.12152	noncoding	not_germline	non_hotspot	pass	ERBB4	N/A	CCDS2394.1
+chr2.fa	212568844	C	T	42	301	0.13954	coding	not_germline	non_hotspot	pass	ERBB4	G425E	CCDS2394.1
+chr2.fa	212652733	A	G	2	185	0.01081	noncoding	not_germline	non_hotspot	fail	ERBB4	N/A	CCDS2394.1
+chr2.fa	215632256	A	G	655	655	1.00000	coding	germline	non_hotspot	fail	BARD1	N/A	CCDS2397.1
+chr2.fa	215645947	(null)	T	2	561	0.00357	coding	not_germline	non_hotspot	fail	BARD1	W218Mfs*11	CCDS2397.1
+chr2.fa	219000253	G	(null)	8	5152	0.00155	coding	not_germline	non_hotspot	fail	CXCR2	Q245Rfs*33	CCDS2408.1
+chr2.fa	219000310	C	T	2615	5171	0.50571	coding	germline	non_hotspot	fail	CXCR2	N/A	CCDS2408.1
+chr2.fa	219000401	G	A	714	5638	0.12664	coding	not_germline	non_hotspot	pass	CXCR2	D293N	CCDS2408.1
+chr2.fa	225371609	T	A	3	443	0.00677	coding	not_germline	non_hotspot	fail	CUL3	E332V	CCDS2462.1
+chr2.fa	225400305	A	G	2	273	0.00733	coding	not_germline	non_hotspot	fail	CUL3	N/A	CCDS2462.1
+chr2.fa	242793273	A	G	1835	3636	0.50468	coding	germline	non_hotspot	fail	PDCD1	N/A	CCDS33428.1
+chr2.fa	242794914	G	T	7	5977	0.00117	coding	not_germline	non_hotspot	fail	PDCD1	Q99K	CCDS33428.1
+chr2.fa	25469913	C	T	1446	3018	0.47913	noncoding	germline	non_hotspot	fail	DNMT3A	N/A	CCDS33157.1
+chr2.fa	29416572	T	C	3480	3481	0.99971	coding	germline	non_hotspot	fail	ALK	I1461V	CCDS33172.1
+chr2.fa	29436865	T	(null)	3	2771	0.00108	coding	not_germline	non_hotspot	fail	ALK	N1243Tfs*15	CCDS33172.1
+chr2.fa	29446202	G	A	1521	3354	0.45349	noncoding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	29446721	A	G	608	609	0.99836	noncoding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	29447108	G	A	745	1431	0.52062	noncoding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	29450480	G	T	5	1334	0.00375	coding	not_germline	non_hotspot	fail	ALK	F958L	CCDS33172.1
+chr2.fa	29455267	A	G	2005	3850	0.52078	coding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	29543663	T	C	1888	1890	0.99894	coding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	30143499	G	C	1112	1116	0.99642	coding	germline	non_hotspot	fail	ALK	N/A	CCDS33172.1
+chr2.fa	39536588	G	A	3	350	0.00857	noncoding	not_germline	non_hotspot	fail		N/A	CCDS1803.1
+chr2.fa	46583278	(null)	CG	452	647	0.69861	noncoding	not_germline	non_hotspot	fail	EPAS1	N/A	CCDS1825.1
+chr2.fa	46583279	C	T	460	654	0.70336	noncoding	germline	non_hotspot	fail	EPAS1	N/A	CCDS1825.1
+chr2.fa	46583281	C	T	510	700	0.72857	noncoding	germline	non_hotspot	fail	EPAS1	N/A	CCDS1825.1
+chr2.fa	47601106	T	C	890	1625	0.54769	coding	germline	non_hotspot	fail	EPCAM	M115T	CCDS1833.1
+chr2.fa	47606962	G	A	38	300	0.12667	coding	not_germline	non_hotspot	pass	EPCAM	E238K	CCDS1833.1
+chr2.fa	47629898	T	G	903	1795	0.50306	noncoding	germline	non_hotspot	fail	MSH2	N/A	CCDS1834.1
+chr2.fa	47641441	T	(null)	3	505	0.00594	coding	not_germline	non_hotspot	fail	MSH2	L277*	CCDS1834.1
+chr2.fa	47693600	T	C	1	8	0.12500	noncoding	not_germline	non_hotspot	fail	MSH2	N/A	CCDS1834.1
+chr2.fa	47795272	G	A	481	984	0.48882	noncoding	germline	non_hotspot	fail		N/A	CCDS1835.1
+chr2.fa	47852559	A	G	354	355	0.99718	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	47853181	G	C	336	653	0.51455	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	47853280	C	G	1433	1433	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	47885927	G	C	794	1711	0.46406	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	47952707	C	T	89	230	0.38696	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	47952777	C	T	344	344	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr2.fa	48010558	C	A	825	1699	0.48558	coding	germline	non_hotspot	fail	MSH6	N/A	CCDS1836.1
+chr2.fa	48018081	A	G	228	506	0.45059	coding	germline	non_hotspot	pass	MSH6	N/A	CCDS1836.1
+chr2.fa	48023115	T	C	275	572	0.48077	coding	germline	non_hotspot	fail	MSH6	N/A	CCDS1836.1
+chr2.fa	48027866	C	(null)	2	557	0.00359	coding	not_germline	non_hotspot	fail	MSH6	F916Lfs*29	CCDS1836.1
+chr2.fa	54839276	A	G	805	1581	0.50917	noncoding	germline	non_hotspot	fail		N/A	CCDS33198.1
+chr2.fa	58387258	A	G	75	182	0.41209	coding	germline	non_hotspot	pass	FANCL	N/A	CCDS46294.1
+chr2.fa	58392978	A	(null)	5	485	0.01031	coding	not_germline	non_hotspot	fail	FANCL	L196Wfs*4	CCDS46294.1
+chr2.fa	61720121	C	A	2	222	0.00901	coding	not_germline	non_hotspot	fail	XPO1	G438V	CCDS33205.1
+chr2.fa	61725856	G	A	107	269	0.39777	coding	germline	non_hotspot	pass	XPO1	N/A	CCDS33205.1
+chr2.fa	99149946	G	A	446	1099	0.40582	coding	germline	non_hotspot	fail	INPP4A	N/A	CCDS46369.1
+chr2.fa	99172244	A	G	1580	3017	0.52370	coding	germline	non_hotspot	fail	INPP4A	T604A	CCDS46369.1
+chr2.fa	99193496	C	T	2391	5205	0.45937	coding	germline	non_hotspot	fail	INPP4A	N/A	CCDS46369.1
+chr20.fa	30729488	T	C	2348	5547	0.42329	noncoding	germline	non_hotspot	fail		N/A	CCDS13196.2
+chr20.fa	31022959	T	C	1979	1982	0.99849	coding	germline	non_hotspot	fail	ASXL1	L815P	CCDS13201.1
+chr20.fa	31372544	C	T	531	1462	0.36320	noncoding	not_germline	non_hotspot	fail	DNMT3B	N/A	CCDS13204.1
+chr20.fa	31383353	T	G	970	2258	0.42958	noncoding	germline	non_hotspot	fail	DNMT3B	N/A	CCDS13204.1
+chr20.fa	31386347	T	C	2587	6032	0.42888	coding	germline	non_hotspot	fail	DNMT3B	N/A	CCDS13205.1
+chr20.fa	31388636	T	C	752	1680	0.44762	noncoding	germline	non_hotspot	fail	DNMT3B	N/A	CCDS13205.1
+chr20.fa	36024734	C	G	16	2832	0.00565	noncoding	not_germline	non_hotspot	fail	SRC	N/A	CCDS13294.1
+chr20.fa	36030939	G	C	5964	5971	0.99883	coding	germline	non_hotspot	fail	SRC	N/A	CCDS13294.1
+chr20.fa	40790031	C	T	447	3651	0.12243	coding	not_germline	non_hotspot	pass	PTPRT	M881I	CCDS42874.1
+chr20.fa	41306600	A	G	1040	2100	0.49524	coding	germline	non_hotspot	fail	PTPRT	N/A	CCDS42874.1
+chr20.fa	41385290	G	A	352	2630	0.13384	noncoding	not_germline	non_hotspot	fail	PTPRT	N/A	CCDS42874.1
+chr20.fa	41400190	C	T	90	731	0.12312	coding	not_germline	non_hotspot	pass	PTPRT	R190K	CCDS42874.1
+chr20.fa	46265251	G	A	39	978	0.03988	coding	not_germline	non_hotspot	pass	NCOA3	N/A	CCDS13407.1
+chr20.fa	46267950	C	T	279	279	1.00000	noncoding	germline	non_hotspot	fail	NCOA3	N/A	CCDS13407.1
+chr20.fa	46268493	A	G	281	682	0.41202	coding	germline	non_hotspot	fail	NCOA3	N/A	CCDS13407.1
+chr20.fa	46279827	G	A	525	1084	0.48432	coding	germline	non_hotspot	fail	NCOA3	N/A	CCDS13407.1
+chr20.fa	46279864	CAA	(null)	55	1086	0.05064	coding	germline	non_hotspot	fail	NCOA3	Q1264del	CCDS13407.1
+chr20.fa	46279866	A	G	504	1065	0.47324	coding	germline	non_hotspot	fail	NCOA3	N/A	CCDS13407.1
+chr20.fa	52192637	T	C	2065	4510	0.45787	coding	germline	non_hotspot	fail	ZNF217	D889G	CCDS13443.1
+chr20.fa	52193088	C	T	1186	2651	0.44738	coding	germline	non_hotspot	fail	ZNF217	V739I	CCDS13443.1
+chr20.fa	57428629	C	T	1083	4847	0.22344	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr20.fa	57429092	G	T	6	7027	0.00085	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr20.fa	57429741	C	T	284	2169	0.13094	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr20.fa	57429872	C	T	797	3573	0.22306	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr20.fa	57478807	C	T	2459	4543	0.54127	coding	germline	non_hotspot	fail	GNAS	N/A	CCDS13472.1
+chr20.fa	57485378	T	(null)	4	344	0.01163	noncoding	not_germline	non_hotspot	fail	GNAS	N/A	CCDS13472.1
+chr20.fa	9520142	G	A	1153	1154	0.99913	coding	germline	non_hotspot	fail	PAK7	N/A	CCDS13107.1
+chr20.fa	9538378	C	T	52	478	0.10879	coding	not_germline	non_hotspot	pass	PAK7	M540I	CCDS13107.1
+chr20.fa	9624954	(null)	T	2	570	0.00351	coding	not_germline	non_hotspot	fail	PAK7	I9Dfs*2	CCDS13107.1
+chr20.fa	9624959	C	T	86	527	0.16319	coding	not_germline	non_hotspot	pass	PAK7	N/A	CCDS13107.1
+chr21.fa	39762977	G	A	3	206	0.01456	noncoding	not_germline	non_hotspot	fail	ERG	N/A	CCDS46648.1
+chr21.fa	39764347	(null)	G	3	1265	0.00237	coding	not_germline	non_hotspot	fail	ERG	R263Qfs*29	CCDS46648.1
+chr21.fa	42845374	G	A	2937	5934	0.49494	coding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	42845383	A	G	2902	5997	0.48391	coding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	42848561	AG	(null)	321	289	1.11073	noncoding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	42852497	C	T	814	1819	0.44750	coding	germline	non_hotspot	fail	TMPRSS2	V197M	CCDS54486.1
+chr21.fa	42860307	C	T	1099	2318	0.47412	noncoding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS33564.1
+chr21.fa	42868813	G	C	2	87	0.02299	noncoding	not_germline	non_hotspot	fail	TMPRSS2	N/A	CCDS33564.1
+chr21.fa	42869166	G	A	262	2150	0.12186	noncoding	not_germline	non_hotspot	pass	TMPRSS2	N/A	CCDS33564.1
+chr21.fa	42871941	G	C	1097	2289	0.47925	noncoding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	42873536	AAAAA	(null)	2	57	0.03509	noncoding	not_germline	non_hotspot	fail	TMPRSS2	N/A	CCDS33564.1
+chr21.fa	42877382	T	C	1239	2522	0.49128	noncoding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	42879604	C	A	1797	3934	0.45679	noncoding	germline	non_hotspot	fail	TMPRSS2	N/A	CCDS54486.1
+chr21.fa	44513337	G	A	194	1543	0.12573	coding	not_germline	non_hotspot	pass	U2AF1	R200W	CCDS13694.1
+chr21.fa	44513338	G	T	190	1552	0.12242	coding	not_germline	non_hotspot	pass	U2AF1	N/A	CCDS13694.1
+chr21.fa	45656774	C	T	1317	2593	0.50791	coding	germline	non_hotspot	fail	ICOSLG	V128I	CCDS42952.1
+chr21.fa	47836653	C	T	1951	3999	0.48787	coding	germline	non_hotspot	fail		P2274L	CCDS33592.1
+chr22.fa	21337325	G	A	1134	1136	0.99824	coding	germline	non_hotspot	fail	LZTR1	N/A	CCDS33606.1
+chr22.fa	21346485	T	C	3114	3127	0.99584	noncoding	germline	non_hotspot	fail	LZTR1	N/A	CCDS33606.1
+chr22.fa	21348914	C	T	2568	5190	0.49480	coding	germline	non_hotspot	fail	LZTR1	N/A	CCDS33606.1
+chr22.fa	21350160	A	T	45	4129	0.01090	coding	not_germline	non_hotspot	fail	LZTR1	S690C	CCDS33606.1
+chr22.fa	21350179	A	T	22	3672	0.00599	noncoding	not_germline	non_hotspot	fail	LZTR1	N/A	CCDS33606.1
+chr22.fa	22160346	G	T	3	346	0.00867	noncoding	not_germline	non_hotspot	fail	MAPK1	N/A	CCDS13795.1
+chr22.fa	23627369	A	G	1508	1510	0.99868	coding	germline	non_hotspot	fail	BCR	N796S	CCDS13806.1
+chr22.fa	23631801	T	C	2587	2590	0.99884	coding	germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23631813	G	C	34	2332	0.01458	noncoding	not_germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23631814	(null)	C	2178	2332	0.93396	noncoding	germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23631815	(null)	T	8	2513	0.00318	noncoding	not_germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23631823	T	C	2161	2164	0.99861	noncoding	germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23632513	A	G	1012	1013	0.99901	noncoding	germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	23637200	T	C	1663	1673	0.99402	noncoding	germline	non_hotspot	fail	BCR	N/A	CCDS13806.1
+chr22.fa	24129456	C	A	9	3097	0.00291	noncoding	not_germline	non_hotspot	fail		N/A	CCDS13816.1
+chr22.fa	24829618	C	T	699	5757	0.12142	coding	not_germline	non_hotspot	pass	ADORA2A	N/A	CCDS13826.1
+chr22.fa	24837301	T	C	2358	4895	0.48172	coding	germline	non_hotspot	fail	ADORA2A	N/A	CCDS13826.1
+chr22.fa	29669714	(null)	T	343	760	0.45132	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29669714	(null)	TT	13	760	0.01711	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29684063	C	T	2	136	0.01471	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29684653	A	T	12	5176	0.00232	coding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29685018	C	(null)	2	606	0.00330	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29687140	C	T	175	1400	0.12500	noncoding	not_germline	non_hotspot	pass	EWSR1	N/A	CCDS13852.2
+chr22.fa	29688632	T	G	1272	1275	0.99765	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13852.2
+chr22.fa	29689868	G	A	319	319	1.00000	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29690345	T	C	288	288	1.00000	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29690594	AAA	(null)	2	17	0.11765	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29691471	T	C	2	134	0.01493	noncoding	not_germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29692488	G	T	1463	1463	1.00000	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29692497	G	T	1427	1426	1.00070	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29693990	A	G	1403	1407	0.99716	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29694337	A	G	65	115	0.56522	noncoding	not_germline	non_hotspot	pass	EWSR1	N/A	CCDS13851.1
+chr22.fa	29694483	T	C	643	646	0.99536	noncoding	germline	non_hotspot	fail	EWSR1	N/A	CCDS13851.1
+chr22.fa	29695315	C	(null)	11	2407	0.00457	coding	not_germline	non_hotspot	fail	EWSR1	P564Rfs*67	CCDS13852.2
+chr22.fa	30057307	C	A	4	1128	0.00355	coding	not_germline	non_hotspot	fail	NF2	N263K	CCDS13861.1
+chr22.fa	30077585	A	(null)	6	731	0.00821	coding	not_germline	non_hotspot	fail	NF2	K579Sfs*?	CCDS13861.1
+chr22.fa	38369976	A	G	1626	3243	0.50139	coding	germline	non_hotspot	fail	SOX10	N/A	CCDS13964.1
+chr22.fa	38370168	C	G	18	2346	0.00767	coding	not_germline	non_hotspot	fail	SOX10	N/A	CCDS13964.1
+chr22.fa	41525927	C	A	3	389	0.00771	coding	not_germline	non_hotspot	fail	EP300	S401*	CCDS14010.1
+chr22.fa	41537234	G	T	297	297	1.00000	noncoding	germline	non_hotspot	fail	EP300	N/A	CCDS14010.1
+chr22.fa	41545961	T	A	25	4687	0.00533	coding	not_germline	non_hotspot	fail	EP300	I859N	CCDS14010.1
+chr22.fa	41548008	A	G	305	620	0.49194	coding	germline	non_hotspot	fail	EP300	I997V	CCDS14010.1
+chr22.fa	41564708	C	A	383	802	0.47756	noncoding	germline	non_hotspot	fail	EP300	N/A	CCDS14010.1
+chr22.fa	41565593	G	A	3	216	0.01389	coding	not_germline	non_hotspot	fail	EP300	G1420E	CCDS14010.1
+chr22.fa	41574970	GTA	(null)	379	875	0.43314	noncoding	germline	non_hotspot	fail	EP300	N/A	CCDS14010.1
+chr3.fa	10088285	T	G	46	324	0.14198	coding	germline	non_hotspot	fail	FANCD2	F386V	CCDS2595.1
+chr3.fa	10130121	C	T	55	450	0.12222	noncoding	not_germline	non_hotspot	fail	FANCD2	N/A	CCDS2595.1
+chr3.fa	10140586	T	(null)	2	584	0.00342	coding	not_germline	non_hotspot	fail	FANCD2	Y1457Mfs*?	CCDS2595.1
+chr3.fa	119562220	A	(null)	2	503	0.00398	noncoding	not_germline	non_hotspot	fail	GSK3B	N/A	CCDS2996.1
+chr3.fa	12475557	C	T	698	1478	0.47226	coding	germline	non_hotspot	fail	PPARG	N/A	CCDS2609.1
+chr3.fa	12641425	T	C	235	391	0.60102	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12642945	G	C	96	181	0.53039	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12644753	A	G	14	17	0.82353	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12646255	A	T	454	984	0.46138	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12646750	(null)	TATG	6	61	0.09836	noncoding	not_germline	non_hotspot	fail	RAF1	N/A	CCDS2612.1
+chr3.fa	12646751	G	A	13	64	0.20313	noncoding	germline	non_hotspot	fail	RAF1	N/A	CCDS2612.1
+chr3.fa	12647029	G	A	48	94	0.51064	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12647457	A	G	220	447	0.49217	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12647548	(null)	G	397	782	0.50767	noncoding	germline	non_hotspot	fail	RAF1	N/A	CCDS2612.1
+chr3.fa	12648789	G	A	130	880	0.14773	noncoding	not_germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12649732	T	C	29	71	0.40845	noncoding	germline	non_hotspot	pass	RAF1	N/A	CCDS2612.1
+chr3.fa	12649937	C	T	254	642	0.39564	noncoding	germline	non_hotspot	fail	RAF1	N/A	CCDS2612.1
+chr3.fa	128200643	C	G	31	2528	0.01226	noncoding	germline	non_hotspot	fail	GATA2	N/A	CCDS3049.1
+chr3.fa	128204997	G	C	30	2293	0.01308	coding	not_germline	non_hotspot	fail	GATA2	S148R	CCDS3049.1
+chr3.fa	134670524	C	T	854	1832	0.46616	coding	germline	non_hotspot	fail	EPHB1	N/A	CCDS46921.1
+chr3.fa	134898742	C	T	1058	1059	0.99906	coding	germline	non_hotspot	fail	EPHB1	N/A	CCDS46921.1
+chr3.fa	134967263	C	A	1692	3623	0.46702	coding	germline	non_hotspot	pass	EPHB1	N/A	CCDS46921.1
+chr3.fa	138323582	T	C	1162	1162	1.00000	noncoding	germline	non_hotspot	fail		N/A	NM_001033030
+chr3.fa	138323836	C	A	553	553	1.00000	noncoding	germline	non_hotspot	fail		N/A	NM_001033030
+chr3.fa	138327951	T	C	968	968	1.00000	noncoding	germline	non_hotspot	fail		N/A	NM_001033030
+chr3.fa	138328016	C	T	796	795	1.00126	noncoding	germline	non_hotspot	fail		N/A	NM_001033030
+chr3.fa	138328062	G	A	442	442	1.00000	noncoding	germline	non_hotspot	fail		N/A	NM_001033030
+chr3.fa	138334927	C	A	964	964	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS33864.1
+chr3.fa	138346586	G	A	578	1314	0.43988	noncoding	germline	non_hotspot	fail		N/A	CCDS3103.1
+chr3.fa	138348066	C	A	3	288	0.01042	noncoding	not_germline	non_hotspot	fail		N/A	CCDS3103.1
+chr3.fa	138409850	C	T	3	282	0.01064	coding	not_germline	non_hotspot	fail	PIK3CB	W676*	CCDS3104.1
+chr3.fa	138413763	G	A	80	490	0.16327	noncoding	not_germline	non_hotspot	fail	PIK3CB	N/A	CCDS3104.1
+chr3.fa	138433568	C	T	226	226	1.00000	noncoding	germline	non_hotspot	fail	PIK3CB	N/A	CCDS3104.1
+chr3.fa	14187449	G	T	483	483	1.00000	coding	germline	non_hotspot	fail	XPC	Q939K	CCDS46763.1
+chr3.fa	14190237	T	G	3593	3594	0.99972	noncoding	germline	non_hotspot	fail	XPC	N/A	CCDS46763.1
+chr3.fa	14193889	C	T	1184	2483	0.47684	coding	germline	non_hotspot	fail	XPC	N/A	CCDS46763.1
+chr3.fa	14197987	A	T	1731	1731	1.00000	coding	germline	non_hotspot	fail	XPC	N/A	CCDS46763.1
+chr3.fa	14199887	G	A	901	1983	0.45436	coding	germline	non_hotspot	fail	XPC	A499V	CCDS46763.1
+chr3.fa	14199908	C	T	833	1810	0.46022	coding	germline	non_hotspot	pass	XPC	R492H	CCDS46763.1
+chr3.fa	14200133	G	A	1051	4131	0.25442	coding	not_germline	non_hotspot	pass	XPC	P417L	CCDS46763.1
+chr3.fa	142180878	C	A	3	201	0.01493	coding	not_germline	non_hotspot	fail	ATR	A2366S	CCDS3124.1
+chr3.fa	169977774	T	A	3	307	0.00977	coding	not_germline	non_hotspot	fail	PRKCI	S81T	CCDS3212.2
+chr3.fa	178886609	C	T	92	252	0.36508	noncoding	germline	non_hotspot	fail		N/A	-
+chr3.fa	178905142	G	A	41	88	0.46591	noncoding	germline	non_hotspot	fail		N/A	-
+chr3.fa	178940390	G	A	185	489	0.37832	noncoding	germline	non_hotspot	pass	PIK3CA	N/A	CCDS43171.1
+chr3.fa	178940494	A	G	381	692	0.55058	noncoding	germline	non_hotspot	fail	PIK3CA	N/A	CCDS43171.1
+chr3.fa	178942611	T	A	3	318	0.00943	coding	not_germline	non_hotspot	fail	PIK3CA	N/A	CCDS43171.1
+chr3.fa	178951888	G	T	3	318	0.00943	coding	not_germline	non_hotspot	fail	PIK3CA	Q981H	CCDS43171.1
+chr3.fa	178968634	C	T	479	1092	0.43865	coding	germline	non_hotspot	fail		A53T	CCDS3226.1
+chr3.fa	178969542	A	G	981	981	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS3225.1
+chr3.fa	178976699	A	G	298	689	0.43251	noncoding	germline	non_hotspot	fail		N/A	CCDS3225.1
+chr3.fa	178983584	G	T	959	960	0.99896	noncoding	germline	non_hotspot	fail		N/A	CCDS3225.1
+chr3.fa	178983640	A	G	1110	1110	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS3225.1
+chr3.fa	178984575	A	G	3624	3626	0.99945	noncoding	germline	non_hotspot	fail		N/A	NM_171828
+chr3.fa	178984679	T	C	2796	2802	0.99786	noncoding	germline	non_hotspot	fail		N/A	NM_171828
+chr3.fa	178997125	T	C	531	533	0.99625	noncoding	germline	non_hotspot	fail		N/A	-
+chr3.fa	183211906	A	G	803	803	1.00000	coding	germline	non_hotspot	fail	KLHL6	N/A	CCDS3245.2
+chr3.fa	183212026	C	T	711	712	0.99860	coding	germline	non_hotspot	pass	KLHL6	N/A	CCDS3245.2
+chr3.fa	185797726	G	A	261	2342	0.11144	coding	not_germline	non_hotspot	fail	ETV5	A177V	CCDS33906.1
+chr3.fa	187447032	G	A	3624	3629	0.99862	coding	germline	non_hotspot	fail	BCL6	N/A	CCDS3289.1
+chr3.fa	187447352	G	A	585	3941	0.14844	coding	not_germline	non_hotspot	pass	BCL6	L281F	CCDS3289.1
+chr3.fa	189582030	G	A	262	1752	0.14954	coding	not_germline	non_hotspot	pass	TP63	E197K	CCDS3293.1
+chr3.fa	189607169	G	A	456	3152	0.14467	coding	not_germline	non_hotspot	pass	TP63	M516I	CCDS3293.1
+chr3.fa	189608561	C	T	106	709	0.14951	noncoding	not_germline	non_hotspot	fail	TP63	N/A	CCDS3293.1
+chr3.fa	30713740	C	T	895	7621	0.11744	coding	not_germline	non_hotspot	pass	TGFBR2	N/A	CCDS33727.1
+chr3.fa	36986992	C	T	2622	5255	0.49895	noncoding	germline	non_hotspot	fail		N/A	CCDS46789.2
+chr3.fa	36987083	A	C	2601	5130	0.50702	noncoding	germline	non_hotspot	fail		N/A	CCDS46789.2
+chr3.fa	36999582	A	T	590	1121	0.52632	noncoding	germline	non_hotspot	fail		N/A	-
+chr3.fa	37045233	A	C	510	1013	0.50346	noncoding	germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37053588	T	C	2	200	0.01000	coding	not_germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37062040	T	C	899	1803	0.49861	noncoding	germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37068329	AGG	(null)	1	67	0.01493	noncoding	not_germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37073287	T	G	429	940	0.45638	noncoding	germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37073579	T	G	427	875	0.48800	noncoding	germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37089130	A	G	373	768	0.48568	coding	germline	non_hotspot	pass	MLH1	K618E	CCDS2663.1
+chr3.fa	37089131	A	C	372	772	0.48187	coding	germline	non_hotspot	pass	MLH1	K618T	CCDS2663.1
+chr3.fa	37096110	(null)	AAA	1	347	0.00288	noncoding	not_germline	non_hotspot	fail	MLH1	N/A	CCDS2663.1
+chr3.fa	37107022	C	A	326	728	0.44780	noncoding	germline	non_hotspot	fail		N/A	CCDS2664.1
+chr3.fa	38182252	C	T	222	1752	0.12671	coding	not_germline	non_hotspot	pass	MYD88	R230C	CCDS2674.2
+chr3.fa	41266662	C	T	56	549	0.10200	coding	not_germline	non_hotspot	pass	CTNNB1	N/A	CCDS2694.1
+chr3.fa	47125523	G	T	5	1120	0.00446	coding	not_germline	non_hotspot	fail	SETD2	P1916H	CCDS2749.2
+chr3.fa	49924940	T	C	838	1680	0.49881	coding	germline	non_hotspot	fail	MST1R	R1335G	CCDS2807.1
+chr3.fa	49927503	G	T	1149	2353	0.48831	noncoding	germline	non_hotspot	pass	MST1R	N/A	CCDS2807.1
+chr3.fa	49928614	T	A	1215	2505	0.48503	noncoding	germline	non_hotspot	fail	MST1R	N/A	CCDS2807.1
+chr3.fa	49928691	T	C	3486	3488	0.99943	coding	germline	non_hotspot	fail	MST1R	S1195G	CCDS2807.1
+chr3.fa	49929025	C	A	1867	3987	0.46827	noncoding	germline	non_hotspot	fail	MST1R	N/A	CCDS2807.1
+chr3.fa	49935467	G	A	349	2374	0.14701	noncoding	not_germline	non_hotspot	fail	MST1R	N/A	CCDS2807.1
+chr3.fa	49936102	T	C	1482	2978	0.49765	coding	germline	non_hotspot	fail	MST1R	Q523R	CCDS2807.1
+chr3.fa	49936715	G	A	927	1903	0.48713	noncoding	germline	non_hotspot	fail	MST1R	N/A	CCDS2807.1
+chr3.fa	51978220	A	G	1970	1975	0.99747	coding	germline	non_hotspot	fail	PARP3	H107R	CCDS46839.1
+chr3.fa	52257566	G	T	7	7213	0.00097	coding	not_germline	non_hotspot	fail	TLR9	R256S	CCDS2848.1
+chr3.fa	71015021	G	T	1163	1163	1.00000	noncoding	germline	non_hotspot	fail	FOXP1	N/A	CCDS58837.1
+chr3.fa	71021216	C	T	219	1733	0.12637	coding	not_germline	non_hotspot	pass	FOXP1	R549Q	NM_001244810
+chr3.fa	71021825	A	(null)	1	510	0.00196	coding	not_germline	non_hotspot	fail	FOXP1	N513Kfs*16	CCDS58837.1
+chr3.fa	72428420	T	(null)	3	388	0.00773	coding	not_germline	non_hotspot	fail	RYBP	N96Ifs*13	NM_012234
+chr3.fa	72495777	C	G	1336	1338	0.99851	noncoding	germline	non_hotspot	fail	RYBP	N/A	NM_012234
+chr3.fa	89259565	G	A	137	1009	0.13578	coding	not_germline	non_hotspot	pass	EPHA3	E237K	CCDS2922.1
+chr3.fa	89390143	G	T	5	874	0.00572	coding	not_germline	non_hotspot	fail	EPHA3	E298*	CCDS2922.1
+chr3.fa	89462376	G	A	124	880	0.14091	coding	not_germline	non_hotspot	pass	EPHA3	N/A	CCDS2922.1
+chr3.fa	89480339	A	G	5	726	0.00689	coding	not_germline	non_hotspot	fail	EPHA3	M726V	CCDS2922.1
+chr3.fa	89521603	(null)	C	524	513	1.02144	noncoding	germline	non_hotspot	fail	EPHA3	N/A	CCDS2922.1
+chr3.fa	89521693	T	C	558	562	0.99288	coding	germline	non_hotspot	fail	EPHA3	W924R	CCDS2922.1
+chr3.fa	89521725	T	C	432	434	0.99539	coding	germline	non_hotspot	fail	EPHA3	N/A	CCDS2922.1
+chr4.fa	106157100	T	(null)	15	1135	0.01322	coding	not_germline	non_hotspot	fail	TET2	L668Yfs*32	CCDS47120.1
+chr4.fa	143043404	C	T	145	309	0.46926	noncoding	germline	non_hotspot	fail	INPP4B	N/A	CCDS3757.1
+chr4.fa	143067054	G	A	388	938	0.41365	coding	germline	non_hotspot	fail	INPP4B	N/A	CCDS3757.1
+chr4.fa	153253740	A	T	3	267	0.01124	noncoding	not_germline	non_hotspot	fail	FBXW7	N/A	CCDS3777.1
+chr4.fa	1745486	G	A	2465	4965	0.49648	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1745492	C	T	2342	4804	0.48751	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1745500	G	T	2256	4577	0.49290	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1747971	C	T	915	2036	0.44941	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1748200	A	G	1953	3764	0.51886	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1748216	C	T	1660	3487	0.47605	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1748486	G	A	1448	3057	0.47367	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1748599	G	A	765	1545	0.49515	noncoding	germline	non_hotspot	fail		N/A	CCDS3352.1
+chr4.fa	1756063	G	C	1989	4186	0.47516	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	1757559	A	G	1533	3058	0.50131	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	1757821	G	A	467	3613	0.12926	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr4.fa	1761213	G	C	29	1604	0.01808	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr4.fa	1765174	T	C	1090	2222	0.49055	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	1785738	G	A	1627	3372	0.48250	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	1789044	T	C	651	651	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	1804377	G	A	1829	1829	1.00000	noncoding	germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	1807894	G	A	5439	5441	0.99963	coding	germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	1808709	T	A	31	5271	0.00588	noncoding	not_germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	1808719	G	C	41	5433	0.00755	noncoding	not_germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	1809128	GT	(null)	1127	1786	0.63102	noncoding	germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	1809787	C	T	1807	1809	0.99889	noncoding	germline	non_hotspot	fail	FGFR3	N/A	CCDS3353.1
+chr4.fa	185310027	G	A	609	4686	0.12996	coding	not_germline	non_hotspot	pass	IRF2	P312L	CCDS3835.1
+chr4.fa	185340726	(null)	A	6	63	0.09524	noncoding	not_germline	non_hotspot	fail	IRF2	N/A	CCDS3835.1
+chr4.fa	187516880	A	G	1794	1795	0.99944	coding	germline	non_hotspot	fail	FAT1	N/A	CCDS47177.1
+chr4.fa	187519206	C	G	774	774	1.00000	coding	germline	non_hotspot	fail	FAT1	K4059N	CCDS47177.1
+chr4.fa	187521037	C	A	2195	2195	1.00000	noncoding	germline	non_hotspot	fail	FAT1	N/A	CCDS47177.1
+chr4.fa	187525020	A	C	1099	1102	0.99728	coding	germline	non_hotspot	fail	FAT1	S3554A	CCDS47177.1
+chr4.fa	187531022	A	G	651	653	0.99694	coding	germline	non_hotspot	fail	FAT1	V3334A	CCDS47177.1
+chr4.fa	187534363	G	A	2818	2822	0.99858	coding	germline	non_hotspot	fail	FAT1	N/A	CCDS47177.1
+chr4.fa	187538942	T	G	736	738	0.99729	coding	germline	non_hotspot	fail	FAT1	Q2933P	CCDS47177.1
+chr4.fa	187542755	T	C	814	814	1.00000	coding	germline	non_hotspot	fail	FAT1	N1662S	CCDS47177.1
+chr4.fa	187557893	T	C	2362	2369	0.99705	coding	germline	non_hotspot	fail	FAT1	H1273R	CCDS47177.1
+chr4.fa	187584771	C	G	384	385	0.99740	noncoding	germline	non_hotspot	fail	FAT1	N/A	CCDS47177.1
+chr4.fa	187627792	T	C	956	960	0.99583	coding	germline	non_hotspot	fail	FAT1	R1064G	CCDS47177.1
+chr4.fa	187628398	C	G	1945	1946	0.99949	coding	germline	non_hotspot	fail	FAT1	V862L	CCDS47177.1
+chr4.fa	187629140	G	C	693	695	0.99712	coding	germline	non_hotspot	fail	FAT1	F614L	CCDS47177.1
+chr4.fa	187629497	G	A	2042	2044	0.99902	coding	germline	non_hotspot	fail	FAT1	N/A	CCDS47177.1
+chr4.fa	187629538	C	T	1799	1801	0.99889	coding	germline	non_hotspot	fail	FAT1	V482I	CCDS47177.1
+chr4.fa	187629770	A	C	829	830	0.99880	coding	germline	non_hotspot	fail	FAT1	S404R	CCDS47177.1
+chr4.fa	20270482	G	(null)	2	449	0.00445	coding	not_germline	non_hotspot	fail	SLIT2	T126Lfs*28	CCDS3426.1
+chr4.fa	20530586	C	T	37	342	0.10819	coding	not_germline	non_hotspot	pass	SLIT2	R493*	CCDS3426.1
+chr4.fa	20535232	G	A	25	226	0.11062	coding	not_germline	non_hotspot	pass	SLIT2	G576R	CCDS3426.1
+chr4.fa	20543242	G	T	4	492	0.00813	coding	not_germline	non_hotspot	fail	SLIT2	G715*	CCDS3426.1
+chr4.fa	20544184	C	T	417	905	0.46077	coding	germline	non_hotspot	fail	SLIT2	N/A	CCDS3426.1
+chr4.fa	20550137	C	T	10	295	0.03390	coding	not_germline	non_hotspot	fail	SLIT2	T791M	CCDS3426.1
+chr4.fa	20570516	G	A	48	349	0.13754	coding	not_germline	non_hotspot	pass	SLIT2	E993K	CCDS3426.1
+chr4.fa	20598263	G	A	18	153	0.11765	coding	not_germline	non_hotspot	pass	SLIT2	N/A	CCDS3426.1
+chr4.fa	20599928	G	A	5	936	0.00534	coding	not_germline	non_hotspot	fail	SLIT2	G1201D	CCDS3426.1
+chr4.fa	20619051	C	T	117	944	0.12394	noncoding	not_germline	non_hotspot	fail	SLIT2	N/A	CCDS3426.1
+chr4.fa	54269096	G	A	662	662	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS3491.1
+chr4.fa	54354237	G	A	288	619	0.46527	noncoding	germline	non_hotspot	fail		N/A	CCDS3492.1
+chr4.fa	54413069	C	T	1059	2560	0.41367	noncoding	germline	non_hotspot	fail		N/A	CCDS3492.1
+chr4.fa	54657790	C	A	472	475	0.99368	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	54657793	A	T	500	516	0.96899	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	54741102	G	A	204	204	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	54770332	G	A	269	269	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	54770411	T	C	459	460	0.99783	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55141055	A	G	634	636	0.99686	coding	germline	non_hotspot	fail	PDGFRA	N/A	CCDS3495.1
+chr4.fa	55161391	T	C	1414	1414	1.00000	coding	germline	non_hotspot	fail	PDGFRA	N/A	CCDS3495.1
+chr4.fa	55477167	C	T	72	150	0.48000	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55482148	G	T	51	106	0.48113	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55484356	T	C	186	380	0.48947	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55501109	C	G	392	394	0.99492	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55518877	T	A	680	687	0.98981	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55518878	C	A	715	722	0.99031	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55519748	A	G	1003	1007	0.99603	noncoding	germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55519772	G	T	953	952	1.00105	noncoding	germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55524217	C	T	1638	3352	0.48866	coding	not_germline	non_hotspot	pass	KIT	N/A	CCDS3496.1
+chr4.fa	55527374	T	C	692	692	1.00000	noncoding	germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55536375	T	G	917	922	0.99458	noncoding	germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55554331	T	C	790	792	0.99748	noncoding	germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55566201	G	A	3	166	0.01807	noncoding	not_germline	non_hotspot	fail	KIT	N/A	CCDS3496.1
+chr4.fa	55573286	C	(null)	2	216	0.00926	coding	not_germline	non_hotspot	fail	KIT	M318*	CCDS3496.1
+chr4.fa	55641375	A	G	527	1062	0.49623	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55641388	G	T	540	1050	0.51429	noncoding	germline	non_hotspot	fail		N/A	-
+chr4.fa	55895778	G	A	3	239	0.01255	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr4.fa	55944618	T	G	126	281	0.44840	noncoding	germline	non_hotspot	pass	KDR	N/A	CCDS3497.1
+chr4.fa	55946213	C	T	145	1244	0.11656	coding	not_germline	non_hotspot	pass	KDR	N/A	CCDS3497.1
+chr4.fa	55953439	G	A	4	512	0.00781	noncoding	not_germline	non_hotspot	fail	KDR	N/A	CCDS3497.1
+chr4.fa	55960044	G	A	158	1281	0.12334	noncoding	not_germline	non_hotspot	pass	KDR	N/A	CCDS3497.1
+chr4.fa	55963850	C	A	4	601	0.00666	coding	not_germline	non_hotspot	fail	KDR	V865L	CCDS3497.1
+chr4.fa	55964427	C	(null)	3	877	0.00342	coding	not_germline	non_hotspot	fail	KDR	E796Nfs*2	CCDS3497.1
+chr4.fa	55966668	C	T	2	211	0.00948	noncoding	not_germline	non_hotspot	fail	KDR	N/A	CCDS3497.1
+chr4.fa	55976942	G	A	35	159	0.22013	noncoding	germline	non_hotspot	fail	KDR	N/A	CCDS3497.1
+chr4.fa	55977783	C	T	38	224	0.16964	noncoding	not_germline	non_hotspot	pass	KDR	N/A	CCDS3497.1
+chr4.fa	55980239	C	T	368	736	0.50000	noncoding	germline	non_hotspot	fail	KDR	N/A	CCDS3497.1
+chr4.fa	56014363	C	T	36	319	0.11285	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr4.fa	66242764	C	T	3	452	0.00664	coding	not_germline	non_hotspot	fail	EPHA5	C603Y	CCDS3513.1
+chr4.fa	66361224	G	A	89	792	0.11237	coding	not_germline	non_hotspot	pass	EPHA5	N/A	CCDS3513.1
+chr4.fa	84383810	C	T	616	617	0.99838	coding	germline	non_hotspot	fail	FAM175A	A348T	CCDS3605.2
+chr4.fa	84391410	G	A	155	312	0.49680	coding	germline	non_hotspot	pass	FAM175A	T141I	CCDS3605.2
+chr5.fa	112175577	A	(null)	3	899	0.00334	coding	not_germline	non_hotspot	fail	APC	T1430Pfs*43	CCDS4107.1
+chr5.fa	112176325	G	A	366	681	0.53745	coding	germline	non_hotspot	fail	APC	N/A	CCDS4107.1
+chr5.fa	112178814	C	A	7	1086	0.00645	coding	not_germline	non_hotspot	fail	APC	P2508Q	CCDS4107.1
+chr5.fa	121780305	G	A	279	2646	0.10544	coding	not_germline	non_hotspot	pass	SNCAIP	N/A	CCDS4131.1
+chr5.fa	121786239	C	T	47	406	0.11576	coding	not_germline	non_hotspot	pass	SNCAIP	S566L	CCDS4131.1
+chr5.fa	121786391	G	A	76	671	0.11326	coding	not_germline	non_hotspot	pass	SNCAIP	D617N	CCDS4131.1
+chr5.fa	1260655	C	T	384	3364	0.11415	coding	not_germline	non_hotspot	pass	TERT	N/A	CCDS3861.2
+chr5.fa	1279516	C	G	77	3327	0.02314	coding	not_germline	non_hotspot	fail	TERT	G674R	CCDS3861.2
+chr5.fa	1282624	G	T	8	2524	0.00317	coding	not_germline	non_hotspot	fail	TERT	N/A	CCDS3861.2
+chr5.fa	1295250	G	A	54	348	0.15517	coding	not_germline	hotspot	pass	TERT	N/A	CCDS3861.2
+chr5.fa	138266552	C	G	848	1842	0.46037	coding	germline	non_hotspot	pass	CTNNA1	N/A	CCDS34243.1
+chr5.fa	149447771	G	A	613	1251	0.49001	noncoding	germline	non_hotspot	fail	CSF1R	N/A	CCDS4302.1
+chr5.fa	149457011	G	A	184	1369	0.13441	noncoding	not_germline	non_hotspot	fail	CSF1R	N/A	CCDS4302.1
+chr5.fa	149457678	G	A	2120	2121	0.99953	coding	germline	non_hotspot	fail	CSF1R	N/A	CCDS4302.1
+chr5.fa	149460553	A	G	1329	2860	0.46469	coding	germline	non_hotspot	fail	CSF1R	N/A	CCDS4302.1
+chr5.fa	149495395	T	C	3086	3092	0.99806	coding	germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149497177	T	C	1750	1751	0.99943	noncoding	germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149497228	G	A	1523	3019	0.50447	coding	germline	non_hotspot	pass	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149499018	G	A	254	2003	0.12681	noncoding	not_germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149499672	T	C	1129	2268	0.49780	coding	germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149506373	C	T	738	5533	0.13338	noncoding	not_germline	non_hotspot	pass	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149509111	C	T	952	1894	0.50264	noncoding	germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	149509270	A	G	2169	4348	0.49885	noncoding	germline	non_hotspot	fail	PDGFRB	N/A	CCDS4303.1
+chr5.fa	161119071	G	T	721	721	1.00000	coding	germline	non_hotspot	fail	GABRA6	N/A	CCDS4356.1
+chr5.fa	161128627	C	T	652	1362	0.47871	coding	germline	non_hotspot	pass	GABRA6	P404S	CCDS4356.1
+chr5.fa	161128761	C	G	412	412	1.00000	coding	germline	non_hotspot	fail	GABRA6	N/A	CCDS4356.1
+chr5.fa	176472325	G	T	2	208	0.00962	noncoding	not_germline	non_hotspot	fail		N/A	CCDS4409.1
+chr5.fa	176509193	C	T	1275	2594	0.49152	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	176517461	T	G	1880	3588	0.52397	coding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176517797	C	T	949	2109	0.44998	coding	germline	non_hotspot	fail	FGFR4	P136L	CCDS4411.1
+chr5.fa	176518784	C	T	2151	4334	0.49631	coding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176520243	G	A	2449	4910	0.49878	noncoding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176522036	C	T	1121	2387	0.46963	noncoding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176522728	C	T	1450	2839	0.51074	noncoding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176523597	A	G	1595	3111	0.51270	noncoding	germline	non_hotspot	fail	FGFR4	N/A	CCDS4411.1
+chr5.fa	176531075	G	A	1553	3214	0.48320	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	176534650	C	T	4	578	0.00692	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr5.fa	176534724	A	C	664	1270	0.52284	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	176539212	G	A	831	1710	0.48597	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	176548608	A	(null)	1	24	0.04167	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr5.fa	176721198	T	C	2874	2877	0.99896	coding	germline	non_hotspot	fail	NSD1	N/A	CCDS4412.1
+chr5.fa	176721272	G	C	1706	3369	0.50638	coding	germline	non_hotspot	fail	NSD1	N/A	CCDS4412.1
+chr5.fa	179193598	C	T	1565	3120	0.50160	coding	germline	non_hotspot	fail	MAML1	N/A	CCDS34315.1
+chr5.fa	179201671	G	T	6	4471	0.00134	coding	not_germline	non_hotspot	fail	MAML1	Q948H	CCDS34315.1
+chr5.fa	179201847	G	A	1397	2518	0.55481	coding	germline	non_hotspot	fail	MAML1	S1007N	CCDS34315.1
+chr5.fa	180040004	G	A	166	1943	0.08543	noncoding	not_germline	non_hotspot	pass	FLT4	N/A	CCDS4457.1
+chr5.fa	180046123	G	A	158	1283	0.12315	noncoding	not_germline	non_hotspot	fail	FLT4	N/A	CCDS4457.1
+chr5.fa	180046124	G	C	166	1302	0.12750	noncoding	not_germline	non_hotspot	fail	FLT4	N/A	CCDS4457.1
+chr5.fa	180046344	G	C	3938	3939	0.99975	coding	germline	non_hotspot	fail	FLT4	H890Q	CCDS4457.1
+chr5.fa	180047274	G	A	329	3635	0.09051	coding	not_germline	non_hotspot	pass	FLT4	S814F	CCDS4457.1
+chr5.fa	180047863	C	G	3234	3235	0.99969	noncoding	germline	non_hotspot	fail	FLT4	N/A	CCDS4457.1
+chr5.fa	180055862	T	G	2220	2226	0.99731	noncoding	germline	non_hotspot	fail	FLT4	N/A	CCDS4457.1
+chr5.fa	180055864	G	A	2044	2047	0.99853	noncoding	germline	non_hotspot	fail	FLT4	N/A	CCDS4457.1
+chr5.fa	230980	A	G	3872	3876	0.99897	noncoding	germline	non_hotspot	fail	SDHA	N/A	CCDS3853.1
+chr5.fa	231111	T	C	3831	3837	0.99844	coding	germline	non_hotspot	fail	SDHA	N/A	CCDS3853.1
+chr5.fa	254636	C	T	565	1366	0.41362	noncoding	germline	non_hotspot	fail	SDHA	N/A	CCDS3853.1
+chr5.fa	35857177	G	C	304	306	0.99346	noncoding	germline	non_hotspot	fail	IL7R	N/A	CCDS3911.1
+chr5.fa	35861068	T	C	829	831	0.99759	coding	germline	non_hotspot	fail	IL7R	I66T	CCDS3911.1
+chr5.fa	35876264	G	A	239	1596	0.14975	coding	not_germline	non_hotspot	pass	IL7R	N/A	CCDS3911.1
+chr5.fa	35876274	A	G	830	1624	0.51108	coding	germline	non_hotspot	fail	IL7R	I356V	CCDS3911.1
+chr5.fa	38950776	G	A	346	346	1.00000	coding	germline	non_hotspot	fail	RICTOR	N/A	CCDS34148.1
+chr5.fa	38952472	G	(null)	2	661	0.00303	coding	not_germline	non_hotspot	fail	RICTOR	L985*	CCDS34148.1
+chr5.fa	38953581	T	(null)	1	110	0.00909	coding	not_germline	non_hotspot	fail	RICTOR	A925Hfs*24	CCDS34148.1
+chr5.fa	38955796	G	A	321	321	1.00000	coding	germline	non_hotspot	fail	RICTOR	S837F	CCDS34148.1
+chr5.fa	38967346	A	T	2	139	0.01439	noncoding	not_germline	non_hotspot	fail	RICTOR	N/A	CCDS34148.1
+chr5.fa	43543220	T	(null)	2	292	0.00685	coding	not_germline	non_hotspot	fail		N/A	CCDS3947.1
+chr5.fa	44310540	G	T	3	303	0.00990	coding	not_germline	non_hotspot	fail	FGF10	L140I	CCDS3950.1
+chr5.fa	56111751	G	C	779	779	1.00000	coding	germline	non_hotspot	fail	MAP3K1	N/A	CCDS43318.1
+chr5.fa	56161787	G	A	344	344	1.00000	coding	germline	non_hotspot	fail	MAP3K1	N/A	CCDS43318.1
+chr5.fa	56177443	G	A	491	494	0.99393	coding	germline	non_hotspot	fail	MAP3K1	D806N	CCDS43318.1
+chr5.fa	56177518	C	(null)	3	943	0.00318	coding	not_germline	non_hotspot	fail	MAP3K1	H832Mfs*7	CCDS43318.1
+chr5.fa	56177743	G	A	696	696	1.00000	coding	germline	non_hotspot	fail	MAP3K1	V906I	CCDS43318.1
+chr5.fa	56177849	CAA	(null)	429	466	0.92060	coding	germline	non_hotspot	fail	MAP3K1	T943del	CCDS43318.1
+chr5.fa	56178217	A	C	772	773	0.99871	coding	germline	non_hotspot	fail	MAP3K1	N/A	CCDS43318.1
+chr5.fa	57750439	G	T	4	496	0.00806	coding	not_germline	non_hotspot	fail	PLK2	L677M	CCDS3974.1
+chr5.fa	57754899	G	A	4	283	0.01413	coding	not_germline	non_hotspot	fail	PLK2	N/A	CCDS3974.1
+chr5.fa	60198280	C	T	3	131	0.02290	coding	not_germline	non_hotspot	fail	ERCC8	N/A	CCDS3978.1
+chr5.fa	67534039	C	T	379	764	0.49607	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67534046	C	T	396	800	0.49500	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67534057	A	G	363	753	0.48207	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67538101	T	C	599	599	1.00000	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67542082	T	C	720	723	0.99585	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67542214	C	T	88	429	0.20513	noncoding	not_germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67553827	C	T	722	722	1.00000	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67561061	(null)	T	701	675	1.03852	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67588148	G	A	288	563	0.51155	coding	germline	non_hotspot	fail	PIK3R1	M326I	CCDS3993.1
+chr5.fa	67598184	A	G	631	1281	0.49258	noncoding	germline	non_hotspot	fail	PIK3R1	N/A	CCDS3993.1
+chr5.fa	67610257	C	T	512	512	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	67611835	A	G	1139	2318	0.49137	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	67618089	C	A	371	374	0.99198	noncoding	germline	non_hotspot	fail		N/A	-
+chr5.fa	80037367	G	T	2	143	0.01399	coding	not_germline	non_hotspot	fail	MSH3	Q551H	CCDS34195.1
+chr5.fa	80064815	G	A	2	141	0.01418	coding	not_germline	non_hotspot	fail	MSH3	G749E	CCDS34195.1
+chr5.fa	80071564	G	A	2	99	0.02020	coding	not_germline	non_hotspot	fail	MSH3	V769I	CCDS34195.1
+chr5.fa	80149952	G	(null)	3	162	0.01852	coding	not_germline	non_hotspot	fail	MSH3	G940Vfs*17	CCDS34195.1
+chr5.fa	80168937	G	A	382	386	0.98964	coding	germline	non_hotspot	fail	MSH3	A1045T	CCDS34195.1
+chr5.fa	86648971	C	T	2	158	0.01266	noncoding	not_germline	non_hotspot	fail	RASA1	N/A	CCDS34200.1
+chr5.fa	86659313	C	A	3	239	0.01255	coding	not_germline	non_hotspot	fail	RASA1	N/A	CCDS34200.1
+chr5.fa	86686626	A	(null)	2	217	0.00922	coding	not_germline	non_hotspot	fail	RASA1	K1025Sfs*5	CCDS34200.1
+chr6.fa	112382313	G	T	2156	2156	1.00000	coding	germline	non_hotspot	fail	WISP3	Q74H	CCDS5097.1
+chr6.fa	112389434	AA	(null)	2	228	0.00877	coding	not_germline	non_hotspot	fail	WISP3	K226Mfs*21	CCDS5097.1
+chr6.fa	117631321	C	T	48	552	0.08696	coding	not_germline	non_hotspot	pass	ROS1	N/A	CCDS5116.1
+chr6.fa	117632186	T	A	2	229	0.00873	coding	not_germline	non_hotspot	fail	ROS1	H2077L	CCDS5116.1
+chr6.fa	117641976	C	(null)	1	521	0.00192	noncoding	not_germline	non_hotspot	fail	ROS1	N/A	CCDS5116.1
+chr6.fa	117651431	C	T	104	952	0.10924	noncoding	not_germline	non_hotspot	pass	ROS1	N/A	CCDS5116.1
+chr6.fa	117651705	G	A	69	640	0.10781	noncoding	not_germline	non_hotspot	pass	ROS1	N/A	CCDS5116.1
+chr6.fa	117653654	G	A	6	63	0.09524	noncoding	not_germline	non_hotspot	fail	ROS1	N/A	CCDS5116.1
+chr6.fa	117700265	T	A	3	444	0.00676	coding	not_germline	non_hotspot	fail	ROS1	S852C	CCDS5116.1
+chr6.fa	117704584	C	A	5	789	0.00634	coding	not_germline	non_hotspot	fail	ROS1	G798C	CCDS5116.1
+chr6.fa	117725578	T	A	336	685	0.49051	coding	germline	non_hotspot	fail	ROS1	N/A	CCDS5116.1
+chr6.fa	117730819	G	A	388	796	0.48744	noncoding	germline	non_hotspot	fail	ROS1	N/A	CCDS5116.1
+chr6.fa	137519588	A	C	486	944	0.51483	coding	germline	non_hotspot	fail	IFNGR1	N/A	CCDS5185.1
+chr6.fa	137528123	A	(null)	2	375	0.00533	coding	not_germline	non_hotspot	fail	IFNGR1	F59Lfs*3	CCDS5185.1
+chr6.fa	137540370	A	G	1410	2647	0.53268	noncoding	germline	non_hotspot	fail	IFNGR1	N/A	CCDS5185.1
+chr6.fa	138202447	G	A	770	1574	0.48920	coding	germline	non_hotspot	pass	TNFAIP3	M788I	CCDS5187.1
+chr6.fa	150005032	G	(null)	3	1058	0.00284	coding	not_germline	non_hotspot	fail	LATS1	S398Cfs*12	CCDS34551.1
+chr6.fa	151686905	C	T	2758	2760	0.99928	coding	germline	non_hotspot	fail	ZBTB2	N/A	CCDS5231.1
+chr6.fa	151694613	C	T	5	599	0.00835	coding	not_germline	non_hotspot	fail	ZBTB2	V54I	CCDS5231.1
+chr6.fa	152129077	T	C	1664	3665	0.45403	coding	germline	non_hotspot	fail	ESR1	N/A	CCDS5234.1
+chr6.fa	152201875	T	C	1563	1564	0.99936	coding	germline	non_hotspot	fail	ESR1	N/A	CCDS5234.1
+chr6.fa	152265522	G	C	2631	2640	0.99659	coding	germline	non_hotspot	fail	ESR1	N/A	CCDS5234.1
+chr6.fa	152420095	G	A	1099	2270	0.48414	coding	germline	non_hotspot	fail	ESR1	N/A	CCDS5234.1
+chr6.fa	157192803	A	G	222	439	0.50570	noncoding	not_germline	non_hotspot	fail	ARID1B	N/A	CCDS55072.1
+chr6.fa	157405930	G	A	3889	3890	0.99974	coding	germline	non_hotspot	fail	ARID1B	N/A	CCDS55072.1
+chr6.fa	157528213	C	T	476	3368	0.14133	coding	not_germline	non_hotspot	pass	ARID1B	L1980F	CCDS55072.1
+chr6.fa	160468278	A	G	1473	1474	0.99932	coding	germline	non_hotspot	fail	IGF2R	N/A	CCDS5273.1
+chr6.fa	160468383	T	C	1140	1140	1.00000	noncoding	germline	non_hotspot	fail	IGF2R	N/A	CCDS5273.1
+chr6.fa	160494409	A	G	3412	3426	0.99591	coding	germline	non_hotspot	fail	IGF2R	R1619G	CCDS5273.1
+chr6.fa	160505199	C	G	1439	1441	0.99861	coding	germline	non_hotspot	fail	IGF2R	N/A	CCDS5273.1
+chr6.fa	160506179	C	T	6	1741	0.00345	noncoding	not_germline	non_hotspot	fail	IGF2R	N/A	CCDS5273.1
+chr6.fa	161807855	C	G	417	999	0.41742	coding	germline	non_hotspot	fail	PARK2	V380L	CCDS5281.1
+chr6.fa	162622304	A	G	477	478	0.99791	noncoding	germline	non_hotspot	fail	PARK2	N/A	CCDS5281.1
+chr6.fa	163836376	C	T	641	643	0.99689	noncoding	germline	non_hotspot	pass	QKI	N/A	CCDS43525.1
+chr6.fa	26031868	G	A	1008	1008	1.00000	noncoding	germline	non_hotspot	fail	HIST1H3B	N/A	NM_003537
+chr6.fa	26056072	G	C	1900	1905	0.99738	coding	germline	non_hotspot	fail	HIST1H1C	N/A	CCDS4577.1
+chr6.fa	26056549	A	G	5433	5436	0.99945	coding	germline	non_hotspot	fail	HIST1H1C	N/A	CCDS4577.1
+chr6.fa	30670935	G	A	848	8417	0.10075	coding	not_germline	non_hotspot	pass	MDC1	N/A	CCDS34384.1
+chr6.fa	30671798	A	T	6	4501	0.00133	coding	not_germline	non_hotspot	fail	MDC1	I1721N	CCDS34384.1
+chr6.fa	30680916	C	T	964	2996	0.32176	coding	germline	non_hotspot	fail	MDC1	R268K	CCDS34384.1
+chr6.fa	30860865	C	T	512	5399	0.09483	coding	not_germline	non_hotspot	pass	DDR1	P374S	CCDS47396.1
+chr6.fa	30863248	G	C	22	7779	0.00283	coding	not_germline	non_hotspot	fail	DDR1	N/A	CCDS47396.1
+chr6.fa	30863264	G	C	30	7040	0.00426	coding	not_germline	non_hotspot	fail	DDR1	A533P	CCDS47396.1
+chr6.fa	32163667	A	C	60	5127	0.01170	coding	not_germline	non_hotspot	fail	NOTCH4	H1853Q	CCDS34420.1
+chr6.fa	32163668	T	A	22	5453	0.00403	coding	not_germline	non_hotspot	fail	NOTCH4	H1853L	CCDS34420.1
+chr6.fa	32166784	(null)	G	7	6292	0.00111	coding	not_germline	non_hotspot	fail	NOTCH4	G1486Wfs*36	CCDS34420.1
+chr6.fa	32169066	G	A	1323	4935	0.26809	coding	not_germline	non_hotspot	pass	NOTCH4	N/A	CCDS34420.1
+chr6.fa	32170104	G	A	1641	4762	0.34460	coding	not_germline	non_hotspot	pass	NOTCH4	N/A	CCDS34420.1
+chr6.fa	32170161	G	A	1273	4575	0.27825	coding	not_germline	non_hotspot	pass	NOTCH4	N/A	CCDS34420.1
+chr6.fa	32172065	T	G	2024	5681	0.35628	coding	germline	non_hotspot	fail	NOTCH4	N/A	CCDS34420.1
+chr6.fa	32189051	C	A	11	5442	0.00202	coding	not_germline	non_hotspot	fail	NOTCH4	G168V	CCDS34420.1
+chr6.fa	33288271	A	G	833	2323	0.35859	coding	germline	non_hotspot	fail	DAXX	N/A	CCDS4776.1
+chr6.fa	33289613	A	T	22	2021	0.01089	coding	not_germline	non_hotspot	fail	DAXX	N30K	CCDS4776.1
+chr6.fa	36645696	A	G	1137	1137	1.00000	noncoding	germline	non_hotspot	fail	CDKN1A	N/A	NM_001220777
+chr6.fa	37138220	C	G	976	2664	0.36637	coding	germline	non_hotspot	fail	PIM1	H48D	NM_001243186
+chr6.fa	41903782	A	C	2921	4765	0.61301	coding	germline	non_hotspot	fail	CCND3	S259A	CCDS4863.1
+chr6.fa	41903783	G	A	2950	4841	0.60938	coding	germline	non_hotspot	pass	CCND3	N/A	CCDS4863.1
+chr6.fa	41905174	T	A	2243	3438	0.65241	noncoding	germline	non_hotspot	fail	CCND3	N/A	CCDS4863.1
+chr6.fa	41924853	G	A	749	1190	0.62941	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	41924931	A	G	539	1545	0.34887	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	41927710	G	A	34	177	0.19209	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr6.fa	41941980	A	C	1495	1499	0.99733	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	41954138	C	T	3	37	0.08108	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr6.fa	41981077	A	G	615	616	0.99838	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	41985436	T	C	840	841	0.99881	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	41985449	A	(null)	3	790	0.00380	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr6.fa	42011717	A	G	2630	4259	0.61752	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	42013049	T	C	510	510	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr6.fa	43748608	C	A	5	1925	0.00260	noncoding	not_germline	non_hotspot	fail	VEGFA	N/A	CCDS34457.1
+chr6.fa	44220862	G	T	6	3139	0.00191	coding	not_germline	non_hotspot	fail	HSP90AB1	N/A	CCDS4909.1
+chr6.fa	93953164	C	T	37	362	0.10221	coding	not_germline	non_hotspot	pass	EPHA7	G993R	CCDS5031.1
+chr6.fa	93955158	G	A	15	164	0.09146	coding	not_germline	non_hotspot	pass	EPHA7	L914F	CCDS5031.1
+chr6.fa	93982124	A	G	755	759	0.99473	coding	germline	non_hotspot	fail	EPHA7	N/A	CCDS5031.1
+chr6.fa	94066720	C	T	5	821	0.00609	coding	not_germline	non_hotspot	fail	EPHA7	V347I	CCDS5031.1
+chr6.fa	94068025	C	T	88	583	0.15094	coding	not_germline	non_hotspot	pass	EPHA7	E313K	CCDS5031.1
+chr6.fa	94124488	G	A	14	113	0.12389	noncoding	not_germline	non_hotspot	pass	EPHA7	N/A	CCDS5031.1
+chr7.fa	100064719	A	G	1634	2688	0.60789	coding	germline	non_hotspot	fail		N/A	CCDS5695.1
+chr7.fa	100403204	C	G	33	4363	0.00756	coding	not_germline	non_hotspot	fail	EPHB4	R866P	CCDS5706.1
+chr7.fa	100404195	C	A	6	1863	0.00322	noncoding	not_germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	100411278	T	C	1041	1042	0.99904	coding	germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	100416250	A	G	3424	3434	0.99709	coding	germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	100420008	A	T	38	5207	0.00730	coding	not_germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	100420155	A	G	3250	5364	0.60589	coding	germline	non_hotspot	pass	EPHB4	N/A	CCDS5706.1
+chr7.fa	100424587	G	(null)	867	1570	0.55223	noncoding	germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	100424587	G	C	786	1565	0.50224	noncoding	germline	non_hotspot	fail	EPHB4	N/A	CCDS5706.1
+chr7.fa	106508442	G	A	932	8367	0.11139	coding	not_germline	non_hotspot	pass	PIK3CG	E146K	CCDS5739.1
+chr7.fa	106508790	C	T	600	5507	0.10895	coding	not_germline	non_hotspot	pass	PIK3CG	P262S	CCDS5739.1
+chr7.fa	106508978	A	G	8886	8902	0.99820	coding	germline	non_hotspot	fail	PIK3CG	N/A	CCDS5739.1
+chr7.fa	106508987	T	C	9144	9161	0.99814	coding	germline	non_hotspot	fail	PIK3CG	N/A	CCDS5739.1
+chr7.fa	106509045	G	A	979	8935	0.10957	coding	not_germline	non_hotspot	pass	PIK3CG	E347K	CCDS5739.1
+chr7.fa	116312439	C	G	1261	1261	1.00000	noncoding	germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116312986	T	C	2767	2768	0.99964	noncoding	germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116320915	G	A	34	353	0.09632	noncoding	not_germline	non_hotspot	pass	MET	N/A	NM_001127500
+chr7.fa	116329469	G	T	3	294	0.01020	noncoding	not_germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116332539	C	G	428	428	1.00000	noncoding	germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116336947	C	T	549	878	0.62529	noncoding	germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116371718	C	A	5	638	0.00784	noncoding	not_germline	non_hotspot	fail	MET	N/A	NM_001127500
+chr7.fa	116417485	A	G	4	472	0.00847	coding	not_germline	non_hotspot	fail	MET	D1119G	NM_001127500
+chr7.fa	116436044	G	A	117	1232	0.09497	coding	not_germline	non_hotspot	pass	MET	E1365K	NM_001127500
+chr7.fa	116459201	G	A	303	824	0.36772	noncoding	germline	non_hotspot	fail		N/A	-
+chr7.fa	116459280	T	C	468	762	0.61417	noncoding	germline	non_hotspot	fail		N/A	-
+chr7.fa	116459319	T	C	487	850	0.57294	noncoding	germline	non_hotspot	fail		N/A	-
+chr7.fa	124486980	T	C	310	312	0.99359	noncoding	germline	non_hotspot	fail	POT1	N/A	CCDS5793.1
+chr7.fa	14026313	A	(null)	3	152	0.01974	noncoding	not_germline	non_hotspot	fail	ETV1	N/A	CCDS55088.1
+chr7.fa	140453136	A	C	224	804	0.27861	coding	not_germline	non_hotspot	pass	BRAF	V600G	CCDS5863.1
+chr7.fa	140453137	C	T	231	806	0.28660	coding	not_germline	non_hotspot	pass	BRAF	V600M	CCDS5863.1
+chr7.fa	140485085	C	A	3	214	0.01402	noncoding	not_germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140487101	AAA	(null)	4	21	0.19048	noncoding	not_germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140488659	G	A	2	11	0.18182	noncoding	not_germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140490207	T	C	295	533	0.55347	noncoding	germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140493746	C	A	4	172	0.02326	noncoding	not_germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140495573	T	C	194	194	1.00000	noncoding	germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	140497734	C	T	7	810	0.00864	noncoding	not_germline	non_hotspot	fail	BRAF	N/A	CCDS5863.1
+chr7.fa	142643301	C	T	1236	4044	0.30564	coding	germline	non_hotspot	pass	KEL	R436Q	CCDS34766.1
+chr7.fa	142655008	G	A	1111	1826	0.60843	coding	germline	non_hotspot	pass	KEL	T193M	CCDS34766.1
+chr7.fa	142658065	G	A	176	1900	0.09263	coding	not_germline	non_hotspot	pass	KEL	S117F	CCDS34766.1
+chr7.fa	148543694	A	(null)	308	346	0.89017	noncoding	germline	non_hotspot	fail	EZH2	N/A	CCDS5891.1
+chr7.fa	151847998	T	(null)	3	312	0.00962	coding	not_germline	non_hotspot	fail	KMT2C	N4254Tfs*16	CCDS5931.1
+chr7.fa	151874148	TT	(null)	9	760	0.01184	coding	not_germline	non_hotspot	fail	KMT2C	K2797Gfs*11	CCDS5931.1
+chr7.fa	151880259	A	(null)	4	183	0.02186	noncoding	not_germline	non_hotspot	fail	KMT2C	N/A	CCDS5931.1
+chr7.fa	151884537	T	A	4	365	0.01096	coding	not_germline	non_hotspot	fail	KMT2C	N/A	CCDS5931.1
+chr7.fa	151884941	(null)	A	1	515	0.00194	noncoding	not_germline	non_hotspot	fail	KMT2C	N/A	CCDS5931.1
+chr7.fa	151927016	T	C	277	1683	0.16459	coding	germline	non_hotspot	fail	KMT2C	S990G	CCDS5931.1
+chr7.fa	151944970	C	T	24	846	0.02837	noncoding	not_germline	non_hotspot	fail	KMT2C	N/A	CCDS5931.1
+chr7.fa	151945102	G	A	179	3655	0.04897	coding	not_germline	non_hotspot	fail	KMT2C	S806F	CCDS5931.1
+chr7.fa	2946461	T	C	3250	3262	0.99632	coding	germline	non_hotspot	fail	CARD11	N/A	CCDS5336.2
+chr7.fa	2952905	G	T	8	6982	0.00115	noncoding	not_germline	non_hotspot	fail	CARD11	N/A	CCDS5336.2
+chr7.fa	2957005	T	C	1447	2521	0.57398	coding	germline	non_hotspot	fail	CARD11	N/A	CCDS5336.2
+chr7.fa	2972168	C	T	101	1086	0.09300	coding	not_germline	non_hotspot	pass	CARD11	N/A	CCDS5336.2
+chr7.fa	2974088	T	A	12	2475	0.00485	coding	not_germline	non_hotspot	fail	CARD11	Q506L	CCDS5336.2
+chr7.fa	2976740	C	T	652	2496	0.26122	coding	not_germline	non_hotspot	pass	CARD11	N/A	CCDS5336.2
+chr7.fa	2979367	G	C	14	1843	0.00760	noncoding	not_germline	non_hotspot	fail	CARD11	N/A	CCDS5336.2
+chr7.fa	50435840	C	T	382	1423	0.26845	noncoding	not_germline	non_hotspot	pass	IKZF1	N/A	CCDS59055.1
+chr7.fa	50467767	C	A	2701	6651	0.40610	coding	germline	non_hotspot	fail	IKZF1	N/A	CCDS59055.1
+chr7.fa	55039988	A	(null)	2	332	0.00602	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr7.fa	55160160	C	T	1157	1157	1.00000	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55204109	G	A	660	1140	0.57895	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55204162	A	G	544	1031	0.52764	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55214348	C	T	4069	4070	0.99975	coding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55221993	C	A	17	6349	0.00268	noncoding	not_germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55223176	G	A	1377	1378	0.99927	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55229255	G	A	5457	9027	0.60452	coding	germline	non_hotspot	fail	EGFR	R521K	CCDS5514.1
+chr7.fa	55236774	A	G	2005	2007	0.99900	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55237343	C	T	4	399	0.01003	noncoding	not_germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55238874	T	A	845	1487	0.56826	coding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55242502	G	A	96	919	0.10446	coding	not_germline	non_hotspot	pass	EGFR	E758K	CCDS5514.1
+chr7.fa	55245364	G	C	1338	2275	0.58813	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55249063	G	A	3434	5961	0.57608	coding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55251541	G	A	708	1250	0.56640	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55251648	C	T	1850	3137	0.58974	noncoding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55266417	T	C	947	1576	0.60089	coding	germline	non_hotspot	fail	EGFR	N/A	CCDS5514.1
+chr7.fa	55280559	G	A	3345	5546	0.60314	noncoding	germline	non_hotspot	fail		N/A	-
+chr7.fa	55302440	G	A	1571	2672	0.58795	noncoding	germline	non_hotspot	fail		N/A	-
+chr7.fa	56122058	A	T	423	425	0.99529	noncoding	germline	non_hotspot	fail		N/A	CCDS34640.1
+chr7.fa	6026775	T	C	3346	3352	0.99821	coding	germline	non_hotspot	fail	PMS2	K541E	CCDS5343.1
+chr7.fa	66459256	T	C	691	1116	0.61918	coding	germline	non_hotspot	fail	SBDS	N/A	CCDS5537.1
+chr7.fa	77756580	T	C	2308	2311	0.99870	coding	germline	non_hotspot	fail	MAGI2	N/A	CCDS5594.1
+chr7.fa	77756724	C	T	1200	1200	1.00000	coding	germline	non_hotspot	fail	MAGI2	N/A	CCDS5594.1
+chr7.fa	77789403	A	G	1243	3097	0.40136	coding	germline	non_hotspot	fail	MAGI2	N/A	CCDS5594.1
+chr7.fa	81346685	T	C	657	657	1.00000	noncoding	germline	non_hotspot	fail	HGF	N/A	CCDS5597.1
+chr7.fa	81359051	C	T	663	664	0.99849	coding	germline	non_hotspot	pass	HGF	E304K	CCDS5597.1
+chr7.fa	81381436	C	T	86	774	0.11111	coding	not_germline	non_hotspot	pass	HGF	V209I	CCDS5597.1
+chr7.fa	86415843	G	T	14	10409	0.00134	coding	not_germline	non_hotspot	fail	GRM3	E245D	CCDS5600.1
+chr7.fa	86468384	G	A	239	2550	0.09373	coding	not_germline	non_hotspot	pass	GRM3	M518I	CCDS5600.1
+chr7.fa	86479764	C	T	110	1144	0.09615	coding	not_germline	non_hotspot	pass	GRM3	H824Y	CCDS5600.1
+chr8.fa	11566041	G	A	66	445	0.14832	coding	not_germline	non_hotspot	pass	GATA4	A74T	CCDS5983.1
+chr8.fa	118819578	C	T	944	1934	0.48811	coding	germline	non_hotspot	fail	EXT1	N/A	CCDS6324.1
+chr8.fa	118830787	C	T	51	1032	0.04942	noncoding	not_germline	non_hotspot	fail	EXT1	N/A	CCDS6324.1
+chr8.fa	118847782	G	A	431	854	0.50468	coding	germline	non_hotspot	fail	EXT1	N/A	CCDS6324.1
+chr8.fa	119122351	C	T	5	988	0.00506	coding	not_germline	non_hotspot	fail	EXT1	C312Y	CCDS6324.1
+chr8.fa	128711670	G	(null)	2	324	0.00617	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128711670	G	A	193	336	0.57441	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128713173	G	A	836	1965	0.42545	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128715817	C	T	31	67	0.46269	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128716957	C	A	4	540	0.00741	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128719874	(null)	T	445	843	0.52788	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128720585	C	T	4	568	0.00704	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128721143	C	T	104	689	0.15094	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128722990	C	A	5	1091	0.00458	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128724986	C	(null)	15	1366	0.01098	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128724986	C	T	174	1036	0.16795	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128727394	G	(null)	198	464	0.42672	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128727518	T	(null)	719	653	1.10107	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128731930	C	T	4	473	0.00846	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128734501	G	A	4	190	0.02105	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128740607	G	A	364	882	0.41270	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128743093	A	C	497	1203	0.41313	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128743151	A	T	380	914	0.41576	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	128744520	(null)	TTT	2	70	0.02857	noncoding	not_germline	non_hotspot	fail	MYC	N/A	CCDS6359.2
+chr8.fa	128746319	G	C	39	4154	0.00939	noncoding	not_germline	non_hotspot	fail	MYC	N/A	CCDS6359.2
+chr8.fa	128746797	ATATATTAA	(null)	1	223	0.00448	noncoding	not_germline	non_hotspot	fail	MYC	N/A	CCDS6359.2
+chr8.fa	128747011	C	A	239	388	0.61598	noncoding	germline	non_hotspot	pass	MYC	N/A	CCDS6359.2
+chr8.fa	128747012	(null)	A	2	388	0.00515	noncoding	germline	non_hotspot	fail	MYC	N/A	CCDS6359.2
+chr8.fa	128749469	C	T	1430	2722	0.52535	noncoding	germline	non_hotspot	pass	MYC	N/A	CCDS6359.2
+chr8.fa	128750540	A	G	2836	7047	0.40244	coding	germline	non_hotspot	pass	MYC	N26S	CCDS6359.2
+chr8.fa	128750685	G	C	35	5388	0.00650	coding	not_germline	non_hotspot	fail	MYC	N/A	CCDS6359.2
+chr8.fa	128781381	TATATATATATATA	(null)	1	1	1.00000	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	128809557	T	A	752	752	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	145737286	G	A	1489	3492	0.42640	noncoding	germline	non_hotspot	fail		N/A	CCDS6430.1
+chr8.fa	145737636	A	G	3641	3644	0.99918	coding	germline	non_hotspot	fail	RECQL4	N/A	NM_004260
+chr8.fa	145737816	C	T	1543	3647	0.42309	coding	germline	non_hotspot	fail	RECQL4	R1005Q	NM_004260
+chr8.fa	145738768	G	(null)	5294	4728	1.11971	coding	germline	non_hotspot	fail	RECQL4	N/A	NM_004260
+chr8.fa	145742514	A	G	4180	4183	0.99928	coding	germline	non_hotspot	fail	RECQL4	S92P	NM_004260
+chr8.fa	23540417	C	T	602	603	0.99834	noncoding	germline	non_hotspot	fail	NKX3-1	N/A	NM_006167
+chr8.fa	30924557	C	T	289	289	1.00000	coding	germline	non_hotspot	fail	WRN	N/A	CCDS6082.1
+chr8.fa	30938805	C	A	2	98	0.02041	coding	not_germline	non_hotspot	fail	WRN	S421Y	CCDS6082.1
+chr8.fa	30958354	T	(null)	571	519	1.10019	noncoding	germline	non_hotspot	fail	WRN	N/A	CCDS6082.1
+chr8.fa	30973957	G	T	456	456	1.00000	coding	germline	non_hotspot	fail	WRN	N/A	CCDS6082.1
+chr8.fa	30999123	G	A	376	376	1.00000	noncoding	germline	non_hotspot	fail	WRN	N/A	CCDS6082.1
+chr8.fa	30999181	T	(null)	3	287	0.01045	noncoding	not_germline	non_hotspot	fail	WRN	N/A	CCDS6082.1
+chr8.fa	37555998	G	C	27	1934	0.01396	coding	not_germline	non_hotspot	fail	ZNF703	G527R	CCDS6094.1
+chr8.fa	37692771	GGAG	(null)	31	3820	0.00812	coding	not_germline	non_hotspot	fail	GPR124	G567Cfs*124	CCDS6097.2
+chr8.fa	37693302	T	C	1754	1759	0.99716	noncoding	germline	non_hotspot	fail	GPR124	N/A	CCDS6097.2
+chr8.fa	37697036	A	(null)	3	1761	0.00170	coding	not_germline	non_hotspot	fail	GPR124	G804Afs*6	CCDS6097.2
+chr8.fa	38186882	A	(null)	2	211	0.00948	noncoding	not_germline	non_hotspot	fail	WHSC1L1	N/A	CCDS43729.1
+chr8.fa	38205015	A	T	3	250	0.01200	coding	not_germline	non_hotspot	fail	WHSC1L1	N225K	CCDS43729.1
+chr8.fa	38269942	G	C	18	841	0.02140	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38272101	C	A	53	1592	0.03329	coding	not_germline	non_hotspot	fail	FGFR1	R675L	CCDS6107.2
+chr8.fa	38272114	C	A	35	2150	0.01628	coding	not_germline	non_hotspot	fail	FGFR1	A671S	CCDS6107.2
+chr8.fa	38272123	C	G	339	2319	0.14618	coding	not_germline	non_hotspot	pass	FGFR1	A668P	CCDS6107.2
+chr8.fa	38272186	A	T	26	3560	0.00730	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38287753	(null)	GATCA	1594	1964	0.81161	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38288903	C	T	1559	3901	0.39964	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38292266	C	A	702	1843	0.38090	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38292707	C	A	6	973	0.00617	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38292894	G	A	754	1913	0.39415	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38295542	G	A	548	1373	0.39913	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38295636	T	A	8	1381	0.00579	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38306159	T	A	2	169	0.01183	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38307184	(null)	CCANTCT	181	4826	0.03751	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38307184	(null)	CCATTCN	43	4826	0.00891	noncoding	not_germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38311001	C	T	747	1325	0.56377	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38311425	C	A	503	507	0.99211	noncoding	germline	non_hotspot	fail	FGFR1	N/A	CCDS6107.2
+chr8.fa	38315401	T	C	112	193	0.58031	noncoding	germline	non_hotspot	pass	FGFR1	N/A	CCDS6107.2
+chr8.fa	38322346	A	G	1123	1125	0.99822	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38323765	C	G	5852	5861	0.99846	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38324414	C	(null)	663	590	1.12373	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38324426	C	A	709	723	0.98064	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38325361	G	A	181	1374	0.13173	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr8.fa	38325411	G	A	682	682	1.00000	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38326046	G	A	2431	2436	0.99795	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38326161	G	A	1535	1536	0.99935	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38326404	T	C	4468	4473	0.99888	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38359529	C	G	933	1747	0.53406	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38359658	C	T	456	827	0.55139	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38361379	C	T	988	1902	0.51945	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38361430	A	G	836	1603	0.52152	noncoding	germline	non_hotspot	fail		N/A	-
+chr8.fa	38801320	C	(null)	3	217	0.01382	coding	not_germline	non_hotspot	fail		P72Qfs*30	NM_021623
+chr8.fa	41790083	C	A	7	5080	0.00138	coding	not_germline	non_hotspot	fail	KAT6A	Q1885H	CCDS6124.1
+chr8.fa	41844981	C	T	3	399	0.00752	coding	not_germline	non_hotspot	fail	KAT6A	G234D	CCDS6124.1
+chr8.fa	48713347	G	A	4	462	0.00866	noncoding	not_germline	non_hotspot	fail	PRKDC	N/A	NM_006904
+chr8.fa	48713537	G	A	4	385	0.01039	coding	germline	non_hotspot	fail	PRKDC	T3311M	NM_006904
+chr8.fa	48746930	G	T	6	1860	0.00323	coding	not_germline	non_hotspot	fail	PRKDC	P2660T	NM_006904
+chr8.fa	48805817	(null)	G	3013	2791	1.07954	coding	germline	non_hotspot	fail	PRKDC	F1244Lfs*2886	NM_006904
+chr8.fa	48846519	T	C	478	479	0.99791	noncoding	germline	non_hotspot	fail	PRKDC	N/A	NM_006904
+chr8.fa	48852207	C	T	2	198	0.01010	coding	not_germline	non_hotspot	fail	PRKDC	N/A	NM_006904
+chr8.fa	55372504	G	A	187	3552	0.05265	coding	not_germline	non_hotspot	pass	SOX17	N/A	CCDS6159.1
+chr8.fa	56864649	C	T	21	423	0.04965	coding	not_germline	non_hotspot	pass	LYN	N/A	CCDS6162.1
+chr8.fa	56910947	C	T	52	1042	0.04990	coding	not_germline	non_hotspot	pass	LYN	H365Y	CCDS6162.1
+chr8.fa	68864728	G	A	2059	3981	0.51721	coding	germline	non_hotspot	fail	PREX2	N/A	CCDS6201.1
+chr8.fa	68950493	G	A	8	251	0.03187	coding	not_germline	non_hotspot	fail	PREX2	D269N	CCDS6201.1
+chr8.fa	68968166	C	A	364	365	0.99726	coding	germline	non_hotspot	fail	PREX2	N/A	CCDS6201.1
+chr8.fa	68968171	G	A	374	375	0.99733	coding	germline	non_hotspot	fail	PREX2	N/A	CCDS6201.1
+chr8.fa	69011935	A	(null)	2	378	0.00529	coding	not_germline	non_hotspot	fail	PREX2	S859Vfs*12	CCDS6201.1
+chr8.fa	69012079	G	A	6	117	0.05128	coding	not_germline	non_hotspot	fail	PREX2	N/A	CCDS6201.1
+chr8.fa	69020558	C	T	129	285	0.45263	coding	germline	non_hotspot	pass	PREX2	S977L	CCDS6201.1
+chr8.fa	90967510	(null)	C	1	235	0.00426	coding	not_germline	non_hotspot	fail	NBN	N/A	CCDS6249.1
+chr8.fa	92988181	G	A	85	699	0.12160	coding	not_germline	non_hotspot	pass	RUNX1T1	H445Y	CCDS56544.1
+chr8.fa	93017372	C	T	114	2248	0.05071	coding	not_germline	non_hotspot	pass	RUNX1T1	E249K	CCDS56544.1
+chr8.fa	93026920	C	T	62	1696	0.03656	coding	not_germline	non_hotspot	pass	RUNX1T1	G130S	CCDS56544.1
+chr9.fa	100459578	T	C	2855	2858	0.99895	noncoding	germline	non_hotspot	fail	XPA	N/A	NM_000380
+chr9.fa	110249309	C	T	224	1002	0.22355	coding	not_germline	non_hotspot	pass	KLF4	G422S	CCDS6770.2
+chr9.fa	131379967	C	T	2579	2579	1.00000	coding	germline	non_hotspot	fail		N/A	CCDS48036.1
+chr9.fa	133710820	(null)	C	1106	896	1.23438	noncoding	germline	non_hotspot	fail	ABL1	N/A	CCDS35166.1
+chr9.fa	133761001	A	G	2676	2679	0.99888	coding	germline	non_hotspot	fail	ABL1	N/A	CCDS35166.1
+chr9.fa	135804270	G	A	297	1976	0.15030	noncoding	not_germline	non_hotspot	fail	TSC1	N/A	CCDS6956.1
+chr9.fa	139391636	G	A	4999	5001	0.99960	coding	germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139393651	G	C	3008	7021	0.42843	coding	not_germline	non_hotspot	pass	NOTCH1	L1999V	CCDS43905.1
+chr9.fa	139397707	G	A	5752	5755	0.99948	coding	germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139399343	C	T	2010	3414	0.58875	coding	not_germline	non_hotspot	pass	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139401024	G	A	407	2884	0.14112	coding	not_germline	non_hotspot	pass	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139410424	A	G	2166	2168	0.99908	noncoding	germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139410554	C	G	86	1935	0.04444	noncoding	not_germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139412197	G	A	2080	5480	0.37956	noncoding	germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139418260	A	G	1627	3929	0.41410	coding	germline	non_hotspot	fail	NOTCH1	N/A	CCDS43905.1
+chr9.fa	139562993	C	T	2185	2188	0.99863	noncoding	germline	non_hotspot	fail	EGFL7	N/A	CCDS7002.1
+chr9.fa	139565480	GGGG	(null)	534	535	0.99813	noncoding	not_germline	non_hotspot	fail		N/A	CCDS35181.1
+chr9.fa	27168573	A	(null)	3	363	0.00826	coding	not_germline	non_hotspot	fail	TEK	E150Kfs*5	CCDS6519.1
+chr9.fa	27220066	G	A	491	1106	0.44394	coding	germline	non_hotspot	fail	TEK	N/A	CCDS6519.1
+chr9.fa	35074917	T	C	1005	2000	0.50250	noncoding	germline	non_hotspot	fail		N/A	CCDS6573.1
+chr9.fa	36840623	G	A	1152	2386	0.48282	coding	germline	non_hotspot	fail	PAX5	T293I	NM_001280549
+chr9.fa	36846910	C	T	995	2063	0.48231	coding	germline	non_hotspot	fail	PAX5	G266E	NM_001280549
+chr9.fa	37006519	T	(null)	2	436	0.00459	coding	not_germline	non_hotspot	fail	PAX5	V143Yfs*16	CCDS6607.1
+chr9.fa	5078366	GAAGACAG	(null)	2	304	0.00658	coding	not_germline	non_hotspot	fail	JAK2	T689Sfs*7	CCDS6457.1
+chr9.fa	5415114	C	G	183	402	0.45522	noncoding	germline	non_hotspot	fail		N/A	CCDS6463.1
+chr9.fa	5420254	G	A	853	853	1.00000	noncoding	germline	non_hotspot	fail		N/A	CCDS6463.1
+chr9.fa	5505515	A	(null)	3	289	0.01038	noncoding	not_germline	non_hotspot	fail		N/A	-
+chr9.fa	5557672	T	C	1118	1119	0.99911	coding	germline	non_hotspot	fail	PDCD1LG2	F229S	CCDS6465.1
+chr9.fa	8341139	C	T	84	702	0.11966	coding	not_germline	non_hotspot	pass	PTPRD	G1693R	CCDS43786.1
+chr9.fa	8389364	C	G	638	639	0.99844	coding	germline	non_hotspot	fail	PTPRD	N/A	CCDS43786.1
+chr9.fa	8449781	G	A	112	923	0.12134	coding	not_germline	non_hotspot	pass	PTPRD	P1311L	CCDS43786.1
+chr9.fa	8486232	C	T	464	1022	0.45401	coding	germline	non_hotspot	pass	PTPRD	R862H	CCDS43786.1
+chr9.fa	8521544	G	A	78	654	0.11927	coding	not_germline	non_hotspot	pass	PTPRD	R232C	CCDS43786.1
+chr9.fa	87357444	C	T	204	1197	0.17043	noncoding	not_germline	non_hotspot	pass	NTRK2	N/A	CCDS6671.1
+chr9.fa	87358430	T	C	3	479	0.00626	noncoding	not_germline	non_hotspot	fail	NTRK2	N/A	CCDS6671.1
+chr9.fa	97879687	A	(null)	3	288	0.01042	noncoding	not_germline	non_hotspot	fail	FANCC	N/A	CCDS35071.1
+chr9.fa	98209594	G	A	1715	2544	0.67414	coding	germline	non_hotspot	fail	PTCH1	P1315L	CCDS6714.1
+chr9.fa	98215745	C	A	8	3159	0.00253	noncoding	not_germline	non_hotspot	fail	PTCH1	N/A	CCDS6714.1
+chr9.fa	98242350	A	(null)	3	649	0.00462	coding	not_germline	non_hotspot	fail	PTCH1	L323*	CCDS6714.1
+chr9.fa	98278940	C	G	9	441	0.02041	noncoding	germline	non_hotspot	fail		N/A	-
+chrX.fa	100629639	G	T	2	126	0.01587	noncoding	not_germline	non_hotspot	fail	BTK	N/A	CCDS14482.1
+chrX.fa	110406942	C	T	3	173	0.01734	coding	not_germline	non_hotspot	fail	PAK3	N/A	CCDS48151.1
+chrX.fa	129147079	T	C	2489	2490	0.99960	coding	germline	non_hotspot	fail	BCORL1	F111L	CCDS14616.1
+chrX.fa	12937325	G	A	79	347	0.22767	coding	not_germline	non_hotspot	pass	TLR8	E56K	CCDS14152.1
+chrX.fa	12938876	G	A	3	177	0.01695	coding	not_germline	non_hotspot	fail	TLR8	V573I	CCDS14152.1
+chrX.fa	12939928	T	C	377	378	0.99736	coding	germline	non_hotspot	fail	TLR8	N/A	CCDS14152.1
+chrX.fa	1317580	G	A	69	346	0.19942	coding	not_germline	non_hotspot	fail	CRLF2	S162F	NM_022148
+chrX.fa	14861831	C	T	3	449	0.00668	coding	not_germline	non_hotspot	fail	FANCB	R813K	CCDS14161.1
+chrX.fa	14863413	A	(null)	1	102	0.00980	noncoding	not_germline	non_hotspot	fail	FANCB	N/A	CCDS14161.1
+chrX.fa	14882859	G	A	3	293	0.01024	coding	not_germline	non_hotspot	fail	FANCB	N/A	CCDS14161.1
+chrX.fa	14883436	G	A	3	156	0.01923	coding	not_germline	non_hotspot	fail	FANCB	T66I	CCDS14161.1
+chrX.fa	20153967	G	A	2	200	0.01000	noncoding	not_germline	non_hotspot	fail	EIF1AX	N/A	CCDS14196.1
+chrX.fa	39933339	A	G	2058	2063	0.99758	coding	germline	non_hotspot	fail	BCOR	N/A	CCDS48093.1
+chrX.fa	44937723	C	A	3	197	0.01523	coding	not_germline	non_hotspot	fail	KDM6A	R971S	CCDS14265.1
+chrX.fa	44938513	T	A	2	154	0.01299	coding	not_germline	non_hotspot	fail	KDM6A	W1021R	CCDS14265.1
+chrX.fa	44942035	G	T	2	143	0.01399	coding	not_germline	non_hotspot	fail	KDM6A	N/A	CCDS14265.1
+chrX.fa	47039328	G	(null)	10	2455	0.00407	coding	not_germline	non_hotspot	fail	RBM10	A319Pfs*16	CCDS14274.1
+chrX.fa	47424500	C	(null)	5	1626	0.00308	coding	not_germline	non_hotspot	fail	ARAF	T142Qfs*6	CCDS35232.1
+chrX.fa	48664882	G	A	5	618	0.00809	noncoding	not_germline	non_hotspot	fail	HDAC6	N/A	CCDS14306.1
+chrX.fa	48675876	C	T	4	689	0.00581	noncoding	not_germline	non_hotspot	fail	HDAC6	N/A	CCDS14306.1
+chrX.fa	53228148	C	A	1827	1827	1.00000	noncoding	germline	non_hotspot	fail	KDM5C	N/A	CCDS14351.1
+chrX.fa	53231107	G	(null)	3	890	0.00337	coding	not_germline	non_hotspot	fail	KDM5C	R599Vfs*60	CCDS14351.1
+chrX.fa	53246959	C	T	484	484	1.00000	noncoding	germline	non_hotspot	fail	KDM5C	N/A	CCDS14351.1
+chrX.fa	53247457	C	A	3	221	0.01357	coding	not_germline	non_hotspot	fail	KDM5C	N/A	CCDS14351.1
+chrX.fa	66765159	GCAGCAGCA	(null)	125	447	0.27964	coding	not_germline	non_hotspot	fail	AR	Q61_Q63del	CCDS14387.1
+chrX.fa	66766412	C	T	790	793	0.99622	coding	germline	non_hotspot	pass	AR	A475V	CCDS14387.1
+chrX.fa	67331798	G	A	3	249	0.01205	coding	not_germline	non_hotspot	fail		S475F	CCDS14388.1
+chrX.fa	70342580	C	T	122	476	0.25630	noncoding	not_germline	non_hotspot	pass	MED12	N/A	CCDS43970.1
+chrX.fa	70343430	C	T	4	363	0.01102	noncoding	not_germline	non_hotspot	fail	MED12	N/A	CCDS43970.1
+chrX.fa	70351431	C	T	269	1012	0.26581	coding	not_germline	non_hotspot	pass	MED12	S1360F	CCDS43970.1
+chrX.fa	70586351	G	A	2	242	0.00826	noncoding	not_germline	non_hotspot	fail	TAF1	N/A	CCDS14412.1
+chrX.fa	76845352	C	T	3	158	0.01899	coding	not_germline	non_hotspot	fail	ATRX	A2057T	CCDS14434.1
+chrX.fa	76939750	T	A	4	240	0.01667	coding	not_germline	non_hotspot	fail	ATRX	D333V	CCDS14434.1
+chrX.fa	76944340	G	A	3	231	0.01299	coding	not_germline	non_hotspot	fail	ATRX	H189Y	CCDS14434.1
+chrY.fa	1267580	G	A	62	362	0.17127	coding	not_germline	non_hotspot	fail	CRLF2	S162F	NM_022148_loc2
+chrY.fa	1267600	ACAC	(null)	3	208	0.01442	noncoding	not_germline	non_hotspot	fail	CRLF2	N/A	NM_022148_loc2
+chrY.fa	1535079	C	T	1553	3594	0.43211	coding	not_germline	non_hotspot	fail	P2RY8	V125I	CCDS14115.1_loc2

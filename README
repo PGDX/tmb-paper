@@ -1,0 +1,31 @@
+eTMB Score Calculation
+
+The TMB score for a given set of variants and ROI size can be calculated with the "generate_TMB_score.R" script. 
+
+Usage: 
+    Rscript generate_TMB_score.R --input-variants=variants.txt --roi_size 1200000 
+
+Inputs:
+    1. --input-variants: file with pre-filtered variants following formatting specifications (see below)
+    2. --roi_size: size of coding ROI, in base pairs.  The coding ROI is the size of all exonic regions of interest in the targeted panel.
+
+Input variant file specifications:
+
+The input variant file should be formatted as a tab-delimited text file with the following required fields:
+    1. mut_reads: number of reads supporting the variant
+    2. total_reads: number of wild type + mutant reads aligning to the genomic position of the variant
+    3. variant_allele_fraction: fraction of total reads supporting the variant (mutant_reads / total_reads)
+    4. coding_noncoding: predicted variant consequence summarized as "coding" or "noncoding".
+        In the eTMB assay, synonymous and nonsynonymous variants as well as indels occurring in coding ROIs are considered "coding"
+    5. germline_status: Annotation on whether variant is predicted to be germline.  Allowed values are "germline" and "not_germline".
+        The eTMB assay uses a combination of the dbSNP, ExAC, gnomAD, and custom databases to populate this annotation
+    6. hotspot_status:  Annotation on whether the variant is a hotspot in cancer.  Allowed values are "hotspot" and "non_hotspot". eTMB uses 
+        the COSMIC database for this annotation
+    7. quality_pass_fail: variant passes or fails quality filters, such as mapping quality.  Allowed values are "pass" and "fail"
+    8.- Other fields are allowed as desired, without any requirement for header name or content.  These will not be used for the TMB score calculation.
+
+Output:
+
+    The script will output two files:
+    1. TMB_filtered_candidate_variants.txt - contains the filtered variants used to calculate the TMB score
+    2. TMB_score.txt - lists the TMB score and number of filtered variants used to calculate the TMB score
