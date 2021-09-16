@@ -12,6 +12,54 @@ library(tidyverse)
 # PGDx (2021)
 # Laurel Keefer and Sam Angiuoli
 
+## for processing args
+getOpts <- function(args){
+  opts <- c()
+  lastOpt <- ""
+  lastOptFlag <- F
+  for(arg in args){
+    if(lastOptFlag){
+      if(substr(arg, 1, 1) == "-"){
+        #Last opt was an on/off flag, set to empty string
+        opts[lastOpt] <- ""
+        if(grepl('=', arg)){
+          argParts <- unlist(strsplit(arg, "="))
+          opts[argParts[1]] <- paste(argParts[-1], collapse="=")
+          lastOptFlag <- F
+        }else{
+          lastOpt <- arg
+          lastOptFlag <- T
+        }
+      }else{
+        #Set last opt to this arg
+        opts[lastOpt] <- arg
+        lastOptFlag <- F
+      }
+    }else{
+      if(grepl('=', arg)){
+        argParts <- unlist(strsplit(arg, "="))
+        opts[argParts[1]] <- paste(argParts[-1], collapse="=")
+      }else{
+        lastOpt <- arg
+        lastOptFlag <- T
+      }
+    }
+  }
+  if(lastOptFlag){opts[lastOpt] <- ""}
+  return(opts)
+}
+
+## provides check if an argument is specified
+argSpecified <- function(arg){
+  isSpecified <- F
+  if(arg %in% names(argVals)){
+    if(argVals[arg] != ""){
+      isSpecified <- T
+    }
+  }
+  return(isSpecified)
+}
+
 # Reading user parameters
 # input_variants
 argVals <- getOpts(myArgs)
@@ -33,8 +81,8 @@ if(!argSpecified("--roi_size")){
   write("No ROI size specified!  Please provide size of coding ROI in bp", stderr())
   quit(status=1)
 }
-ROI_size <- argVals["--roi_size"]
-if(ROI_size%%1 !=0 ){
+ROI_size <- as.numeric(argVals["--roi_size"])
+if(ROI_size <1 ){
   write(sprintf("ROI size does not appear to be an integer\n\t%s",ROI_size), stderr())
   quit(status=1)
 }else if(ROI_size == 0) {
@@ -43,6 +91,7 @@ if(ROI_size%%1 !=0 ){
 }
 
 vars <- read.delim(inVariants)
+
 
 #filter variants
 filtered_vars <- vars %>% filter(mut_reads >= 4) %>%
